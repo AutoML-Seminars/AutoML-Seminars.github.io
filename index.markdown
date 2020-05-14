@@ -15,22 +15,24 @@ We do not share additional details only to avoid spam, everyone will be accepted
 To get the invites for the seminars, sign up [here](https://groups.google.com/d/forum/automl-seminars).
 
 
-## Next seminars
+## Upcoming seminars
 
-{% raw %}
+All seminars are happening on Thursday 4-5pm (CET), unless the description specifies a different day/time.
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FBerlin&amp;src=OGoycWIwajNlcHJ1ZzByNXEwMzZkYzczNWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23F4511E&amp;showTabs=0&amp;mode=AGENDA&amp;showPrint=0&amp;showCalendars=0&amp;showDate=0&amp;showNav=0&amp;hl=en" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+TBA
 
-{% endraw %}
+## Past seminars
+
 
 
 ## Become a speaker
 
-If you want to become a speaker, please send an email to XYZ
+If you want to become a speaker, please send an email to ADD EMAIL HERE
 
 ## Organizers
 
 * [Giovanni Zappella](https://giovannizappella.github.io/)
 * [Aaron Klein](https://aaronkl.github.io/)
+* [Arber Zela](https://ml.informatik.uni-freiburg.de/people/zela/index.html)
 
 Add more organizers here
