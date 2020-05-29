@@ -22,7 +22,7 @@ All seminars are happening on Thursday 4-5pm (CET), unless the description speci
 * 25th June -- Fabio Maria Carlucci: TBD
 * 9th July -- Matthias Seeger: "Model-based Asynchronous Hyperparameter Optimization"
 
-### Upcoming speakers
+### Who's next?
 
 * Frank Hutter 
 * Joaquin Vanschoren
