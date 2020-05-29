@@ -18,16 +18,19 @@ To get the invites for the seminars, sign up [here](https://groups.google.com/d/
 ## Upcoming seminars
 
 All seminars are happening on Thursday 4-5pm (CET), unless the description specifies a different day/time.
+* 11th June -- David Salinas: "A quantile-based approach for hyperparameter transfer learning"
+* 25th June -- Fabio Maria Carlucci: TBD
+* 9th July -- Matthias Seeger: "Model-based Asynchronous Hyperparameter Optimization"
 
-TBA
+### Upcoming speakers
 
-## Past seminars
-
+* Frank Hutter 
+* Joaquin Vanschoren
 
 
 ## Become a speaker
 
-If you want to become a speaker, please send an email to ADD EMAIL HERE
+If you want to become a speaker, please send an email to automl-seminars - at - googlegroups - dot - com or contact the organizers.
 
 ## Organizers
 
