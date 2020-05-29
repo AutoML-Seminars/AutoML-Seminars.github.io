@@ -38,4 +38,3 @@ If you want to become a speaker, please send an email to automl-seminars - at - 
 * [Aaron Klein](https://aaronkl.github.io/)
 * [Arber Zela](https://ml.informatik.uni-freiburg.de/people/zela/index.html)
 
-Add more organizers here
