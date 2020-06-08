@@ -5,8 +5,8 @@
 layout: default
 ---
 
-We are organizing a series of virtual seminars about Automatic Machine Learning (AutoML).
-Seminars are free and open to anyone. If you are interested in getting notified the details about the seminars and how to join, please sign up to the group listed below.
+We are organizing a series of virtual seminars about Automatic Machine Learning (AutoML). The idea is to have bi-weekly, one hour sessions with a 40 minute talk followed by Q/A session.
+The seminars are free and open to anyone. If you are interested in getting notified the details about the seminars and how to join, please sign up to the group listed below.
 
 We do not share additional details only to avoid spam, everyone will be accepted in the group and invited to all seminars.
 
@@ -19,7 +19,7 @@ To get the invites for the seminars, sign up [here](https://groups.google.com/d/
 
 All seminars are happening on Thursday 4-5pm (CET), unless the description specifies a different day/time.
 * 11th June -- David Salinas: "A quantile-based approach for hyperparameter transfer learning"
-* 25th June -- Fabio Maria Carlucci: "Why NAS evaluation is frustratingly hard and how Generator-based optimization can help"
+* 25th June -- Fabio Maria Carlucci: "Why NAS evaluation is frustratingly hard and how Generator-based optimization can help" 
 * 9th July -- Matthias Seeger: "Model-based Asynchronous Hyperparameter Optimization"
 * 23rd July -- Song Han: "AutoML for Tiny ML with Once-for-All Network"
 
