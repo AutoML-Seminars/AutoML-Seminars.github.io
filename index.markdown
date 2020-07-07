@@ -20,7 +20,7 @@ To get the invites for the seminars, sign up [here](https://groups.google.com/d/
 All seminars are happening on Thursday 4-5pm (CET), unless the description specifies a different day/time.
 * 11th June -- David Salinas: "A quantile-based approach for hyperparameter transfer learning"
 * 25th June -- Fabio Maria Carlucci: "Why NAS evaluation is frustratingly hard and how Generator-based optimization can help" 
-* 9th July -- Matthias Seeger: "Model-based Asynchronous Hyperparameter Optimization"
+* 9th July -- Matthias Seeger: "Model-based Asynchronous Hyperparameter and Neural Architecture Search"
 * 23rd July -- Song Han: "AutoML for Tiny ML with Once-for-All Network"
 
 ### Who's next?
