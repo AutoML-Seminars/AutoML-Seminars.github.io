@@ -13,6 +13,7 @@ We do not share additional details only to avoid spam, everyone will be accepted
 ## Signup
 
 To get the invites for the seminars, sign up [here](https://groups.google.com/d/forum/automl-seminars).
+
 Instructions to join the virtual seminars are available [here](https://automl-seminars.github.io/about/).
 
 
