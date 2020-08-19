@@ -36,5 +36,5 @@ If you want to become a speaker, please send an email to automl-seminars - at - 
 * David Salinas: "A quantile-based approach for hyperparameter transfer learning"
 * Fabio Maria Carlucci: "Why NAS evaluation is frustratingly hard and how Generator-based optimization can help" 
 * Matthias Seeger: "Model-based Asynchronous Hyperparameter and Neural Architecture Search"
-* Valerio Perrone: "Fair Bayesian Optimization"
+* Valerio Perrone: ["Fair Bayesian Optimization"](https://arxiv.org/abs/2006.05109)( [ICML Video](https://slideslive.com/38930648/fair-bayesian-optimization) )
 
