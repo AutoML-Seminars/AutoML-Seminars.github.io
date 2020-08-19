@@ -19,20 +19,7 @@ To get the invites for the seminars, sign up [here](https://groups.google.com/d/
 
 All seminars are happening on Thursday 4-5pm (CET), unless the description specifies a different day/time.
 
-* 23rd July -- Song Han: "AutoML for Tiny ML with Once-for-All Network"
 * short summer break
-
-### Who's next?
-
-* Frank Hutter 
-* Joaquin Vanschoren
-* Zohar Karnin
-* Matthias Poloczek
-
-## Past seminars
-* David Salinas: "A quantile-based approach for hyperparameter transfer learning"
-* Fabio Maria Carlucci: "Why NAS evaluation is frustratingly hard and how Generator-based optimization can help" 
-* Matthias Seeger: "Model-based Asynchronous Hyperparameter and Neural Architecture Search"
 
 
 ## Become a speaker
@@ -44,4 +31,10 @@ If you want to become a speaker, please send an email to automl-seminars - at - 
 * [Giovanni Zappella](https://giovannizappella.github.io/)
 * [Aaron Klein](https://aaronkl.github.io/)
 * [Arber Zela](https://ml.informatik.uni-freiburg.de/people/zela/index.html)
+
+## Past seminars
+* David Salinas: "A quantile-based approach for hyperparameter transfer learning"
+* Fabio Maria Carlucci: "Why NAS evaluation is frustratingly hard and how Generator-based optimization can help" 
+* Matthias Seeger: "Model-based Asynchronous Hyperparameter and Neural Architecture Search"
+* Valerio Perrone: "Fair Bayesian Optimization"
 
