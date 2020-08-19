@@ -21,7 +21,11 @@ Instructions to join the virtual seminars are available [here](https://automl-se
 
 All seminars are happening on Thursday 4-5pm (CET), unless the description specifies a different day/time.
 
-* short summer break
+* Aug. 27th -- Frank Hutter
+* Sept. 10th -- Joaquin Vanschoren
+* Sept. 24th -- Matthias Polozeck
+* Oct. 8th -- Rodolphe Jenatton
+* Oct. 22nd -- Zohar Karnin
 
 
 ## Become a speaker
