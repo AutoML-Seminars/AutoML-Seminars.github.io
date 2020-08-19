@@ -21,11 +21,11 @@ Instructions to join the virtual seminars are available [here](https://automl-se
 
 All seminars are happening on Thursday 4-5pm (CET), unless the description specifies a different day/time.
 
-* Aug. 27th -- Frank Hutter
-* Sept. 10th -- Joaquin Vanschoren
-* Sept. 24th -- Matthias Polozeck
-* Oct. 8th -- Rodolphe Jenatton
-* Oct. 22nd -- Zohar Karnin
+* Aug. 27th -- [Frank Hutter](http://aad.informatik.uni-freiburg.de/people/hutter/) (University of Freiburg)
+* Sept. 10th -- [Joaquin Vanschoren](https://joaquinvanschoren.github.io/home/) (Eindhoven University of Technology)
+* Sept. 24th -- [Matthias Polozeck](https://scholar.google.com/citations?user=g5BRMkoAAAAJ&hl=en) (Uber AI)
+* Oct. 8th -- [Rodolphe Jenatton](http://rodolphejenatton.com/) (Google Brain)
+* Oct. 22nd -- [Zohar Karnin](https://scholar.google.com/citations?user=aUsrzjgAAAAJ&hl=en) (Amazon AWS)
 
 
 ## Become a speaker
@@ -34,13 +34,13 @@ If you want to become a speaker, please send an email to automl-seminars - at - 
 
 ## Organizers
 
-* [Giovanni Zappella](https://giovannizappella.github.io/)
-* [Aaron Klein](https://aaronkl.github.io/)
-* [Arber Zela](https://ml.informatik.uni-freiburg.de/people/zela/index.html)
+* [Giovanni Zappella](https://giovannizappella.github.io/) (Amazon)
+* [Aaron Klein](https://aaronkl.github.io/) (Amazon)
+* [Arber Zela](https://ml.informatik.uni-freiburg.de/people/zela/index.html) (University of Freiburg)
 
 ## Past seminars
-* David Salinas: "A quantile-based approach for hyperparameter transfer learning"
-* Fabio Maria Carlucci: [Why NAS evaluation is frustratingly hard](https://openreview.net/forum?id=HygrdpVKvr) and [how Generator-based optimization can help](https://arxiv.org/abs/2004.01395)”  ([Slides](https://docs.google.com/presentation/d/1j9U8Tl1faTkXLN_dc5mf9ack1YVBq3N3FH86wbAyDwg/edit?usp=sharing))
-* Matthias Seeger: "Model-based Asynchronous Hyperparameter and Neural Architecture Search"
-* Valerio Perrone: ["Fair Bayesian Optimization"](https://arxiv.org/abs/2006.05109)([ICML Video](https://slideslive.com/38930648/fair-bayesian-optimization))
+* [David Salinas](https://geoalgo.github.io/) (Naver Labs): "A quantile-based approach for hyperparameter transfer learning"
+* [Fabio Maria Carlucci](https://fmcarlucci.github.io/) (Huawei): [Why NAS evaluation is frustratingly hard](https://openreview.net/forum?id=HygrdpVKvr) and [how Generator-based optimization can help](https://arxiv.org/abs/2004.01395)”  ([Slides](https://docs.google.com/presentation/d/1j9U8Tl1faTkXLN_dc5mf9ack1YVBq3N3FH86wbAyDwg/edit?usp=sharing))
+* [Matthias Seeger](https://mseeger.github.io/) (Amazon): "Model-based Asynchronous Hyperparameter and Neural Architecture Search"
+* [Valerio Perrone](https://sites.google.com/view/valerioperrone/) (Amazon): ["Fair Bayesian Optimization"](https://arxiv.org/abs/2006.05109)([ICML Video](https://slideslive.com/38930648/fair-bayesian-optimization))
 
