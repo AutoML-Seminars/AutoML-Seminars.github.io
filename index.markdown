@@ -21,8 +21,8 @@ Instructions to join the virtual seminars are available [here](https://automl-se
 
 All seminars are happening on Thursday 4-5pm (CET), unless the description specifies a different day/time.
 
-* Aug. 27th -- [Frank Hutter](http://aad.informatik.uni-freiburg.de/people/hutter/) (University of Freiburg)
-* Sept. 10th -- [Joaquin Vanschoren](https://joaquinvanschoren.github.io/home/) (Eindhoven University of Technology)
+* Aug. 27th -- [Frank Hutter](http://aad.informatik.uni-freiburg.de/people/hutter/) (University of Freiburg) - Neural Architecture Search: Coming of Age
+* Sept. 10th -- [Joaquin Vanschoren](https://joaquinvanschoren.github.io/home/) (Eindhoven University of Technology) - Towards ever-learning AutoML
 * Sept. 24th -- [Matthias Polozeck](https://scholar.google.com/citations?user=g5BRMkoAAAAJ&hl=en) (Uber AI)
 * Oct. 8th -- [Rodolphe Jenatton](http://rodolphejenatton.com/) (Google Brain)
 * Oct. 22nd -- [Zohar Karnin](https://scholar.google.com/citations?user=aUsrzjgAAAAJ&hl=en) (Amazon AWS)
