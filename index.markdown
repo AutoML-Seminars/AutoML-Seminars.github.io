@@ -43,6 +43,6 @@ If you want to become a speaker, please send an email to automl-seminars - at - 
 * [Fabio Maria Carlucci](https://fmcarlucci.github.io/) (Huawei): [Why NAS evaluation is frustratingly hard](https://openreview.net/forum?id=HygrdpVKvr) and [how Generator-based optimization can help](https://arxiv.org/abs/2004.01395)”  ([Slides](https://docs.google.com/presentation/d/1j9U8Tl1faTkXLN_dc5mf9ack1YVBq3N3FH86wbAyDwg/edit?usp=sharing))
 * [Matthias Seeger](https://mseeger.github.io/) (Amazon): ["Model-based Asynchronous Hyperparameter and Neural Architecture Search"](https://arxiv.org/abs/2003.10865)
 * [Valerio Perrone](https://sites.google.com/view/valerioperrone/) (Amazon): ["Fair Bayesian Optimization"](https://arxiv.org/abs/2006.05109)([ICML Video](https://slideslive.com/38930648/fair-bayesian-optimization))
-[Frank Hutter](http://aad.informatik.uni-freiburg.de/people/hutter/) (University of Freiburg) - Neural Architecture Search: Coming of Age([slides](https://www.dropbox.com/s/4nv8fuhuenxsx87/Frank_Hutter__NAS_Coming_of_Age_2020.pdf?dl=0))
-[Joaquin Vanschoren](https://joaquinvanschoren.github.io/home/) (Eindhoven University of Technology) - Towards ever-learning AutoML
+* [Frank Hutter](http://aad.informatik.uni-freiburg.de/people/hutter/) (University of Freiburg) - Neural Architecture Search: Coming of Age([slides](https://www.dropbox.com/s/4nv8fuhuenxsx87/Frank_Hutter__NAS_Coming_of_Age_2020.pdf?dl=0))
+* [Joaquin Vanschoren](https://joaquinvanschoren.github.io/home/) (Eindhoven University of Technology) - Towards ever-learning AutoML
 
