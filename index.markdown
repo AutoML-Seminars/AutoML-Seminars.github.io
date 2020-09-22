@@ -37,6 +37,8 @@ If you want to become a speaker, please send an email to automl-seminars - at - 
 * [Giovanni Zappella](https://giovannizappella.github.io/) (Amazon)
 * [Aaron Klein](https://aaronkl.github.io/) (Amazon)
 * [Arber Zela](https://ml.informatik.uni-freiburg.de/people/zela/index.html) (University of Freiburg)
+* [Frank Hutter](https://ml.informatik.uni-freiburg.de/people/hutter/index.html) (University of Freiburg)
+* [Cédric Archambeau](http://www0.cs.ucl.ac.uk/staff/c.archambeau/) (Amazon)
 
 ## Past seminars
 * [David Salinas](https://geoalgo.github.io/) (Naver Labs): ["A quantile-based approach for hyperparameter transfer learning"](https://arxiv.org/abs/1909.13595)
