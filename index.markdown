@@ -26,7 +26,7 @@ All seminars are happening on Thursday 4-5pm (CET), unless the description speci
 
 * Oct. 22nd -- [Zohar Karnin](https://scholar.google.com/citations?user=aUsrzjgAAAAJ&hl=en) (Amazon AWS)
 * Nov. 5th -- [Colin White](https://crwhite.ml/) (Abacus.ai)
-
+* Nov. 19th -- [Sebastian Flennerhag](http://flennerhag.com/) (Deepmind)
 
 ## Become a speaker
 
@@ -48,5 +48,4 @@ If you want to become a speaker, please send an email to automl-seminars - at - 
 * [Frank Hutter](http://aad.informatik.uni-freiburg.de/people/hutter/) (University of Freiburg) - Neural Architecture Search: Coming of Age([slides](https://www.dropbox.com/s/4nv8fuhuenxsx87/Frank_Hutter__NAS_Coming_of_Age_2020.pdf?dl=0))
 * [Joaquin Vanschoren](https://joaquinvanschoren.github.io/home/) (Eindhoven University of Technology) - Towards ever-learning AutoML
 * [Matthias Polozeck](https://scholar.google.com/citations?user=g5BRMkoAAAAJ&hl=en) (Uber AI) - Scalable Bayesian optimization for Industrial Applications
-* [Rodolphe Jenatton](http://rodolphejenatton.com/) (Google Brain)
-
+* [Rodolphe Jenatton](http://rodolphejenatton.com/) (Google Brain) - Hyperparameter Ensembles for Robustness and Uncertainty Quantification
