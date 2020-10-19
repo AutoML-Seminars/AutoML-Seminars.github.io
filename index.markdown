@@ -5,7 +5,7 @@
 layout: default
 ---
 
-We are organizing a series of virtual seminars about Automatic Machine Learning (AutoML). The idea is to have bi-weekly, one hour sessions with a 40 minute talk followed by Q/A session.
+We are organizing a series of virtual seminars about Automatic Machine Learning (AutoML) as part of the ELLIS units [Berlin](https://ellis.eu/units/berlin) and [Freiburg](https://ellis.eu/units/freiburg). The idea is to have bi-weekly, one hour sessions with a 40 minute talk followed by Q/A session.
 The seminars are free and open to anyone. If you are interested in getting notified the details about the seminars and how to join, please sign up to the group listed below.
 
 Talks will **not** be recorded in order to avoid that attendees would require additional approval to join, and to encourage questions during the talk.
