@@ -24,8 +24,7 @@ Instructions to join the virtual seminars are available [here](https://automl-se
 All seminars are happening on Thursday 4-5pm (CET), unless the description specifies a different day/time.
 
 
-* Oct. 22nd -- [Zohar Karnin](https://scholar.google.com/citations?user=aUsrzjgAAAAJ&hl=en) (Amazon AWS)
-* Nov. 5th -- [Colin White](https://crwhite.ml/) (Abacus.ai)
+* Nov. 5th -- [Colin White](https://crwhite.ml/) (Abacus.ai) - Bananas, Encodings, and Local Search: Insights into Neural Architecture Search ([ref1](https://arxiv.org/abs/1910.11858),[ref2](https://arxiv.org/abs/2007.04965),[ref3](https://arxiv.org/abs/2005.02960))
 * Nov. 19th -- [Sebastian Flennerhag](http://flennerhag.com/) (Deepmind)
 
 ## Become a speaker
@@ -49,3 +48,5 @@ If you want to become a speaker, please send an email to automl-seminars - at - 
 * [Joaquin Vanschoren](https://joaquinvanschoren.github.io/home/) (Eindhoven University of Technology) - Towards ever-learning AutoML
 * [Matthias Polozeck](https://scholar.google.com/citations?user=g5BRMkoAAAAJ&hl=en) (Uber AI) - Scalable Bayesian optimization for Industrial Applications
 * [Rodolphe Jenatton](http://rodolphejenatton.com/) (Google Brain) - Hyperparameter Ensembles for Robustness and Uncertainty Quantification
+* [Zohar Karnin](https://scholar.google.com/citations?user=aUsrzjgAAAAJ&hl=en) (Amazon AWS) - Practical and sample efficient zero-shot HPO
+
