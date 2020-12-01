@@ -24,8 +24,8 @@ Instructions to join the virtual seminars are available [here](https://automl-se
 All seminars are happening on Thursday 4-5pm (CET), unless the description specifies a different day/time.
 
 
-* Nov. 19th -- [Sebastian Flennerhag](http://flennerhag.com/) (Deepmind) - Jointly learning a model and its learning rule
-* Dec. 3rd  -- [Binxin (Robin) Ru](https://rubinxin.github.io/) (University of Oxford) - Interpretable Neural Architecture Search and Efficient Performance Estimation 
+
+* Dec. 3rd  -- [Binxin (Robin) Ru](https://rubinxin.github.io/) (University of Oxford) - Interpretable Neural Architecture Search  
 
 ## Become a speaker
 
@@ -50,4 +50,4 @@ If you want to become a speaker, please send an email to automl-seminars - at - 
 * [Rodolphe Jenatton](http://rodolphejenatton.com/) (Google Brain) - Hyperparameter Ensembles for Robustness and Uncertainty Quantification
 * [Zohar Karnin](https://scholar.google.com/citations?user=aUsrzjgAAAAJ&hl=en) (Amazon AWS) - Practical and sample efficient zero-shot HPO
 * [Colin White](https://crwhite.ml/) (Abacus.ai) - Bananas, Encodings, and Local Search: Insights into Neural Architecture Search ([ref1](https://arxiv.org/abs/1910.11858),[ref2](https://arxiv.org/abs/2007.04965),[ref3](https://arxiv.org/abs/2005.02960))
-
+* [Sebastian Flennerhag](http://flennerhag.com/) (Deepmind) - Jointly learning a model and its learning rule
