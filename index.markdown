@@ -40,7 +40,7 @@ If you want to become a speaker, please send an email to automl-seminars - at - 
 * [Cédric Archambeau](http://www0.cs.ucl.ac.uk/staff/c.archambeau/) (Amazon)
 
 ## Past seminars
-* [David Salinas](https://geoalgo.github.io/) (Naver Labs): ["A quantile-based approach for hyperparameter transfer learning"](https://arxiv.org/abs/1909.13595)
+* [David Salinas](https://geoalgo.github.io/) (Naver Labs): ["A quantile-based approach for hyperparameter transfer learning"](https://proceedings.icml.cc/static/paper_files/icml/2020/4367-Paper.pdf)
 * [Fabio Maria Carlucci](https://fmcarlucci.github.io/) (Huawei): [Why NAS evaluation is frustratingly hard](https://openreview.net/forum?id=HygrdpVKvr) and [how Generator-based optimization can help](https://arxiv.org/abs/2004.01395)”  ([Slides](https://docs.google.com/presentation/d/1j9U8Tl1faTkXLN_dc5mf9ack1YVBq3N3FH86wbAyDwg/edit?usp=sharing))
 * [Matthias Seeger](https://mseeger.github.io/) (Amazon): ["Model-based Asynchronous Hyperparameter and Neural Architecture Search"](https://arxiv.org/abs/2003.10865)
 * [Valerio Perrone](https://sites.google.com/view/valerioperrone/) (Amazon): ["Fair Bayesian Optimization"](https://arxiv.org/abs/2006.05109)([ICML Video](https://slideslive.com/38930648/fair-bayesian-optimization))
