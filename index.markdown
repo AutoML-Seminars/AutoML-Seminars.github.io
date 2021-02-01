@@ -24,8 +24,11 @@ Instructions to join the virtual seminars are available [here](https://automl-se
 All seminars are happening on Thursday 4-5pm (CET), unless the description specifies a different day/time.
 
 
-
-* Dec. 3rd  -- [Binxin (Robin) Ru](https://rubinxin.github.io/) (University of Oxford) - Interpretable Neural Architecture Search  
+* Feb. 12th  -- [Jeff Clune](http://jeffclune.com/) (OpenAI) - Learning to Continually Learn
+* Feb. 25th  -- [Arber Zela](https://ml.informatik.uni-freiburg.de/people/zela/index.html) (University of Freiburg & ELLIS) - Neural Ensemble Search for Uncertainty Estimation and Dataset Shift
+* Mar. 12th  -- [Marius Lindauer](https://www.tnt.uni-hannover.de/en/staff/lindauer/) (University of Hannover) - TBA
+* Mar. 25th  -- [Josif Grabocka](https://relea.informatik.uni-freiburg.de/people/josif-grabocka) (University of Freiburg) - TBA
+* Apr. 8th  -- [Xuanyi Dong](https://xuanyidong.com/) (University of Sydney) - TBA
 
 ## Become a speaker
 
@@ -51,3 +54,5 @@ If you want to become a speaker, please send an email to automl-seminars - at - 
 * [Zohar Karnin](https://scholar.google.com/citations?user=aUsrzjgAAAAJ&hl=en) (Amazon AWS) - Practical and sample efficient zero-shot HPO
 * [Colin White](https://crwhite.ml/) (Abacus.ai) - Bananas, Encodings, and Local Search: Insights into Neural Architecture Search ([ref1](https://arxiv.org/abs/1910.11858),[ref2](https://arxiv.org/abs/2007.04965),[ref3](https://arxiv.org/abs/2005.02960))
 * [Sebastian Flennerhag](http://flennerhag.com/) (Deepmind) - Jointly learning a model and its learning rule
+* [Binxin (Robin) Ru](https://rubinxin.github.io/) (University of Oxford) - Interpretable Neural Architecture Search  
+
