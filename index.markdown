@@ -28,7 +28,7 @@ All seminars are happening on Thursday 4-5pm (CET), unless the description speci
 * Feb. 25th  -- [Arber Zela](https://ml.informatik.uni-freiburg.de/people/zela/index.html) (University of Freiburg & ELLIS) - Neural Ensemble Search for Uncertainty Estimation and Dataset Shift
 * Mar. 12th  -- [Marius Lindauer](https://www.tnt.uni-hannover.de/en/staff/lindauer/) (University of Hannover) - TBA
 * Mar. 25th  -- [Josif Grabocka](https://relea.informatik.uni-freiburg.de/people/josif-grabocka) (University of Freiburg) - TBA
-* Apr. 8th  -- [Xuanyi Dong](https://xuanyidong.com/) (University of Sydney) - TBA
+* Apr. 8th  -- [Xuanyi Dong](https://xuanyidong.com/) (University of Technology Sydney) - TBA
 
 ## Become a speaker
 
