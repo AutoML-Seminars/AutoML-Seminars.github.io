@@ -23,9 +23,10 @@ Instructions to join the virtual seminars are available [here](https://automl-se
 
 All seminars are happening on Thursday 4-5pm (CET), unless the description specifies a different day/time.
 
-* Mar. 12th  -- [Marius Lindauer](https://www.tnt.uni-hannover.de/en/staff/lindauer/) (University of Hannover) - TBA
+* Mar. 11th  -- [Marius Lindauer](https://www.tnt.uni-hannover.de/en/staff/lindauer/) (University of Hannover) - Towards Explainable AutoML: xAutoML
 * Mar. 25th  -- [Josif Grabocka](https://relea.informatik.uni-freiburg.de/people/josif-grabocka) (University of Freiburg) - TBA
 * Apr. 8th  -- [Xuanyi Dong](https://xuanyidong.com/) (University of Technology Sydney) - TBA
+* Apr. 22nd -- [Wuyang Chen](https://chenwydj.github.io/) (University of Texas at Austin) - TBA
 
 ## Become a speaker
 
