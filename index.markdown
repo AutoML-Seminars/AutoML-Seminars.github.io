@@ -23,7 +23,6 @@ Instructions to join the virtual seminars are available [here](https://automl-se
 
 All seminars are happening on Thursday 4-5pm (CET), unless the description specifies a different day/time.
 
-* Mar. 11th  -- [Marius Lindauer](https://www.tnt.uni-hannover.de/en/staff/lindauer/) (University of Hannover) - Towards Explainable AutoML: xAutoML
 * Mar. 25th  -- [Josif Grabocka](https://relea.informatik.uni-freiburg.de/people/josif-grabocka) (University of Freiburg) - TBA
 * Apr. 8th  -- [Xuanyi Dong](https://xuanyidong.com/) (University of Technology Sydney) - TBA
 * Apr. 22nd -- [Wuyang Chen](https://chenwydj.github.io/) (University of Texas at Austin) - TBA
@@ -53,5 +52,7 @@ If you want to become a speaker, please send an email to automl-seminars - at - 
 * [Colin White](https://crwhite.ml/) (Abacus.ai) - Bananas, Encodings, and Local Search: Insights into Neural Architecture Search ([ref1](https://arxiv.org/abs/1910.11858),[ref2](https://arxiv.org/abs/2007.04965),[ref3](https://arxiv.org/abs/2005.02960))
 * [Sebastian Flennerhag](http://flennerhag.com/) (Deepmind) - Jointly learning a model and its learning rule
 * [Binxin (Robin) Ru](https://rubinxin.github.io/) (University of Oxford) - Interpretable Neural Architecture Search  
-* [Jeff Clune](http://jeffclune.com/) (OpenAI) - Learning to Continually Learn
-* [Arber Zela](https://ml.informatik.uni-freiburg.de/people/zela/index.html) (University of Freiburg & ELLIS) - Neural Ensemble Search for Uncertainty Estimation and Dataset Shift
+* [Jeff Clune](http://jeffclune.com/) (OpenAI) - ["Learning to Continually Learn"](https://slideslive.com/38930882/learning-to-continually-learn?)
+* [Arber Zela](https://ml.informatik.uni-freiburg.de/people/zela/index.html) (University of Freiburg & ELLIS) - ["Neural Ensemble Search for Uncertainty Estimation and Dataset Shift"](https://www.automl.org/wp-content/uploads/2021/03/AutoML_seminar__NES.pdf)
+* [Marius Lindauer](https://www.tnt.uni-hannover.de/en/staff/lindauer/) (University of Hannover) - ["Towards Explainable AutoML: xAutoML"](https://www.automl.org/wp-content/uploads/2021/03/xAutoML-PDP.pdf)
+
