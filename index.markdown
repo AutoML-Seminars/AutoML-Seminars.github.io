@@ -23,9 +23,8 @@ Instructions to join the virtual seminars are available [here](https://automl-se
 
 All seminars are happening on Thursday 4-5pm (CET), unless the description specifies a different day/time.
 
-* Mar. 25th  -- [Josif Grabocka](https://relea.informatik.uni-freiburg.de/people/josif-grabocka) (University of Freiburg) - TBA
 * Apr. 8th  -- [Xuanyi Dong](https://xuanyidong.com/) (University of Technology Sydney) - TBA
-* Apr. 22nd -- [Wuyang Chen](https://chenwydj.github.io/) (University of Texas at Austin) - TBA
+* Apr. 22nd -- [Wuyang Chen](https://chenwydj.github.io/) (University of Texas at Austin) - "Neural Architecture Search on ImageNet in Four GPU Hours: A Theoretically Inspired Perspective"
 
 ## Become a speaker
 
@@ -55,4 +54,5 @@ If you want to become a speaker, please send an email to automl-seminars - at - 
 * [Jeff Clune](http://jeffclune.com/) (OpenAI) - ["Learning to Continually Learn"](https://slideslive.com/38930882/learning-to-continually-learn?)
 * [Arber Zela](https://ml.informatik.uni-freiburg.de/people/zela/index.html) (University of Freiburg & ELLIS) - ["Neural Ensemble Search for Uncertainty Estimation and Dataset Shift"](https://www.automl.org/wp-content/uploads/2021/03/AutoML_seminar__NES.pdf)
 * [Marius Lindauer](https://www.tnt.uni-hannover.de/en/staff/lindauer/) (University of Hannover) - ["Towards Explainable AutoML: xAutoML"](https://www.automl.org/wp-content/uploads/2021/03/xAutoML-PDP.pdf)
+* [Josif Grabocka](https://relea.informatik.uni-freiburg.de/people/josif-grabocka) (University of Freiburg) - "Deep Learning for Tabular Datasets"
 
