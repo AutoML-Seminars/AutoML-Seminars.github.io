@@ -55,5 +55,5 @@ If you want to become a speaker, please send an email to automl-seminars - at - 
 * [Arber Zela](https://ml.informatik.uni-freiburg.de/people/zela/index.html) (University of Freiburg & ELLIS) - ["Neural Ensemble Search for Uncertainty Estimation and Dataset Shift"](https://www.automl.org/wp-content/uploads/2021/03/AutoML_seminar__NES.pdf)
 * [Marius Lindauer](https://www.tnt.uni-hannover.de/en/staff/lindauer/) (University of Hannover) - ["Towards Explainable AutoML: xAutoML"](https://www.automl.org/wp-content/uploads/2021/03/xAutoML-PDP.pdf)
 * [Josif Grabocka](https://relea.informatik.uni-freiburg.de/people/josif-grabocka) (University of Freiburg) - "Deep Learning for Tabular Datasets"
-* [Xuanyi Dong](https://xuanyidong.com/) (University of Technology Sydney) - ["Extending the Search from Architecture to Hyperparameter, Hardware, and System"](https://youtu.be/M1hnFohVhtM)
+* [Xuanyi Dong](https://xuanyidong.com/) (University of Technology Sydney) - ["Extending the Search from Architecture to Hyperparameter, Hardware, and System"](https://youtu.be/ayjKCVxRW2Y)
 
