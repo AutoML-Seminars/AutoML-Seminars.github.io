@@ -24,7 +24,7 @@ Instructions to join the virtual seminars are available [here](https://automl-se
 
 All seminars are happening on Thursday 4-5pm (CET), unless the description specifies a different day/time.
 
-* May 6th -- [Gabriel Bender](https://scholar.google.com/citations?user=6D-XbmAAAAAJ&hl=de) (Google Brain) - "Can weight sharing outperform random architecture search? An investigation with TuNAS"
+* May 6th (**talk will be at 6pm CEST**) -- [Gabriel Bender](https://scholar.google.com/citations?user=6D-XbmAAAAAJ&hl=de) (Google Brain) - "Can weight sharing outperform random architecture search? An investigation with TuNAS"
 * May 20th -- [Louis Tiao](https://tiao.io/) (University of Sydney) - "Bayesian Optimization as Binary Classification Problem"
 
 ## Become a speaker
