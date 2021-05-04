@@ -24,7 +24,8 @@ Instructions to join the virtual seminars are available [here](https://automl-se
 
 All seminars are happening on Thursday 4-5pm (CET), unless the description specifies a different day/time.
 
-* Apr. 22nd -- [Wuyang Chen](https://chenwydj.github.io/) (University of Texas at Austin) - "Neural Architecture Search on ImageNet in Four GPU Hours: A Theoretically Inspired Perspective"
+* May 6th -- [Gabriel Bender](https://scholar.google.com/citations?user=6D-XbmAAAAAJ&hl=de) (Google Brain) - "Can weight sharing outperform random architecture search? An investigation with TuNAS"
+* May 20th -- [Louis Tiao](https://tiao.io/) (University of Sydney) - "Bayesian Optimization as Binary Classification Problem"
 
 ## Become a speaker
 
@@ -41,6 +42,8 @@ If you want to become a speaker, please send an email to automl-seminars - at - 
 
 ## Past seminars
 
+
+* [Wuyang Chen](https://chenwydj.github.io/) (University of Texas at Austin) - "Neural Architecture Search on ImageNet in Four GPU Hours: A Theoret    ically Inspired Perspective" [(video)](https://www.youtube.com/watch?v=o8V1LeZaPwU&t=1152s)
 * [Xuanyi Dong](https://xuanyidong.com/) (University of Technology Sydney) - Extending the Search from Architecture to Hyperparameter, Hardware, and System [(video)](https://youtu.be/ayjKCVxRW2Y)
 * [Josif Grabocka](https://relea.informatik.uni-freiburg.de/people/josif-grabocka) (University of Freiburg) - "Deep Learning for Tabular Datasets"
 * [Marius Lindauer](https://www.tnt.uni-hannover.de/en/staff/lindauer/) (University of Hannover) - ["Towards Explainable AutoML: xAutoML"](https://www.automl.org/wp-content/uploads/2021/03/xAutoML-PDP.pdf)
