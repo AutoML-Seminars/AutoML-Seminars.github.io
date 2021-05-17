@@ -24,7 +24,7 @@ Instructions to join the virtual seminars are available [here](https://automl-se
 
 All seminars are happening on Thursday 4-5pm (CET), unless the description specifies a different day/time.
 
-* May 20th -- [Louis Tiao](https://tiao.io/) (University of Sydney) - "Bayesian Optimization as Binary Classification Problem"
+* May 20th -- [Louis Tiao](https://tiao.io/) (University of Sydney) - ["Bayesian Optimization by Classification"](https://tiao.io/publication/bore-2/)
 * June 3rd -- [Yan Wu](#)
 * June 17th -- TBA
 * July 1st -- [Debadeepta Dey](https://www.microsoft.com/en-us/research/people/dedey/) (Microsoft Research)
