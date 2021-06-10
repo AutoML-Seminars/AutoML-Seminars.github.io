@@ -24,8 +24,6 @@ Instructions to join the virtual seminars are available [here](https://automl-se
 
 All seminars are happening on Thursday 4-5pm (CET), unless the description specifies a different day/time.
 
-* May 20th -- [Louis Tiao](https://tiao.io/) (University of Sydney) - ["Bayesian Optimization by Classification"](https://tiao.io/publication/bore-2/)
-* June 3rd -- Yan Wu (ETH Zurich) - ["Neural Architecture Search as Sparse Supernet"](https://arxiv.org/pdf/2007.16112v2.pdf)
 * June 17th -- [Jörg Franke](https://ml.informatik.uni-freiburg.de/people/franke/index.html) (University of Freiburg) - ["Sample-Efficient Automated Deep Reinforcement Learning"](https://arxiv.org/abs/2009.01555)
 * July 1st -- [Debadeepta Dey](https://www.microsoft.com/en-us/research/people/dedey/) (Microsoft Research)
 * July 15th -- [Bilge Celik](https://research.tue.nl/en/persons/bilge-celik-aydin) (Eindhoven University of Technology)
@@ -45,7 +43,8 @@ If you want to become a speaker, please send an email to automl-seminars - at - 
 
 ## Past seminars
 
-
+* Yan Wu (ETH Zurich) - "NAS as Sparse Supernet" & "Trilevel NAS for Efficient Single Image Super-Resolution" [(video)](https://www.youtube.com/watch?v=zcXsRJ69g3c)
+* [Louis Tiao](https://tiao.io/) (University of Sydney) - "Bayesian Optimization by Classification" [(video)](https://www.youtube.com/watch?v=eT3nHnN3OYA)
 * [Gabriel Bender](https://scholar.google.com/citations?user=6D-XbmAAAAAJ&hl=de) (Google Brain) - "Can weight sharing outperform random architecture search? An investigation with TuNAS" [(video)](https://youtu.be/JbtZVQVJbY8)
 * [Wuyang Chen](https://chenwydj.github.io/) (University of Texas at Austin) - "Neural Architecture Search on ImageNet in Four GPU Hours: A Theoretically Inspired Perspective" [(video)](https://www.youtube.com/watch?v=o8V1LeZaPwU&t=1152s)
 * [Xuanyi Dong](https://xuanyidong.com/) (University of Technology Sydney) - Extending the Search from Architecture to Hyperparameter, Hardware, and System [(video)](https://youtu.be/ayjKCVxRW2Y)
