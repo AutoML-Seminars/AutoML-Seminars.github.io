@@ -26,7 +26,7 @@ All seminars are happening on Thursday 4-5pm (CET), unless the description speci
 
 * May 20th -- [Louis Tiao](https://tiao.io/) (University of Sydney) - ["Bayesian Optimization by Classification"](https://tiao.io/publication/bore-2/)
 * June 3rd -- Yan Wu (ETH Zurich) - ["Neural Architecture Search as Sparse Supernet"](https://arxiv.org/pdf/2007.16112v2.pdf)
-* June 17th -- TBA
+* June 17th -- [Jörg Franke](https://ml.informatik.uni-freiburg.de/people/franke/index.html) - ["Sample-Efficient Automated Deep Reinforcement Learning"](https://arxiv.org/abs/2009.01555)
 * July 1st -- [Debadeepta Dey](https://www.microsoft.com/en-us/research/people/dedey/) (Microsoft Research)
 * July 15th -- [Bilge Celik](https://research.tue.nl/en/persons/bilge-celik-aydin) (Eindhoven University of Technology)
 
