@@ -42,9 +42,8 @@ If you want to become a speaker, please send an email to automl-seminars - at - 
 
 ## Past seminars
 
-
-* [Jörg Franke](https://ml.informatik.uni-freiburg.de/people/franke/index.html) (University of Freiburg) - ["Sample-Efficient Automated Deep Reinforcement Learning"](https://arxiv.org/abs/2009.01555)
 * [Debadeepta Dey](https://www.microsoft.com/en-us/research/people/dedey/) (Microsoft Research) - ["Ranking Architectures by their Feature Extraction Capabilities"]()
+* [Jörg Franke](https://ml.informatik.uni-freiburg.de/people/franke/index.html) (University of Freiburg) - ["Sample-Efficient Automated Deep Reinforcement Learning"](https://arxiv.org/abs/2009.01555)
 * Yan Wu (ETH Zurich) - "NAS as Sparse Supernet" & "Trilevel NAS for Efficient Single Image Super-Resolution" [(video)](https://www.youtube.com/watch?v=zcXsRJ69g3c)
 * [Louis Tiao](https://tiao.io/) (University of Sydney) - "Bayesian Optimization by Classification" [(video)](https://www.youtube.com/watch?v=eT3nHnN3OYA)
 * [Gabriel Bender](https://scholar.google.com/citations?user=6D-XbmAAAAAJ&hl=de) (Google Brain) - "Can weight sharing outperform random architecture search? An investigation with TuNAS" [(video)](https://youtu.be/JbtZVQVJbY8)
