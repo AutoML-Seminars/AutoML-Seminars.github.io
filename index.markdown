@@ -24,7 +24,7 @@ Instructions to join the virtual seminars are available [here](https://automl-se
 
 All seminars are happening on Thursday 4-5pm (CET), unless the description specifies a different day/time.
 
-* July 15th -- [Bilge Celik](https://research.tue.nl/en/persons/bilge-celik-aydin) (Eindhoven University of Technology)
+* July 15th -- [Bilge Celik](https://research.tue.nl/en/persons/bilge-celik-aydin) (Eindhoven University of Technology), "Adaptation Strategies for Automated Machine Learning on Evolving Data"
 * SUMMER BREAK
 
 ## Become a speaker
