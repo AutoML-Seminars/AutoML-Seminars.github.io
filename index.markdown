@@ -43,9 +43,9 @@ If you want to become a speaker, please send an email to automl-seminars - at - 
 * [Cédric Archambeau](http://www0.cs.ucl.ac.uk/staff/c.archambeau/) (Amazon Web Services)
 
 ## Past seminars
-
-* [Debadeepta Dey](https://www.microsoft.com/en-us/research/people/dedey/) (Microsoft Research) - ["Ranking Architectures by their Feature Extraction Capabilities"]()
-* [Jörg Franke](https://ml.informatik.uni-freiburg.de/people/franke/index.html) (University of Freiburg) - ["Sample-Efficient Automated Deep Reinforcement Learning"](https://arxiv.org/abs/2009.01555)
+* [Bilge Celik](https://research.tue.nl/en/persons/bilge-celik-aydin) (Eindhoven University of Technology), "Adaptation Strategies for Automated Machine Learning on Evolving Data"[(video)](https://www.youtube.com/watch?v=m4uSKU-KwuI&t=3s)
+* [Debadeepta Dey](https://www.microsoft.com/en-us/research/people/dedey/) (Microsoft Research) - "Ranking Architectures by their Feature Extraction Capabilities"[(video)](https://www.youtube.com/watch?v=K6wz4DcwVkI)
+* [Jörg Franke](https://ml.informatik.uni-freiburg.de/people/franke/index.html) (University of Freiburg) - "Sample-Efficient Automated Deep Reinforcement Learning"[(video)](https://www.youtube.com/watch?v=asHw00jw4Ng)
 * Yan Wu (ETH Zurich) - "NAS as Sparse Supernet" & "Trilevel NAS for Efficient Single Image Super-Resolution" [(video)](https://www.youtube.com/watch?v=zcXsRJ69g3c)
 * [Louis Tiao](https://tiao.io/) (University of Sydney) - "Bayesian Optimization by Classification" [(video)](https://www.youtube.com/watch?v=eT3nHnN3OYA)
 * [Gabriel Bender](https://scholar.google.com/citations?user=6D-XbmAAAAAJ&hl=de) (Google Brain) - "Can weight sharing outperform random architecture search? An investigation with TuNAS" [(video)](https://youtu.be/JbtZVQVJbY8)
