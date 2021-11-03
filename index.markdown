@@ -24,8 +24,7 @@ Instructions to join the virtual seminars are available [here](https://automl-se
 
 All seminars are happening on Thursday 4-5pm (CET), unless the description specifies a different day/time.
 
-* Oktober 21st -- [Bernd Bischl](https://www.statistik.uni-muenchen.de/personen/professoren/bischl/index.html) (Ludwig Maximilian University Munich)
-* November 4th -- [Ameet Talwalkar](https://www.cs.cmu.edu/~atalwalk/) (Carnegie Mellon Universit & Determined AI) - "Automating Architecture Transfer on Diverse Tasks"
+* November 4th -- [Ameet Talwalkar](https://www.cs.cmu.edu/~atalwalk/) (Carnegie Mellon University & Determined AI) - "Automating Architecture Design for Emerging ML Tasks"
 * November 18th -- [Xavier Bouthillier](https://mila.quebec/en/person/xavier-bouthillier/) (Université de Montréal) - ["Reliability of benchmarks and why HPO is important"](https://arxiv.org/abs/2103.03098)
 * December 2nd -- [Willie Neiswanger](https://willieneis.github.io/) (Stanford University) -["Going Beyond Global Optima with Bayesian Algorithm Execution"](https://willieneis.github.io/bax-website/)
 
