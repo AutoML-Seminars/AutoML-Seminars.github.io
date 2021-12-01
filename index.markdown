@@ -24,8 +24,6 @@ Instructions to join the virtual seminars are available [here](https://automl-se
 
 All seminars are happening on Thursday 4-5pm (CET), unless the description specifies a different day/time.
 
-* November 4th -- [Ameet Talwalkar](https://www.cs.cmu.edu/~atalwalk/) (Carnegie Mellon University & Determined AI) - "Automating Architecture Design for Emerging ML Tasks"
-* November 18th -- [Xavier Bouthillier](https://mila.quebec/en/person/xavier-bouthillier/) (Université de Montréal) - ["Reliability of benchmarks and why HPO is important"](https://arxiv.org/abs/2103.03098)
 * December 2nd -- [Willie Neiswanger](https://willieneis.github.io/) (Stanford University) -["Going Beyond Global Optima with Bayesian Algorithm Execution"](https://willieneis.github.io/bax-website/)
 
 ## Become a speaker
@@ -42,6 +40,9 @@ If you want to become a speaker, please send an email to automl-seminars - at - 
 * [Cédric Archambeau](http://www0.cs.ucl.ac.uk/staff/c.archambeau/) (Amazon Web Services)
 
 ## Past seminars
+
+* [Ameet Talwalkar](https://www.cs.cmu.edu/~atalwalk/) (Carnegie Mellon University & Determined AI) - "Automating Architecture Design for Emerging ML Tasks"[(video)](https://www.youtube.com/watch?v=N5-d4URSTSE&t=2716s)
+* [Xavier Bouthillier](https://mila.quebec/en/person/xavier-bouthillier/) (Université de Montréal) - ["Reliability of benchmarks and why HPO is important"](https://arxiv.org/abs/2103.03098)[(video)](https://www.youtube.com/watch?v=ZRQF72IXiDc)
 * [Bilge Celik](https://research.tue.nl/en/persons/bilge-celik-aydin) (Eindhoven University of Technology), "Adaptation Strategies for Automated Machine Learning on Evolving Data"[(video)](https://www.youtube.com/watch?v=m4uSKU-KwuI&t=3s)
 * [Debadeepta Dey](https://www.microsoft.com/en-us/research/people/dedey/) (Microsoft Research) - "Ranking Architectures by their Feature Extraction Capabilities"[(video)](https://www.youtube.com/watch?v=K6wz4DcwVkI)
 * [Jörg Franke](https://ml.informatik.uni-freiburg.de/people/franke/index.html) (University of Freiburg) - "Sample-Efficient Automated Deep Reinforcement Learning"[(video)](https://www.youtube.com/watch?v=asHw00jw4Ng)
