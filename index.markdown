@@ -25,7 +25,7 @@ Instructions to join the virtual seminars are available [here](https://automl-se
 All seminars are happening on Thursday 4-5pm (CET), unless the description specifies a different day/time.
 
 * January 13th -- panel discussion:  "How do we get more people to use HPO?"
-* February 3rd -- [Jonas Rothfuss](https://las.inf.ethz.ch/people/jonas-rothfuss) (ETH Zurich) -"Meta-learning priors BO"
+* February 3rd -- [Jonas Rothfuss](https://las.inf.ethz.ch/people/jonas-rothfuss) (ETH Zurich) -"Meta-Learning Reliable Priors for Bayesian Optimization"
 * February 17th -- [David Eriksson](https://dme65.github.io/) (Facebook) - TBD
 * March 3rd -- Tutorial Session
 * March 17th -- [Ruohan Wang](https://ruohanw.github.io/) (UCL) - TBD
