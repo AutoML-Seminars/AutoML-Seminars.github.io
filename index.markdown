@@ -24,9 +24,7 @@ Instructions to join the virtual seminars are available [here](https://automl-se
 
 All seminars are happening on Thursday 4-5pm (CET), unless the description specifies a different day/time.
 
-* January 13th -- panel discussion:  "How do we get more people to use HPO?"
-* February 3rd -- [Jonas Rothfuss](https://las.inf.ethz.ch/people/jonas-rothfuss) (ETH Zurich) -"Meta-Learning Reliable Priors for Bayesian Optimization"
-* February 17th -- [David Eriksson](https://dme65.github.io/) (Facebook) - TBD
+* February 17th -- [David Eriksson](https://dme65.github.io/) (Facebook) - "High-Dimensional Bayesian Optimization"
 * March 3rd -- Tutorial Session
 * March 17th -- [Ruohan Wang](https://ruohanw.github.io/) (UCL) - TBD
 
@@ -45,7 +43,7 @@ If you want to become a speaker, please send an email to automl-seminars - at - 
 * [Cédric Archambeau](http://www0.cs.ucl.ac.uk/staff/c.archambeau/) (Amazon Web Services)
 
 ## Past seminars
-
+* [Jonas Rothfuss](https://las.inf.ethz.ch/people/jonas-rothfuss) (ETH Zurich) -"Meta-Learning Reliable Priors for Bayesian Optimization"
 * [Willie Neiswanger](https://willieneis.github.io/) (Stanford University) -["Going Beyond Global Optima with Bayesian Algorithm Execution"](https://willieneis.github.io/bax-website/)[(video)](https://www.youtube.com/watch?v=Jp73k6jcpGs&t=50s)
 * [Ameet Talwalkar](https://www.cs.cmu.edu/~atalwalk/) (Carnegie Mellon University & Determined AI) - "Automating Architecture Design for Emerging ML Tasks"[(video)](https://www.youtube.com/watch?v=N5-d4URSTSE&t=2716s)
 * [Xavier Bouthillier](https://mila.quebec/en/person/xavier-bouthillier/) (Université de Montréal) - "Reliability of benchmarks and why HPO is important"[(ref)](https://arxiv.org/abs/2103.03098)[(video)](https://www.youtube.com/watch?v=ZRQF72IXiDc)
