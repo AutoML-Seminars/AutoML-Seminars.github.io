@@ -24,8 +24,7 @@ Instructions to join the virtual seminars are available [here](https://automl-se
 
 All seminars are happening on Thursday 4-5pm (CET), unless the description specifies a different day/time.
 
-* February 17th -- [David Eriksson](https://dme65.github.io/) (Facebook) - "High-Dimensional Bayesian Optimization"
-* March 3rd -- Tutorial Session
+* March 10th -- [David Salinas](https://geoalgo.github.io/) (Amazon) - [Tutorial on Syne Tune](https://github.com/awslabs/syne-tune)
 * March 17th -- [Ruohan Wang](https://ruohanw.github.io/) (UCL) - TBD
 
 
@@ -43,6 +42,8 @@ If you want to become a speaker, please send an email to automl-seminars - at - 
 * [Cédric Archambeau](http://www0.cs.ucl.ac.uk/staff/c.archambeau/) (Amazon Web Services)
 
 ## Past seminars
+
+* [David Eriksson](https://dme65.github.io/) (Meta) - "High-Dimensional Bayesian Optimization" [(video)](https://www.youtube.com/watch?v=jjaOWe29krU&t=2352s)
 * [Jonas Rothfuss](https://las.inf.ethz.ch/people/jonas-rothfuss) (ETH Zurich) -"Meta-Learning Reliable Priors for Bayesian Optimization"
 * [Willie Neiswanger](https://willieneis.github.io/) (Stanford University) -["Going Beyond Global Optima with Bayesian Algorithm Execution"](https://willieneis.github.io/bax-website/)[(video)](https://www.youtube.com/watch?v=Jp73k6jcpGs&t=50s)
 * [Ameet Talwalkar](https://www.cs.cmu.edu/~atalwalk/) (Carnegie Mellon University & Determined AI) - "Automating Architecture Design for Emerging ML Tasks"[(video)](https://www.youtube.com/watch?v=N5-d4URSTSE&t=2716s)
