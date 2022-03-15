@@ -24,8 +24,10 @@ Instructions to join the virtual seminars are available [here](https://automl-se
 
 All seminars are happening on Thursday 4-5pm (CET), unless the description specifies a different day/time.
 
-* March 10th -- [David Salinas](https://geoalgo.github.io/) (Amazon) - [Tutorial on Syne Tune](https://github.com/awslabs/syne-tune)
-* March 17th -- [Ruohan Wang](https://ruohanw.github.io/) (UCL) - TBD
+* March 17th -- [Ruohan Wang](https://ruohanw.github.io/) (UCL) - Global labels and few-shot learning
+* March 31st -- [Martin Wistuba](https://scholar.google.de/citations?user=pTULHVsAAAAJ&hl=de) (AWS) - Few-Shot Bayesian Optimization
+* April 14th -- [Antonio Carta](http://pages.di.unipi.it/carta/) (University of Pisa) - TBA
+* May 5th -- [Zi Wang](https://ziw.mit.edu/) (Google) - TBA
 
 
 ## Become a speaker
@@ -43,6 +45,7 @@ If you want to become a speaker, please send an email to automl-seminars - at - 
 
 ## Past seminars
 
+* [David Salinas](https://geoalgo.github.io/) (Amazon) - [Tutorial on Syne Tune](https://github.com/awslabs/syne-tune) [(video)](https://www.youtube.com/watch?v=DlM-__TTa3U&t=647s)
 * [David Eriksson](https://dme65.github.io/) (Meta) - "High-Dimensional Bayesian Optimization" [(video)](https://www.youtube.com/watch?v=jjaOWe29krU&t=2352s)
 * [Jonas Rothfuss](https://las.inf.ethz.ch/people/jonas-rothfuss) (ETH Zurich) -"Meta-Learning Reliable Priors for Bayesian Optimization"
 * [Willie Neiswanger](https://willieneis.github.io/) (Stanford University) -["Going Beyond Global Optima with Bayesian Algorithm Execution"](https://willieneis.github.io/bax-website/)[(video)](https://www.youtube.com/watch?v=Jp73k6jcpGs&t=50s)
