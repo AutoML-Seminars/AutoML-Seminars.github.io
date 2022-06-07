@@ -24,11 +24,9 @@ Instructions to join the virtual seminars are available [here](https://automl-se
 
 All seminars are happening on Thursday 4-5pm (CET), unless the description specifies a different day/time.
 
-* May 5th -- [Zi Wang](https://ziw.mit.edu/) (Google) - Pre-training helps Bayesian optimization too
-* June 2nd -- TBA
 * June 9th -- [Greg Yang](https://www.microsoft.com/en-us/research/people/gregyang/) (Microsoft) - Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer
 * June 23rd -- TBA
-* July 7th -- TBA
+* July 7th -- [Samuel Mueller](https://ml.informatik.uni-freiburg.de/profile/mueller/)(University of Freiburg) - Transformers can do Bayesian Inference
 
 
 ## Become a speaker
@@ -46,6 +44,7 @@ If you want to become a speaker, please send an email to automl-seminars - at - 
 
 ## Past seminars
 
+* [Zi Wang](https://ziw.mit.edu/) (Google) - Pre-training helps Bayesian optimization too [(video)](https://www.youtube.com/watch?v=cH4-hHXvO5c)
 * [Ruohan Wang](https://ruohanw.github.io/) (UCL) - Global labels and few-shot learning [(video)](https://www.youtube.com/watch?v=oT2Y6byjhYQ)
 * [Martin Wistuba](https://scholar.google.de/citations?user=pTULHVsAAAAJ&hl=de) (AWS) - Few-Shot Bayesian Optimization [(video)](https://www.youtube.com/watch?v=mJduKEKSh_A)
 * [Antonio Carta](http://pages.di.unipi.it/carta/) (University of Pisa) - Avalanche: an End-to-End Library for Continual Learning [(video)](https://www.youtube.com/watch?v=n6mykeLdeg0)
