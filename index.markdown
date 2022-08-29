@@ -24,7 +24,12 @@ Instructions to join the virtual seminars are available [here](https://automl-se
 
 All seminars are happening on Thursday 4-5pm (CET), unless the description specifies a different day/time.
 
-* September 1st -- TBA
+* September 1st -- [Yutian Chen](https://www.cantab.net/users/yutian.chen/index.html)(Deepmind) - Towards Learning Universal Hyperparameter Optimizers with Transformers
+* September 15th -- TBA
+* October 6th -- TBA
+* October 20th -- TBA
+* November 3rd -- TBA
+* November 17th -- TBA
 
 
 ## Become a speaker
