@@ -24,7 +24,6 @@ Instructions to join the virtual seminars are available [here](https://automl-se
 
 All seminars are happening on Thursday 4-5pm (CET), unless the description specifies a different day/time.
 
-* September 1st -- [Yutian Chen](https://www.cantab.net/users/yutian.chen/index.html)(Deepmind) - Towards Learning Universal Hyperparameter Optimizers with Transformers
 * September 15th -- TBA
 * October 6th -- TBA
 * October 20th -- TBA
@@ -47,7 +46,7 @@ If you want to become a speaker, please send an email to automl-seminars - at - 
 
 ## Past seminars
 
-
+* [Yutian Chen](https://www.cantab.net/users/yutian.chen/index.html)(Deepmind) - Towards Learning Universal Hyperparameter Optimizers with Transformers [(video)](https://youtu.be/dt7yn_kSrDI)
 * [Samuel Mueller](https://ml.informatik.uni-freiburg.de/profile/mueller/)(University of Freiburg) - Transformers can do Bayesian Inference [(video)](https://youtu.be/XnngBWe2WYE)
 * [Greg Yang](https://www.microsoft.com/en-us/research/people/gregyang/) (Microsoft) - Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer  [(video)](https://youtu.be/XpU3mDKJOak)
 * [Zi Wang](https://ziw.mit.edu/) (Google) - Pre-training helps Bayesian optimization too [(video)](https://www.youtube.com/watch?v=cH4-hHXvO5c)
