@@ -24,8 +24,8 @@ Instructions to join the virtual seminars are available [here](https://automl-se
 
 All seminars are happening on Thursday 4-5pm (CET), unless the description specifies a different day/time.
 
-* September 15th -- TBA
-* October 6th -- TBA
+* September 15th -- [Mohamed Abdelfattah](https://www.mohsaied.com/)(Cornell University) - Fast and Hardware-Aware Neural Architecture Search
+* October 6th -- [Jiaming Song](https://tsong.me/)(NVIDIA) - A General Recipe for Likelihood-free Bayesian Optimization
 * October 20th -- TBA
 * November 3rd -- TBA
 * November 17th -- TBA
