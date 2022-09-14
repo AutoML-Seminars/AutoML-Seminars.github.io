@@ -41,6 +41,7 @@ If you want to become a speaker, please send an email to automl-seminars - at - 
 * [Aaron Klein](https://aaronkl.github.io/) (Amazon Web Services)
 * [Arber Zela](https://ml.informatik.uni-freiburg.de/people/zela/index.html) (University of Freiburg)
 * [Jovita Lukasik](https://www.uni-mannheim.de/dws/people/researchers/phd-students/jovita-lukasik/) (University of Mannheim)
+* [Rhea Sukthanker](https://ml.informatik.uni-freiburg.de/profile/sukthanker/) (University of Freiburg)
 * [Frank Hutter](https://ml.informatik.uni-freiburg.de/people/hutter/index.html) (University of Freiburg)
 * [Cédric Archambeau](http://www0.cs.ucl.ac.uk/staff/c.archambeau/) (Amazon Web Services)
 
