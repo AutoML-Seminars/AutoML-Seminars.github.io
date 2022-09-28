@@ -24,7 +24,6 @@ Instructions to join the virtual seminars are available [here](https://automl-se
 
 All seminars are happening on Thursday 4-5pm (CET), unless the description specifies a different day/time.
 
-* September 15th -- [Mohamed Abdelfattah](https://www.mohsaied.com/)(Cornell University) - Fast and Hardware-Aware Neural Architecture Search
 * October 6th -- [Jiaming Song](https://tsong.me/)(NVIDIA) - A General Recipe for Likelihood-free Bayesian Optimization
 * October 20th -- TBA
 * November 3rd -- TBA
@@ -46,7 +45,7 @@ If you want to become a speaker, please send an email to automl-seminars - at - 
 * [Cédric Archambeau](http://www0.cs.ucl.ac.uk/staff/c.archambeau/) (Amazon Web Services)
 
 ## Past seminars
-
+* [Mohamed Abdelfattah](https://www.mohsaied.com/)(Cornell University) - Fast and Hardware-Aware Neural Architecture Search [(video)](https://youtu.be/Ij7oqAwLPOk)
 * [Yutian Chen](https://www.cantab.net/users/yutian.chen/index.html)(Deepmind) - Towards Learning Universal Hyperparameter Optimizers with Transformers [(video)](https://youtu.be/dt7yn_kSrDI)
 * [Samuel Mueller](https://ml.informatik.uni-freiburg.de/profile/mueller/)(University of Freiburg) - Transformers can do Bayesian Inference [(video)](https://youtu.be/XnngBWe2WYE)
 * [Greg Yang](https://www.microsoft.com/en-us/research/people/gregyang/) (Microsoft) - Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer  [(video)](https://youtu.be/XpU3mDKJOak)
