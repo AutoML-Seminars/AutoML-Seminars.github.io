@@ -24,7 +24,6 @@ Instructions to join the virtual seminars are available [here](https://automl-se
 
 All seminars are happening on Thursday 4-5pm (CET), unless the description specifies a different day/time.
 
-* October 6th -- [Jiaming Song](https://tsong.me/)(NVIDIA) - A General Recipe for Likelihood-free Bayesian Optimization
 * October 20th -- TBA
 * November 3rd -- TBA
 * November 17th -- TBA
@@ -45,6 +44,9 @@ If you want to become a speaker, please send an email to automl-seminars - at - 
 * [Cédric Archambeau](http://www0.cs.ucl.ac.uk/staff/c.archambeau/) (Amazon Web Services)
 
 ## Past seminars
+
+
+* [Jiaming Song](https://tsong.me/)(NVIDIA) - A General Recipe for Likelihood-free Bayesian Optimization [(video)](https://youtu.be/cHR9WJnn5dE)
 * [Mohamed Abdelfattah](https://www.mohsaied.com/)(Cornell University) - Fast and Hardware-Aware Neural Architecture Search [(video)](https://youtu.be/Ij7oqAwLPOk)
 * [Yutian Chen](https://www.cantab.net/users/yutian.chen/index.html)(Deepmind) - Towards Learning Universal Hyperparameter Optimizers with Transformers [(video)](https://youtu.be/dt7yn_kSrDI)
 * [Samuel Mueller](https://ml.informatik.uni-freiburg.de/profile/mueller/)(University of Freiburg) - Transformers can do Bayesian Inference [(video)](https://youtu.be/XnngBWe2WYE)
@@ -83,4 +85,5 @@ If you want to become a speaker, please send an email to automl-seminars - at - 
 * [Matthias Seeger](https://mseeger.github.io/) (Amazon): ["Model-based Asynchronous Hyperparameter and Neural Architecture Search"](https://arxiv.org/abs/2003.10865)
 * [Fabio Maria Carlucci](https://fmcarlucci.github.io/) (Huawei): [Why NAS evaluation is frustratingly hard](https://openreview.net/forum?id=HygrdpVKvr) and [how Generator-based optimization can help](https://arxiv.org/abs/2004.01395)”  ([Slides](https://docs.google.com/presentation/d/1j9U8Tl1faTkXLN_dc5mf9ack1YVBq3N3FH86wbAyDwg/edit?usp=sharing))
 * [David Salinas](https://geoalgo.github.io/) (Naver Labs): ["A quantile-based approach for hyperparameter transfer learning"](https://proceedings.icml.cc/static/paper_files/icml/2020/4367-Paper.pdf)
+
 
