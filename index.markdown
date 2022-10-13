@@ -24,7 +24,7 @@ Instructions to join the virtual seminars are available [here](https://automl-se
 
 All seminars are happening on Thursday 4-5pm (CET), unless the description specifies a different day/time.
 
-* October 20th -- TBA
+* October 20th -- [Xingchen Wan](https://www.robots.ox.ac.uk/~xwan/) - Bayesian Generational Population-Based Training
 * November 3rd -- TBA
 * November 17th -- TBA
 
