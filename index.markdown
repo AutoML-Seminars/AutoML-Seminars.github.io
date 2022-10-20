@@ -24,7 +24,6 @@ Instructions to join the virtual seminars are available [here](https://automl-se
 
 All seminars are happening on Thursday 4-5pm (CET), unless the description specifies a different day/time.
 
-* October 20th -- [Xingchen Wan](https://www.robots.ox.ac.uk/~xwan/) - Bayesian Generational Population-Based Training
 * November 3rd -- TBA
 * November 17th -- TBA
 
@@ -45,7 +44,7 @@ If you want to become a speaker, please send an email to automl-seminars - at - 
 
 ## Past seminars
 
-
+* [Xingchen Wan](https://www.robots.ox.ac.uk/~xwan/) - Bayesian Generational Population-Based Training [(video)](https://youtu.be/xWNXzneLmm8)
 * [Jiaming Song](https://tsong.me/)(NVIDIA) - A General Recipe for Likelihood-free Bayesian Optimization [(video)](https://youtu.be/cHR9WJnn5dE)
 * [Mohamed Abdelfattah](https://www.mohsaied.com/)(Cornell University) - Fast and Hardware-Aware Neural Architecture Search [(video)](https://youtu.be/Ij7oqAwLPOk)
 * [Yutian Chen](https://www.cantab.net/users/yutian.chen/index.html)(Deepmind) - Towards Learning Universal Hyperparameter Optimizers with Transformers [(video)](https://youtu.be/dt7yn_kSrDI)
