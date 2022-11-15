@@ -24,7 +24,7 @@ Instructions to join the virtual seminars are available [here](https://automl-se
 
 All seminars are happening on Thursday 4-5pm (CET), unless the description specifies a different day/time.
 
-* November 17th -- [Łukasz Dudziak](https://scholar.google.com/citations?user=R47NvpoAAAAJ&hl=pl) - TBA
+* November 17th -- [Łukasz Dudziak](https://scholar.google.com/citations?user=R47NvpoAAAAJ&hl=pl) - Challenges of federated and zero-cost NAS
 * December 8th -- [Lisa Dunlap](https://www.lisabdunlap.com/) - TBA
 
 
