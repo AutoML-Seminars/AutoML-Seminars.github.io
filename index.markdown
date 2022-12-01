@@ -24,7 +24,7 @@ Instructions to join the virtual seminars are available [here](https://automl-se
 
 All seminars are happening on Thursday 4-5pm (CET), unless the description specifies a different day/time.
 
-* December 8th -- [Lisa Dunlap](https://www.lisabdunlap.com/) - TBA
+* December 8th -- [Lisa Dunlap](https://www.lisabdunlap.com/) - Hyperparameter Tuning on the Cloud
 
 
 ## Become a speaker
