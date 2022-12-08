@@ -24,8 +24,9 @@ Instructions to join the virtual seminars are available [here](https://automl-se
 
 All seminars are happening on Thursday 4-5pm (CET), unless the description specifies a different day/time.
 
-* December 8th -- [Lisa Dunlap](https://www.lisabdunlap.com/) - Hyperparameter Tuning on the Cloud
-
+* February 2nd -- TBA
+* February 16th -- TBA
+* March 2nd -- TBA
 
 ## Become a speaker
 
@@ -43,6 +44,7 @@ If you want to become a speaker, please send an email to automl-seminars - at - 
 
 ## Past seminars
 
+* [Lisa Dunlap](https://www.lisabdunlap.com/) - Hyperparameter Tuning on the Cloud [(video)](https://youtu.be/6_jggZz-VSI)
 * [Łukasz Dudziak](https://scholar.google.com/citations?user=R47NvpoAAAAJ&hl=pl) - Challenges of federated and zero-cost NAS [(video)](https://youtu.be/24A0jUY0BTU)
 * [Xingchen Wan](https://www.robots.ox.ac.uk/~xwan/) - Bayesian Generational Population-Based Training [(video)](https://youtu.be/xWNXzneLmm8)
 * [Jiaming Song](https://tsong.me/)(NVIDIA) - A General Recipe for Likelihood-free Bayesian Optimization [(video)](https://youtu.be/cHR9WJnn5dE)
