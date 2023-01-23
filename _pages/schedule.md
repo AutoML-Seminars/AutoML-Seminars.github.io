@@ -13,15 +13,19 @@ All seminars are happening on Thursday 4-5pm (CET), unless the description speci
 
 ----------
 
-Feburary 2nd - TBA
+February 2nd **6pm CET** - [Subho Mukherjee](https://www.microsoft.com/en-us/research/people/submukhe/): TBA
 
 ----------
 
-Feburary 16th - TBA
+February 16th - Kartik Chandra and Audrey Xie: TBA
 
 ----------
 
-March 2nd - TBA
+March 30th - [Carola Doerr](https://webia.lip6.fr/~doerr/): TBA
+
+----------
+
+April 13th - TBA
 
 ----------
 

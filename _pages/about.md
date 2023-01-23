@@ -18,34 +18,39 @@ All content is free and open to anyone. If you are interested and want to join, 
 
 
 
-#### Join the Talks
+**Next Talk : February 2nd 6pm CET - [Subho Mukherjee](https://www.microsoft.com/en-us/research/people/submukhe/): TBA**
+
+
+
+
+
+### Join the Talks
 
 Subscribe to our [Google group](https://groups.google.com/forum/#!forum/automl-seminars) to get all the updates about the seminars. All the information about new talks and how to connect are communicated there.
 Also follow us on [Twitter](https://twitter.com/automlseminar) and subscribe to our [Youtube](https://www.youtube.com/channel/UC3NoO2L7cGs7O3583ig--EA/featured) to not miss any talk.
 
 
-#### Become a Speaker
+
+### Become a Speaker
 
 If you want to become a speaker, please send an email to automl-seminars - at - googlegroups - dot - com or contact one of the organizers.
 
 
 
 
-#### Organizers
+### Organizers
 
 The AutoML Seminar is organizes as part of the ELLIS units [Berlin](https://ellis.eu/units/berlin) and [Freiburg](https://ellis.eu/units/freiburg) 
 
-<table style="width:75%">
+<table style="width:100%">
   <tr>
-    <td style="text-align:center"><img src="assets/img/aaron.jpg" height="150"></td>
-    <td style="text-align:center"><img src="assets/img/arber.jpg" height="150"></td>
-    <td style="text-align:center"><img src="assets/img/giovanni.jpg" height="150"></td>
-    <td style="text-align:center"><img src="assets/img/jovita.jpg" height="150"></td>
-    <td style="text-align:center"><img src="assets/img/rhea.jpg" height="150"></td>
-    <td style="text-align:center"><img src="assets/img/frank.jpg" height="150"></td>
-    <td style="text-align:center"><img src="assets/img/cedric.jpg" height="150"></td>
-
-
+    <td style="text-align:center"><img src="assets/img/aaron.jpg" height="120"></td>
+    <td style="text-align:center"><img src="assets/img/arber.jpg" height="120"></td>
+    <td style="text-align:center"><img src="assets/img/giovanni.jpg" height="120"></td>
+    <td style="text-align:center"><img src="assets/img/jovita.jpg" height="120"></td>
+    <td style="text-align:center"><img src="assets/img/rhea.jpg" height="120"></td>
+    <td style="text-align:center"><img src="assets/img/frank.jpg" height="120"></td>
+    <td style="text-align:center"><img src="assets/img/cedric.jpg" height="120"></td>
   </tr>
   <tr>
     <td style="text-align:center"><a href="https://aaronkl.github.io/">Aaron Klein</a> <br> Amazon Web Services</td>
