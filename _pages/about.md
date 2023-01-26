@@ -17,8 +17,9 @@ However, with the rising popularity of AutoML both in academia and industry, it 
 All content is free and open to anyone. If you are interested and want to join, please follow the steps listed below.
 
 
+### Next Talk
 
-**Next Talk : February 2nd 6pm CET - [Subho Mukherjee](https://www.microsoft.com/en-us/research/people/submukhe/): TBA**
+**February 2nd  <span style="color:red">6pm CET</span> - [Subho Mukherjee](https://www.microsoft.com/en-us/research/people/submukhe/):** *AutoMoE: Neural Architecture Search for Efficient Sparsely Activated Transformers*
 
 
 
