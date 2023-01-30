@@ -48,7 +48,7 @@ The AutoML Seminar is organizes as part of the ELLIS units [Berlin](https://elli
     <td style="text-align:center"><img src="assets/img/aaron.jpg" height="120"></td>
     <td style="text-align:center"><img src="assets/img/arber.jpg" height="120"></td>
     <td style="text-align:center"><img src="assets/img/giovanni.jpg" height="120"></td>
-    <td style="text-align:center"><img src="assets/img/jovita.jpg" height="120"></td>
+    <td style="text-align:center"><img src="assets/img/jovita_2.jpg" height="120"></td>
     <td style="text-align:center"><img src="assets/img/rhea.jpg" height="120"></td>
     <td style="text-align:center"><img src="assets/img/frank.jpg" height="120"></td>
     <td style="text-align:center"><img src="assets/img/cedric.jpg" height="120"></td>
