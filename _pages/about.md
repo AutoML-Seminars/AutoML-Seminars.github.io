@@ -57,7 +57,7 @@ The AutoML Seminar is organizes as part of the ELLIS units [Berlin](https://elli
     <td style="text-align:center"><a href="https://aaronkl.github.io/">Aaron Klein</a> <br> Amazon Web Services</td>
     <td style="text-align:center"><a href="https://ml.informatik.uni-freiburg.de/profile/zela/">Arber Zela</a> <br> University of Freiburg</td>
     <td style="text-align:center"><a href="https://giovannizappella.github.io/">Giovanni Zappella</a> <br>Amazon Web Services</td>
-    <td style="text-align:center"><a href="https://www.uni-mannheim.de/dws/people/researchers/phd-students/jovita-lukasik/">Jovita Lukasik </a> <br> University of Mannheim</td>
+    <td style="text-align:center"><a href="https://jovitalukasik.github.io//">Jovita Lukasik</a> <br> Max Planck Institute for Informatics</td>
     <td style="text-align:center"><a href="https://ml.informatik.uni-freiburg.de/profile/sukthanker/">Rhea Sukthanker </a> <br> University of Freiburg</td>
     <td style="text-align:center"><a href="https://ml.informatik.uni-freiburg.de/profile/hutter/">Frank Hutter</a> <br> University of Freiburg</td>
     <td style="text-align:center"><a href="http://www0.cs.ucl.ac.uk/staff/c.archambeau/">Cedric Archambeau</a> <br> Amazon Web Services</td>
