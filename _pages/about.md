@@ -19,8 +19,7 @@ All content is free and open to anyone. If you are interested and want to join, 
 
 ### Next Talk
 
-**February 16th**
-
+**February 16th** - *Kartik Chandra and Audrey Xie:* Gradient Descent: The Ultimate Optimizer
 
 
 ### Join the Talks
