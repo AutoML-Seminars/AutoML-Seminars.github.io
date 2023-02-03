@@ -8,6 +8,13 @@ nav_order: 5
 ---
 
 
+## 2023
+
+
+[Subho Mukherjee](https://www.microsoft.com/en-us/research/people/submukhe/) (Microsoft) - AutoMoE: Neural Architecture Search for Efficient Sparsely Activated Transformers [(video)](https://youtu.be/sSusEYtL-YM)
+
+
+
 ## 2022
 
 [Lisa Dunlap](https://www.lisabdunlap.com/) (UC Berkley) - Hyperparameter Tuning on the Cloud [(video)](https://youtu.be/6_jggZz-VSI)

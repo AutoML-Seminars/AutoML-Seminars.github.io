@@ -19,9 +19,7 @@ All content is free and open to anyone. If you are interested and want to join, 
 
 ### Next Talk
 
-**February 2nd  <span style="color:red">6pm CET</span> - [Subho Mukherjee](https://www.microsoft.com/en-us/research/people/submukhe/):** *AutoMoE: Neural Architecture Search for Efficient Sparsely Activated Transformers*
-
-
+**February 16th**
 
 
 
