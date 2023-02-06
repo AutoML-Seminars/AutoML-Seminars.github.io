@@ -27,7 +27,7 @@ We show how to automatically compute hypergradients with a simple and elegant mo
 
 ----------
 
-**March 9th - TBA:**
+**March 9th - [Xingyou (Richard) Song](https://xingyousong.github.io/):**
 
 TBA
 
