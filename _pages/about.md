@@ -32,7 +32,10 @@ Also follow us on [Twitter](https://twitter.com/automlseminar) and subscribe to 
 ### Become a Speaker
 
 If you want to become a speaker, please send an email to automl-seminars - at - googlegroups - dot - com or contact one of the organizers.
-
+We particularly invite junior researchers to present their work. Talks should meet the following criteria:
+* Is this content interesting for an audience of AutoML experts?
+* Is the talk based on research papers published at a top tier machine learning conference (ICMLR, NeurIPS, ICLR, AutoML Conf etc.)? We are not strict about this. However, if you want to present content which has not been published yet, please send us your draft.  
+* Does the talk present an open-source library that addresses the AutoML community?
 
 
 
