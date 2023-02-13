@@ -13,7 +13,7 @@ All seminars are happening on Thursday 4-5pm (CET), unless the description speci
 
 ----------
 
-**February 16th - Kartik Chandra and Audrey Xie:**
+**February 16th - [Kartik Chandra](https://cs.stanford.edu/~kach/) and [Audrey Xie](https://0a.ax/):**
 
 **Title:**
 
