@@ -19,7 +19,8 @@ All content is free and open to anyone. If you are interested and want to join, 
 
 ### Next Talk
 
-**February 16th** - *[Kartik Chandra](https://cs.stanford.edu/~kach/) and [Audrey Xie](https://0a.ax/):* Gradient Descent: The Ultimate Optimizer
+
+**March 9th** - *[Xingyou (Richard) Song](https://xingyousong.github.io/):* TBD
 
 
 ### Join the Talks
