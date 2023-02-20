@@ -20,13 +20,13 @@ All content is free and open to anyone. If you are interested and want to join, 
 ### Next Talk
 
 
-**March 9th** - *[Xingyou (Richard) Song](https://xingyousong.github.io/):* TBD
+**March 9th** [(ics)](../assets/ics/automl_seminar_march_9.ics)  - *[Xingyou (Richard) Song](https://xingyousong.github.io/):* TBD
 
 
 ### Join the Talks
 
 Subscribe to our [Google group](https://groups.google.com/forum/#!forum/automl-seminars) to get all the updates about the seminars. All the information about new talks and how to connect are communicated there.
-Also follow us on [Twitter](https://twitter.com/automlseminar) and subscribe to our [Youtube](https://www.youtube.com/channel/UC3NoO2L7cGs7O3583ig--EA/featured) to not miss any talk.
+Also follow us on [Twitter](https://twitter.com/automlseminar) and subscribe to our [Youtube](https://www.youtube.com/channel/UC3NoO2L7cGs7O3583ig--EA/featured) to not miss any talk. [Here an invite](../assets/ics/automl_seminar.ics) for your calendar. Note that we sometimes have to reschedule sessions to account for conferences and submission deadlines (see [schedule](schedule)). 
 
 
 
