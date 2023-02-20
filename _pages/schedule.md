@@ -12,19 +12,21 @@ All seminars are happening on Thursday 4-5pm (CET), unless the description speci
 
 ----------
 
-**March 9th - [Xingyou (Richard) Song](https://xingyousong.github.io/):**
+**March 9th - [Xingyou (Richard) Song](https://xingyousong.github.io/)** [(ics)](../assets/ics/automl_seminar_march_9.ics)
 
 TBA
 
 ----------
 
-**March 30th - [Carola Doerr](https://webia.lip6.fr/~doerr/):**
+**March 30th - [Carola Doerr](https://webia.lip6.fr/~doerr/)** [(ics)](../assets/ics/automl_seminar_march_30.ics)
+
 
 TBA
 
 ----------
 
-**April 13th - TBA**
+**April 13th - TBA** [(ics)](../assets/ics/automl_seminar_april_13.ics)
+
 
 ----------
 
