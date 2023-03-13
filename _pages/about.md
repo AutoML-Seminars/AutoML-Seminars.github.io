@@ -19,9 +19,7 @@ All content is free and open to anyone. If you are interested and want to join, 
 
 ### Next Talk
 
-
-**March 9th** [(ics)](../assets/ics/automl_seminar_march_9.ics)  - *[Xingyou (Richard) Song](https://xingyousong.github.io/):* Open Source Vizier: Distributed Infrastructure and API for Reliable and Flexible Blackbox Optimization
-
+**March 30th - [Carola Doerr](https://webia.lip6.fr/~doerr/)** [(ics)](../assets/ics/automl_seminar_march_30.ics): TBA
 
 
 ### Join the Talks

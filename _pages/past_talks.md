@@ -11,8 +11,9 @@ nav_order: 5
 ## 2023
 
 
-[Kartik Chandra](https://cs.stanford.edu/~kach/) and [Audrey Xie](https://0a.ax/) (MIT) Gradient Descent: The Ultimate Optimizer [(video)](https://youtu.be/v_8eV0PjRuc)
+[Xingyou (Richard) Song](https://xingyousong.github.io/) (Google) - Open Source Vizier: Distributed Infrastructure and API for Reliable and Flexible Blackbox Optimization [(video)](https://youtu.be/Ya_V5isGdG8)[(slides)](../assets/pdf/slides_richard_song.pdf)
 
+[Kartik Chandra](https://cs.stanford.edu/~kach/) and [Audrey Xie](https://0a.ax/) (MIT) - Gradient Descent: The Ultimate Optimizer [(video)](https://youtu.be/v_8eV0PjRuc)
 
 [Subho Mukherjee](https://www.microsoft.com/en-us/research/people/submukhe/) (Microsoft) - AutoMoE: Neural Architecture Search for Efficient Sparsely Activated Transformers [(video)](https://youtu.be/sSusEYtL-YM)
 
