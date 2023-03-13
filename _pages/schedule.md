@@ -40,7 +40,7 @@ TBA
 
 ----------
 
-**April 13th - [Robert Lange](https://roberttlange.github.io/)** [(ics)](../assets/ics/automl_seminar_april_27.ics)
+**April 27th - [Robert Lange](https://roberttlange.github.io/)** [(ics)](../assets/ics/automl_seminar_april_27.ics)
 
 
 Title:
