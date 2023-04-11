@@ -11,7 +11,7 @@ nav_order: 4
 All seminars are happening on Thursday 4-5pm (CET), unless the description specifies a different day/time.
 
 
-**April 13th - [Nicholas Roberts](https://nick11roberts.science/), [Samuel Guo](https://scholar.google.com/citations?user=B8WA2XsAAAAJ), [Cong Xu](https://www.linkedin.com/in/samuel-guo-03570b148/) [(AutoML Decathlon Team)](https://www.cs.cmu.edu/~automl-decathlon-22/)** [(ics)](../assets/ics/automl_seminar_april_13.ics)
+**April 13th - [Nicholas Roberts](https://nick11roberts.science/), [Samuel Guo](https://www.linkedin.com/in/samuel-guo-03570b148/), [Cong Xu](https://scholar.google.com/citations?user=B8WA2XsAAAAJ) [(AutoML Decathlon Team)](https://www.cs.cmu.edu/~automl-decathlon-22/)** [(ics)](../assets/ics/automl_seminar_april_13.ics)
 
 
 Title:
