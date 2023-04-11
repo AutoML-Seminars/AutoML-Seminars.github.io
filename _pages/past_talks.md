@@ -10,6 +10,7 @@ nav_order: 5
 
 ## 2023
 
+[Carola Doerr](https://webia.lip6.fr/~doerr/) (Sorbonne Université) - Hyperparameter optimization and algorithm configuration from a black-box optimization perspective [(video)](https://youtu.be/SD0SU0uW6SI)
 
 [Xingyou (Richard) Song](https://xingyousong.github.io/) (Google) - Open Source Vizier: Distributed Infrastructure and API for Reliable and Flexible Blackbox Optimization [(video)](https://youtu.be/Ya_V5isGdG8)[(slides)](../assets/pdf/slides_richard_song.pdf)
 

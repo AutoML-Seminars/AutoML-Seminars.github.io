@@ -19,7 +19,9 @@ All content is free and open to anyone. If you are interested and want to join, 
 
 ### Next Talk
 
-**March 30th - [Carola Doerr](https://webia.lip6.fr/~doerr/)** [(ics)](../assets/ics/automl_seminar_march_30.ics):  *Hyperparameter optimization and algorithm configuration from a black-box optimization perspective*
+**April 13th - [Nicholas Roberts](https://nick11roberts.science/), [Samuel Guo](https://scholar.google.com/citations?user=B8WA2XsAAAAJ), [Cong Xu](https://www.linkedin.com/in/samuel-guo-03570b148/) [(AutoML Decathlon Team)](https://www.cs.cmu.edu/~automl-decathlon-22/)** [(ics)](../assets/ics/automl_seminar_april_13.ics) *AutoML Decathlon: Diverse Tasks, Modern Methods, and Efficiency at Scale*
+
+
 
 
 ### Join the Talks
