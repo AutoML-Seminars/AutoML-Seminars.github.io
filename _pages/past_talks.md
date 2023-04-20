@@ -10,6 +10,9 @@ nav_order: 5
 
 ## 2023
 
+[Nicholas Roberts](https://nick11roberts.science/), [Samuel Guo](https://www.linkedin.com/in/samuel-guo-03570b148/), [Cong Xu](https://scholar.google.com/citations?user=B8WA2XsAAAAJ) [(AutoML Decathlon Team)](https://www.cs.cmu.edu/~automl-decathlon-22/) - AutoML Decathlon: Diverse Tasks, Modern Methods, and Efficiency at Scale [(video)](https://youtu.be/dGDGpvkQWJM)
+
+
 [Carola Doerr](https://webia.lip6.fr/~doerr/) (Sorbonne Université) - Hyperparameter optimization and algorithm configuration from a black-box optimization perspective [(video)](https://youtu.be/SD0SU0uW6SI)
 
 [Xingyou (Richard) Song](https://xingyousong.github.io/) (Google) - Open Source Vizier: Distributed Infrastructure and API for Reliable and Flexible Blackbox Optimization [(video)](https://youtu.be/Ya_V5isGdG8)[(slides)](../assets/pdf/slides_richard_song.pdf)

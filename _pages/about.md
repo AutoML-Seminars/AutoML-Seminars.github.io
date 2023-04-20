@@ -19,8 +19,8 @@ All content is free and open to anyone. If you are interested and want to join, 
 
 ### Next Talk
 
-**April 13th - [Nicholas Roberts](https://nick11roberts.science/), [Samuel Guo](https://www.linkedin.com/in/samuel-guo-03570b148/), [Cong Xu](https://scholar.google.com/citations?user=B8WA2XsAAAAJ) [(AutoML Decathlon Team)](https://www.cs.cmu.edu/~automl-decathlon-22/)** [(ics)](../assets/ics/automl_seminar_april_13.ics) *AutoML Decathlon: Diverse Tasks, Modern Methods, and Efficiency at Scale*
 
+**April 27th - [Robert Lange](https://roberttlange.github.io/)** [(ics)](../assets/ics/automl_seminar_april_27.ics) *Discovering Black-Box Optimizers via Evolutionary Meta-Learning*
 
 
 
