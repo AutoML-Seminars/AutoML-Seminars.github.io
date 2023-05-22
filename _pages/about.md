@@ -20,9 +20,7 @@ All content is free and open to anyone. If you are interested and want to join, 
 ### Next Talk
 
 
-**April 27th - [Robert Lange](https://roberttlange.github.io/)** [(ics)](../assets/ics/automl_seminar_april_27.ics) *Discovering Black-Box Optimizers via Evolutionary Meta-Learning*
-
-
+**May 25th - [Alina Selega](https://scholar.google.ca/citations?hl=en&user=tpG4CaIAAAAJ&view_op=list_works&sortby=pubdate)** *Multi-objective Bayesian optimization with heuristic objectives for biomedical and molecular data analysis workflows*
 
 ### Join the Talks
 

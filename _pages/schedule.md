@@ -11,21 +11,16 @@ nav_order: 4
 All seminars are happening on Thursday 4-5pm (CET), unless the description specifies a different day/time.
 
 
-**April 27th - [Robert Lange](https://roberttlange.github.io/)** [(ics)](../assets/ics/automl_seminar_april_27.ics)
+**May 25th - [Alina Selega](https://scholar.google.ca/citations?hl=en&user=tpG4CaIAAAAJ&view_op=list_works&sortby=pubdate)** 
 
 
 Title:
 
-Discovering Black-Box Optimizers via Evolutionary Meta-Learning
+Multi-objective Bayesian optimization with heuristic objectives for biomedical and molecular data analysis workflows
 
 Abstract:
 
-Optimizing functions without access to gradients is the remit of black-box methods such as evolutionary optimizers. While highly general, their learning dynamics are often times heuristic and inflexible — exactly the limitations that meta-learning can address. Hence, we propose to discover effective update rules for evolution strategies and genetic algorithms via meta-learning. Concretely, our approach employs black-box optimizers parametrized by self-attention-based architectures, which guarantees the update rule is invariant to the ordering of the candidate solutions. We show that meta-evolving this system on a small set of representative low-dimensional analytic optimization problems is sufficient to discover new evolutionary optimizers capable of generalizing to unseen optimization problems, population sizes, and optimization horizons. Furthermore, the same learned optimizer can outperform established neuroevolution baselines on supervised and continuous control tasks. As additional contributions, we ablate our method's individual neural network components; reverse engineer the learned optimizer into an explicit heuristic form, which remains highly competitive; and demonstrate the positive transfer of neural network-based operators to white-box optimizers. Finally, we show that it is possible to self-referentially train an evolution strategy from scratch, using the learned update rule to drive the outer meta-learning loop. 
-
-The corresponding paper links can be found below:
-- Learned ES (ICLR 2023): https://openreview.net/forum?id=mFDU0fP3EQH
-- Learned GA (GECCO 2023): https://arxiv.org/abs/2304.03995
-
+Within bioinformatics, AutoML has been successfully applied to a number of problems such as molecule design subject to desirable properties e.g. antigen specificity or protein function. However, many bioinformatics workflows are unsupervised in nature, making optimization of their hyperparameters difficult given a frequent lack of ground truth. For example, clustering analyses aim to find biologically meaningful groupings of cells based on their expression profiles, but there is no single objective that will guide how to select hyperparameters to obtain such a clustering. To tackle this, we propose a method for hyperparameter optimization in the absence of well-defined objectives. In these cases, multiple noisy heuristic metrics are available instead that aim to approximate the true meta-objective, but it is unknown which ones align with the meta-objective’s maxima. For example, in the clustering analysis mentioned above the meta-objective is impossible to quantify in a single way but it may be approximated by a multitude of heuristics: do clusters express known markers, are clusters well separated etc. Our method infers which heuristic objectives may be useful (align with the meta-objective) based on a flexible set of domain-specific desirable criteria and adaptively updates a scalarization function by upweighting useful objectives. We evaluate the desirable criteria using the properties of the posterior of a multi-output Gaussian process surrogate function, allowing the functional form of each objective to guide optimization. We demonstrate our method on the analyses of single-cell RNA sequencing and highly multiplexed imaging datasets for univariate input optimization.
 
 
 ----------

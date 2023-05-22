@@ -10,8 +10,9 @@ nav_order: 5
 
 ## 2023
 
-[Nicholas Roberts](https://nick11roberts.science/), [Samuel Guo](https://www.linkedin.com/in/samuel-guo-03570b148/), [Cong Xu](https://scholar.google.com/citations?user=B8WA2XsAAAAJ) [(AutoML Decathlon Team)](https://www.cs.cmu.edu/~automl-decathlon-22/) - AutoML Decathlon: Diverse Tasks, Modern Methods, and Efficiency at Scale [(video)](https://youtu.be/dGDGpvkQWJM)
+[Robert Lange](https://roberttlange.github.io/) (TU Berlin) - Discovering Black-Box Optimizers via Evolutionary Meta-Learning [(video)](https://youtu.be/1H0Z3UEutos)
 
+[Nicholas Roberts](https://nick11roberts.science/), [Samuel Guo](https://www.linkedin.com/in/samuel-guo-03570b148/), [Cong Xu](https://scholar.google.com/citations?user=B8WA2XsAAAAJ) [(AutoML Decathlon Team)](https://www.cs.cmu.edu/~automl-decathlon-22/) - AutoML Decathlon: Diverse Tasks, Modern Methods, and Efficiency at Scale [(video)](https://youtu.be/dGDGpvkQWJM)
 
 [Carola Doerr](https://webia.lip6.fr/~doerr/) (Sorbonne Université) - Hyperparameter optimization and algorithm configuration from a black-box optimization perspective [(video)](https://youtu.be/SD0SU0uW6SI)
 
