@@ -10,19 +10,18 @@ nav_order: 4
 
 All seminars are happening on Thursday 4-5pm (CET), unless the description specifies a different day/time.
 
-
-**May 25th - [Alina Selega](https://scholar.google.ca/citations?hl=en&user=tpG4CaIAAAAJ&view_op=list_works&sortby=pubdate)** 
+**June 22nd - [Theresa Eimer](https://scholar.google.com/citations?user=nKbDyf0AAAAJ&hl=en)** 
 
 
 Title:
 
-Multi-objective Bayesian optimization with heuristic objectives for biomedical and molecular data analysis workflows
+Challenges in Hyperparameter Optimization for Reinforcement Learning - Understanding AutoRL Through an AutoML Lens
 
 Abstract:
 
-Within bioinformatics, AutoML has been successfully applied to a number of problems such as molecule design subject to desirable properties e.g. antigen specificity or protein function. However, many bioinformatics workflows are unsupervised in nature, making optimization of their hyperparameters difficult given a frequent lack of ground truth. For example, clustering analyses aim to find biologically meaningful groupings of cells based on their expression profiles, but there is no single objective that will guide how to select hyperparameters to obtain such a clustering. To tackle this, we propose a method for hyperparameter optimization in the absence of well-defined objectives. In these cases, multiple noisy heuristic metrics are available instead that aim to approximate the true meta-objective, but it is unknown which ones align with the meta-objective’s maxima. For example, in the clustering analysis mentioned above the meta-objective is impossible to quantify in a single way but it may be approximated by a multitude of heuristics: do clusters express known markers, are clusters well separated etc. Our method infers which heuristic objectives may be useful (align with the meta-objective) based on a flexible set of domain-specific desirable criteria and adaptively updates a scalarization function by upweighting useful objectives. We evaluate the desirable criteria using the properties of the posterior of a multi-output Gaussian process surrogate function, allowing the functional form of each objective to guide optimization. We demonstrate our method on the analyses of single-cell RNA sequencing and highly multiplexed imaging datasets for univariate input optimization.
+Automated Reinforcement Learning has been gaining traction in recent years, but is still catching up to the level of understanding and tooling of AutoML at large. One issue in particular is that we have relatively few insights into the behavior of Reinforcement Learning algorithms with respect to their hyperparameters - how important they tend to be, how they influence training and how to best tune them. AutoML provides tools we can use to investigate these questions and thus generate a basis for better AutoRL methods. I will be talking about recent work accepted at ICML 2023 where we take a first step towards a better understanding of Reinforcement Learning hyperparameters as well as future directions for AutoML ideas in AutoRL.
 
 
-----------
+---------
 
 

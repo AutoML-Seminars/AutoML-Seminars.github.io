@@ -10,6 +10,10 @@ nav_order: 5
 
 ## 2023
 
+
+[Alina Selega](https://scholar.google.ca/citations?hl=en&user=tpG4CaIAAAAJ&view_op=list_works&sortby=pubdate) (Lunenfeld-Tanenbaum Research Institute, Vector Institute) - Multi-objective Bayesian optimization with heuristic objectives for biomedical and molecular data analysis workflows [(video)](https://youtu.be/U9HHeaHeCqc)
+
+
 [Robert Lange](https://roberttlange.github.io/) (TU Berlin) - Discovering Black-Box Optimizers via Evolutionary Meta-Learning [(video)](https://youtu.be/1H0Z3UEutos)
 
 [Nicholas Roberts](https://nick11roberts.science/), [Samuel Guo](https://www.linkedin.com/in/samuel-guo-03570b148/), [Cong Xu](https://scholar.google.com/citations?user=B8WA2XsAAAAJ) [(AutoML Decathlon Team)](https://www.cs.cmu.edu/~automl-decathlon-22/) - AutoML Decathlon: Diverse Tasks, Modern Methods, and Efficiency at Scale [(video)](https://youtu.be/dGDGpvkQWJM)

@@ -19,8 +19,7 @@ All content is free and open to anyone. If you are interested and want to join, 
 
 ### Next Talk
 
-
-**May 25th - [Alina Selega](https://scholar.google.ca/citations?hl=en&user=tpG4CaIAAAAJ&view_op=list_works&sortby=pubdate)** *Multi-objective Bayesian optimization with heuristic objectives for biomedical and molecular data analysis workflows*
+**June 22nd - [Theresa Eimer](https://scholar.google.com/citations?user=nKbDyf0AAAAJ&hl=en)** *Challenges in Hyperparameter Optimization for Reinforcement Learning - Understanding AutoRL Through an AutoML Lens*
 
 ### Join the Talks
 
