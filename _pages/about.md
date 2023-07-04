@@ -19,7 +19,7 @@ All content is free and open to anyone. If you are interested and want to join, 
 
 ### Next Talk
 
-**June 22nd - [Theresa Eimer](https://scholar.google.com/citations?user=nKbDyf0AAAAJ&hl=en)** *Challenges in Hyperparameter Optimization for Reinforcement Learning - Understanding AutoRL Through an AutoML Lens*
+TBA
 
 ### Join the Talks
 

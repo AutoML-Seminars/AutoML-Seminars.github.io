@@ -10,6 +10,8 @@ nav_order: 5
 
 ## 2023
 
+[Theresa Eimer](https://scholar.google.com/citations?user=nKbDyf0AAAAJ&hl=en) (University of Hannover) - Challenges in Hyperparameter Optimization for Reinforcement Learning - Understanding AutoRL Through an AutoML Lens [(video)](https://youtu.be/RsBjvKXygxc)
+
 
 [Alina Selega](https://scholar.google.ca/citations?hl=en&user=tpG4CaIAAAAJ&view_op=list_works&sortby=pubdate) (Lunenfeld-Tanenbaum Research Institute, Vector Institute) - Multi-objective Bayesian optimization with heuristic objectives for biomedical and molecular data analysis workflows [(video)](https://youtu.be/U9HHeaHeCqc)
 
