@@ -19,7 +19,9 @@ All content is free and open to anyone. If you are interested and want to join, 
 
 ### Next Talk
 
-TBA
+**September 21st - [Jean Kaddour](https://jeankaddour.com/) and [Oscar Key](https://oscarkey.github.io/)** - No Train No Gain: Revisiting Efficient Training Algorithms For Transformer-based Language Models 
+
+
 
 ### Join the Talks
 
