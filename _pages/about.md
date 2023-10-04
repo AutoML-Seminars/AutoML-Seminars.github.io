@@ -19,7 +19,7 @@ All content is free and open to anyone. If you are interested and want to join, 
 
 ### Next Talk
 
-**September 21st - [Jean Kaddour](https://jeankaddour.com/) and [Oscar Key](https://oscarkey.github.io/)** - No Train No Gain: Revisiting Efficient Training Algorithms For Transformer-based Language Models 
+**October 5th - [Noah Hollmann](https://ml.informatik.uni-freiburg.de/profile/hollmann/) and [Samuel Müller](https://samuelgabriel.github.io/index.pdf)** - LLMs for Automated Data Science: Introducing CAAFE for Context-Aware Automated Feature Engineering
 
 
 

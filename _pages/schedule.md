@@ -11,18 +11,6 @@ nav_order: 4
 All seminars are happening on Thursday 4-5pm (CET), unless the description specifies a different day/time.
 
 
----------
-
-**September 21st - [Jean Kaddour](https://jeankaddour.com/) and [Oscar Key](https://oscarkey.github.io/)** 
-
-Title: No Train No Gain: Revisiting Efficient Training Algorithms For Transformer-based Language Models 
-
-Abstract: 
-
-The computation necessary for training Transformer-based language models has skyrocketed in recent years. This trend has motivated research on efficient training algorithms designed to improve training, validation, and downstream performance faster than standard training. In this work, we revisit three categories of such algorithms: dynamic architectures (layer stacking, layer dropping), batch selection (selective backprop, RHO loss), and efficient optimizers (Lion, Sophia). When pre-training BERT and T5 with a fixed computation budget using such methods, we find that their training, validation, and downstream gains vanish compared to a baseline with a fully-decayed learning rate. We define an evaluation protocol that enables computation to be done on arbitrary machines by mapping all computation time to a reference machine which we call reference system time. We discuss the limitations of our proposed protocol and release our code to encourage rigorous research in efficient training procedures: https://github.com/jeankaddour/notrainnogain.
-
----------
-
 **October 5th - [Noah Hollmann](https://ml.informatik.uni-freiburg.de/profile/hollmann/) and [Samuel Müller](https://samuelgabriel.github.io/index.pdf)** 
 
 Title: LLMs for Automated Data Science: Introducing CAAFE for Context-Aware Automated Feature Engineering

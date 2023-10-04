@@ -10,6 +10,9 @@ nav_order: 5
 
 ## 2023
 
+[Jean Kaddour](https://jeankaddour.com/) and [Oscar Key](https://oscarkey.github.io/) (UCL) - No Train No Gain: Revisiting Efficient Training Algorithms For Transformer-based Language Models [(video)](https://youtu.be/vg0kBT37EK4?si=oIK4lcvIiSmDnz0y)
+
+
 [Theresa Eimer](https://scholar.google.com/citations?user=nKbDyf0AAAAJ&hl=en) (University of Hannover) - Challenges in Hyperparameter Optimization for Reinforcement Learning - Understanding AutoRL Through an AutoML Lens [(video)](https://youtu.be/RsBjvKXygxc)
 
 
