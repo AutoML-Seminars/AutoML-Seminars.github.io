@@ -10,6 +10,11 @@ nav_order: 5
 
 ## 2023
 
+
+
+[Noah Hollmann](https://ml.informatik.uni-freiburg.de/profile/hollmann/) and [Samuel Müller](https://samuelgabriel.github.io/index.pdf)** - LLMs for Automated Data Science: Introducing CAAFE for Context-Aware Automated Feature Engineering [(video)](https://youtu.be/oFMzZfTd4xg?feature=shared)
+
+
 [Jean Kaddour](https://jeankaddour.com/) and [Oscar Key](https://oscarkey.github.io/) (UCL) - No Train No Gain: Revisiting Efficient Training Algorithms For Transformer-based Language Models [(video)](https://youtu.be/vg0kBT37EK4?si=oIK4lcvIiSmDnz0y)
 
 

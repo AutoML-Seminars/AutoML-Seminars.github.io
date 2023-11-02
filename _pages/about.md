@@ -19,7 +19,8 @@ All content is free and open to anyone. If you are interested and want to join, 
 
 ### Next Talk
 
-**October 5th - [Noah Hollmann](https://ml.informatik.uni-freiburg.de/profile/hollmann/) and [Samuel Müller](https://samuelgabriel.github.io/index.pdf)** - LLMs for Automated Data Science: Introducing CAAFE for Context-Aware Automated Feature Engineering
+
+**November 9th - [Elliot Crowley](https://elliotjcrowley.github.io/)** - Zero-cost proxies and expanding search spaces with program transformations in NAS
 
 
 

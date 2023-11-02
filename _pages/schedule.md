@@ -11,29 +11,14 @@ nav_order: 4
 All seminars are happening on Thursday 4-5pm (CET), unless the description specifies a different day/time.
 
 
-**October 5th - [Noah Hollmann](https://ml.informatik.uni-freiburg.de/profile/hollmann/) and [Samuel Müller](https://samuelgabriel.github.io/index.pdf)** 
-
-Title: LLMs for Automated Data Science: Introducing CAAFE for Context-Aware Automated Feature Engineering
-
-Abstract: 
-
-As the field of automated machine learning (AutoML) advances, it becomes increasingly important to incorporate domain knowledge into these systems. We present an approach for doing so by harnessing the power of large language models (LLMs). Specifically, we introduce Context-Aware Automated Feature Engineering (CAAFE), a feature engineering method for tabular datasets that utilizes an LLM to iteratively generate additional semantically meaningful features for tabular datasets based on the description of the dataset. The method produces both Python code for creating new features and explanations for the utility of the generated features. Despite being methodologically simple, CAAFE improves performance on 11 out of 14 datasets - boosting mean ROC AUC performance from 0.798 to 0.822 across all dataset - similar to the improvement achieved by using a random forest instead of logistic regression on our datasets. Furthermore, CAAFE is interpretable by providing a textual explanation for each generated feature. CAAFE paves the way for more extensive semi-automation in data science tasks and emphasizes the significance of context-aware solutions that can extend the scope of AutoML systems to semantic AutoML.
-
----------
-
-**October 19th - TBA** 
-
-Title: TBA
-
-Abstract: TBA
-
----------
-
 **November 9th - [Elliot Crowley](https://elliotjcrowley.github.io/)** 
 
-Title: TBA
+Title: Zero-cost proxies and expanding search spaces with program transformations in NAS
 
-Abstract: TBA
+Abstract:
+
+Zero-cost proxies are a cheap way of evaluating the performance of an untrained neural network; these allow faster navigation of a search space in NAS which can facilitate the use of more diverse search spaces for a fixed budget. In the first part of this talk, I will review the use of a proxy based on Fisher information for the task of network compression, before motivating the proxy used in our “Neural Architecture Search without Training” work based on measuring the separation of linear regions in a network. In the second part of the talk, I will present a diverse “operation” search space on a convolution that consists of a mix of standard neural operators (e.g. bottlenecking) and program transformations (e.g. loop interchange) and show how zero-cost proxies can be used to produce networks that remain performant but run much faster than their off-the-shelf counterparts.
+
 
 ---------
 
