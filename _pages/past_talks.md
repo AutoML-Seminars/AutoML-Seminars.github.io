@@ -11,7 +11,7 @@ nav_order: 5
 ## 2023
 
 
-[Elliot Crowley](https://elliotjcrowley.github.io/)** -  Zero-cost proxies and expanding search spaces with program transformations in NAS
+[Elliot Crowley](https://elliotjcrowley.github.io/) -  Zero-cost proxies and expanding search spaces with program transformations in NAS
 
 
 [Noah Hollmann](https://ml.informatik.uni-freiburg.de/profile/hollmann/) - LLMs for Automated Data Science: Introducing CAAFE for Context-Aware Automated Feature Engineering [(video)](https://youtu.be/oFMzZfTd4xg?feature=shared)
