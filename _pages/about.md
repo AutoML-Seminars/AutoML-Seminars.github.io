@@ -20,7 +20,7 @@ All content is free and open to anyone. If you are interested and want to join, 
 ### Next Talk
 
 
-**November 23rd - [Arkadiy Dushatskiy](https://www.cwi.nl/en/people/arkadiy-dushatskiy/)** -  Multi-Objective Population Based Training Population Based Training
+**November 23rd - [Arkadiy Dushatskiy](https://www.cwi.nl/en/people/arkadiy-dushatskiy/)** -  Multi-Objective Population Based Training
 
 
 ### Join the Talks

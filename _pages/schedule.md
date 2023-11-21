@@ -14,7 +14,7 @@ All seminars are happening on Thursday 4-5pm (CET), unless the description speci
 
 **November 23rd - [Arkadiy Dushatskiy](https://www.cwi.nl/en/people/arkadiy-dushatskiy/)** 
 
-Title: Multi-Objective Population Based Training Population Based Training
+Title: Multi-Objective Population Based Training 
 
 Abstract: 
 
