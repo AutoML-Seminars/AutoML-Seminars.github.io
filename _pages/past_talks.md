@@ -10,6 +10,8 @@ nav_order: 5
 
 ## 2023
 
+[Arkadiy Dushatskiy](https://www.cwi.nl/en/people/arkadiy-dushatskiy/) - Multi-Objective Population Based Training [(video)](https://youtu.be/mxpMGmGe37I?feature=shared)
+
 
 [Elliot Crowley](https://elliotjcrowley.github.io/) -  Zero-cost proxies and expanding search spaces with program transformations in NAS
 
