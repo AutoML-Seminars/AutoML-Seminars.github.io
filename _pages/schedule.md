@@ -12,11 +12,28 @@ All seminars are happening on Thursday 4-5pm (CET), unless the description speci
 
 ---------
 
-
-**February - TBA** 
+**January 18th - [Andreas Müller](https://amueller.github.io/)** 
 
 Title: TBA
 
 Abstract: TBA
+
+---------
+
+**February 8th - TBA** 
+
+Title: TBA
+
+Abstract: TBA
+
+
+---------
+
+**February 15th - TBA** 
+
+Title: TBA
+
+Abstract: TBA
+
 
 ---------

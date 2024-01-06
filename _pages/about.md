@@ -19,7 +19,7 @@ All content is free and open to anyone. If you are interested and want to join, 
 
 ### Next Talk
 
-**TBA**
+**January 18th - [Andreas Müller](https://amueller.github.io/) - Title: TBA**
 
 
 ### Join the Talks
