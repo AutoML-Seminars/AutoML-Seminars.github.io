@@ -19,7 +19,7 @@ All content is free and open to anyone. If you are interested and want to join, 
 
 ### Next Talk
 
-**January 18th - [Andreas Müller](https://amueller.github.io/) - Title: TBA**
+**January 18th - [Andreas Müller](https://amueller.github.io/) - Title:  MotherNet: A Foundational Hypernetwork for Tabular Classification**
 
 
 ### Join the Talks
