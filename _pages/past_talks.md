@@ -8,6 +8,11 @@ nav_order: 5
 ---
 
 
+## 2024
+
+[Andreas Müller](https://amueller.github.io/) - MotherNet: A Foundational Hypernetwork for Tabular Classification [(video)](https://youtu.be/-pAuQSAW5w0?feature=shared)
+
+
 ## 2023
 
 [Arkadiy Dushatskiy](https://www.cwi.nl/en/people/arkadiy-dushatskiy/) - Multi-Objective Population Based Training [(video)](https://youtu.be/mxpMGmGe37I?feature=shared)
