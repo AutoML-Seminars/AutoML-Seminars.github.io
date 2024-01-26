@@ -24,7 +24,7 @@ Abstract: TBA
 
 **February 15th - [Nick Erickson](https://scholar.google.com/citations?user=I0nj-TcAAAAJ&hl=en) ** 
 
-<span style="color:red">**Talk will be at 6pm CET/ 9am PDT**</span>.
+$${\color{red}Talk will be at 6pm CET/ 9am PDT}$$
 
 Title: TBA
 
