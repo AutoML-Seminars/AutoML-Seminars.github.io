@@ -13,7 +13,7 @@ All seminars are happening on Thursday 4-5pm (CET), unless the description speci
 ---------
 
 
-**February 8th - [Rhea Sukthanker](https://rheasukthanker.github.io/)** 
+**February 8th - [Rhea Sukthanker](https://rheasukthanker.github.io/) and [Samuel Dooley](http://spamueldooley.com)**
 
 Title: TBA
 
