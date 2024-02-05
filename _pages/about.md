@@ -19,7 +19,7 @@ All content is free and open to anyone. If you are interested and want to join, 
 
 ### Next Talk
 
-**February 8th - [Rhea Sukthanker](https://rheasukthanker.github.io/) : TBA**
+**February 8th - [Rhea Sukthanker](https://rheasukthanker.github.io/) and [Samuel Dooley](http://spamueldooley.com/): Rethinking Bias Mitigation: Fairer Architectures Make for Fairer Face-Recognition**
 
 
 ### Join the Talks
