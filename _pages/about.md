@@ -19,7 +19,7 @@ All content is free and open to anyone. If you are interested and want to join, 
 
 ### Next Talk
 
-**February 15th - [Nick Erickson](https://scholar.google.com/citations?user=I0nj-TcAAAAJ&hl=en) - AutoGluon 1.0: Shattering the SOTA with Zeroshot-HPO & Dynamic Stacking**
+**February 15th 6pm CEST - [Nick Erickson](https://scholar.google.com/citations?user=I0nj-TcAAAAJ&hl=en) - AutoGluon 1.0: Shattering the SOTA with Zeroshot-HPO & Dynamic Stacking**
 
 ### Join the Talks
 
