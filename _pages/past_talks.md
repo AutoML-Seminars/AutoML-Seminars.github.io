@@ -10,6 +10,10 @@ nav_order: 5
 
 ## 2024
 
+
+[Rhea Sukthanker](https://rheasukthanker.github.io/) and [Samuel Dooley](http://spamueldooley.com/): Rethinking Bias Mitigation: Fairer Architectures Make for Fairer Face-Recognition [(video)](https://youtu.be/9CSfO9XUkIU?feature=shared)
+
+
 [Andreas Müller](https://amueller.github.io/) - MotherNet: A Foundational Hypernetwork for Tabular Classification [(video)](https://youtu.be/-pAuQSAW5w0?feature=shared)
 
 
