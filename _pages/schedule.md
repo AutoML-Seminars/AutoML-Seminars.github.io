@@ -41,7 +41,7 @@ Abstract:
 
 ---------
 
-**April 18th - [Julien Siems](https://scholar.google.de/citations?user=rKgTTh8AAAAJ&hl=de) and [Riccardo Grazzi}(https://scholar.google.de/citations?user=9Tlyx1IAAAAJ&hl=de)** 
+**April 18th - [Julien Siems](https://scholar.google.de/citations?user=rKgTTh8AAAAJ&hl=de) and [Riccardo Grazzi](https://scholar.google.de/citations?user=9Tlyx1IAAAAJ&hl=de)** 
 
 
 Title: 
