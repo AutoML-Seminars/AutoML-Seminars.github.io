@@ -10,6 +10,9 @@ nav_order: 5
 
 ## 2024
 
+[Nick Erickson](https://scholar.google.com/citations?user=I0nj-TcAAAAJ&hl=en) - AutoGluon 1.0: Shattering the SOTA with Zeroshot-HPO & Dynamic Stacking [(video)](https://youtu.be/ut6IYyUNtVc?si=Pd2rtWlYdOTpI2We)
+
+
 
 [Rhea Sukthanker](https://rheasukthanker.github.io/) and [Samuel Dooley](http://spamueldooley.com/): Rethinking Bias Mitigation: Fairer Architectures Make for Fairer Face-Recognition [(video)](https://youtu.be/9CSfO9XUkIU?feature=shared)
 

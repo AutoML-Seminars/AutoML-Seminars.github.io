@@ -12,17 +12,43 @@ All seminars are happening on Thursday 4-5pm (CET), unless the description speci
 
 ---------
 
-**February 15th - [Nick Erickson](https://scholar.google.com/citations?user=I0nj-TcAAAAJ&hl=en)** 
+**March 14th - TBA** 
 
-<span style="color:red">
-Talk will be at 6pm CET/ 9am PDT
-</span>
 
-Title: AutoGluon 1.0: Shattering the SOTA with Zeroshot-HPO & Dynamic Stacking
-
+Title: 
 Abstract: 
-
-AutoGluon 1.0 released Nov 2023 after 5 years of development. AutoGluon 1.0 introduces a major step-change in tabular modeling performance, achieving rank 1 on 63% of the AutoML Benchmark tasks when comparing all major AutoML systems. The performance enhancement is due primarily to two new features: Zeroshot-HPO which learns a strong general purpose portfolio of models to train on downstream datasets, and Dynamic Stacking, which mitigates a subtle but important overfitting problem in multi-layer stack ensembling stability. In this talk I will discuss the benchmark results obtained with AutoGluon 1.0 as well as the techniques used to achieve them and how they can be improved in future work.
 
 
 ---------
+
+**March 21st - [Łukasz Dudziak](https://scholar.google.com/citations?user=R47NvpoAAAAJ&hl=pl)** 
+
+
+Title:
+
+Abstract: 
+
+
+---------
+
+**April 4th - [Sebastian Pineda](https://relea.informatik.uni-freiburg.de/people/sebastian-pineda)** 
+
+
+Title: 
+
+Abstract: 
+
+
+---------
+
+**April 18th - [Julien Siems](https://scholar.google.de/citations?user=rKgTTh8AAAAJ&hl=de) and [Riccardo Grazzi}(https://scholar.google.de/citations?user=9Tlyx1IAAAAJ&hl=de)** 
+
+
+Title: 
+
+Abstract: 
+
+---------
+
+
+
