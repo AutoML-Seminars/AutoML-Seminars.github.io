@@ -12,7 +12,7 @@ All seminars are happening on Thursday 4-5pm (CET), unless the description speci
 
 ---------
 
-**March 14th - [Xingyou (Richard) Song](https://xingyousong.github.io/) (Google) ** 
+**March 14th - [Xingyou (Richard) Song](https://xingyousong.github.io/) (Google)** 
 
 
 Title: OmniPred: Towards Universal Regressors with Language Models 

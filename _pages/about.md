@@ -19,8 +19,7 @@ All content is free and open to anyone. If you are interested and want to join, 
 
 ### Next Talk
 
-**March 14th 4pm CET - [Xingyou (Richard) Song](https://xingyousong.github.io/): OmniPred: Towards Universal Regressors with Language Models 
-** 
+**March 14th 4pm CET - [Xingyou (Richard) Song](https://xingyousong.github.io/): OmniPred: Towards Universal Regressors with Language Models** 
 
 ### Join the Talks
 
