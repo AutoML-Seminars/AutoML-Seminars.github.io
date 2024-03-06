@@ -12,7 +12,16 @@ All seminars are happening on Thursday 4-5pm (CET), unless the description speci
 
 ---------
 
-**March 14th - [Xingyou (Richard) Song](https://xingyousong.github.io/) (Google)** 
+**March 21st - [Łukasz Dudziak](https://scholar.google.com/citations?user=R47NvpoAAAAJ&hl=pl)** 
+
+
+Title:
+
+Abstract: 
+
+---------
+
+**March 27th - [Xingyou (Richard) Song](https://xingyousong.github.io/) (Google)** 
 
 
 Title: OmniPred: Towards Universal Regressors with Language Models 
@@ -21,14 +30,6 @@ Abstract:
 
 Over the broad landscape of experimental design, regression has been a powerful tool to accurately predict the outcome metrics of a system or model given a set of parameters, but has been traditionally restricted to methods which are only applicable to a specific task. In this paper, we introduce OmniPred, a framework for training language models as universal end-to-end regressors over (x, y) evaluation data from diverse real world experiments. Using data sourced from Google Vizier, one of the largest blackbox optimization databases in the world, our extensive experiments demonstrate that through only textual representations of mathematical parameters and values, language models are capable of very precise numerical regression, and if given the opportunity to train over multiple tasks at scale, can significantly outperform traditional regression models.
 
----------
-
-**March 21st - [Łukasz Dudziak](https://scholar.google.com/citations?user=R47NvpoAAAAJ&hl=pl)** 
-
-
-Title:
-
-Abstract: 
 
 
 ---------
