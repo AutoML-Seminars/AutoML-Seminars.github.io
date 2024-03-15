@@ -12,7 +12,7 @@ All seminars are happening on Thursday 4-5pm (CET), unless the description speci
 
 ---------
 
-**March 21st - [Łukasz Dudziak](https://scholar.google.com/citations?user=R47NvpoAAAAJ&hl=pl)** 
+**March 21st - [Arber Zela](https://ml.informatik.uni-freiburg.de/profile/zela/)** 
 
 
 Title:
