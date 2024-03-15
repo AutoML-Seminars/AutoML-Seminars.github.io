@@ -19,7 +19,7 @@ All content is free and open to anyone. If you are interested and want to join, 
 
 ### Next Talk
 
-**March 21th 4pm CET - [Łukasz Dudziak](https://scholar.google.com/citations?user=R47NvpoAAAAJ&hl=pl)** 
+**March 21th 4pm CET - [Arber Zela](https://ml.informatik.uni-freiburg.de/profile/zela/)** 
 
 ### Join the Talks
 
