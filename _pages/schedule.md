@@ -12,7 +12,7 @@ All seminars are happening on Thursday 4-5pm (CET), unless the description speci
 
 ---------
 
-**March 21st - [Arber Zela](https://ml.informatik.uni-freiburg.de/profile/zela/)** 
+**March 21st - [Arber Zela](https://ml.informatik.uni-freiburg.de/profile/zela/) (University of Freiburg)** 
 
 
 Title:
@@ -21,7 +21,7 @@ Abstract:
 
 ---------
 
-**March 27th - [Xingyou (Richard) Song](https://xingyousong.github.io/) (Google)** 
+**March 28th - [Xingyou (Richard) Song](https://xingyousong.github.io/) (Google)** 
 
 
 Title: OmniPred: Towards Universal Regressors with Language Models 
