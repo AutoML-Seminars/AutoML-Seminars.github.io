@@ -10,25 +10,24 @@ nav_order: 5
 
 ## 2024
 
-[Nick Erickson](https://scholar.google.com/citations?user=I0nj-TcAAAAJ&hl=en) - AutoGluon 1.0: Shattering the SOTA with Zeroshot-HPO & Dynamic Stacking [(video)](https://youtu.be/ut6IYyUNtVc?si=Pd2rtWlYdOTpI2We)
+[Nick Erickson](https://scholar.google.com/citations?user=I0nj-TcAAAAJ&hl=en) (AWS) - AutoGluon 1.0: Shattering the SOTA with Zeroshot-HPO & Dynamic Stacking [(video)](https://youtu.be/ut6IYyUNtVc?si=Pd2rtWlYdOTpI2We)
 
 
+[Rhea Sukthanker](https://rheasukthanker.github.io/) (University of Freiburg) and [Samuel Dooley](http://spamueldooley.com/) (Abacus.ai) : Rethinking Bias Mitigation: Fairer Architectures Make for Fairer Face-Recognition [(video)](https://youtu.be/9CSfO9XUkIU?feature=shared)
 
-[Rhea Sukthanker](https://rheasukthanker.github.io/) and [Samuel Dooley](http://spamueldooley.com/): Rethinking Bias Mitigation: Fairer Architectures Make for Fairer Face-Recognition [(video)](https://youtu.be/9CSfO9XUkIU?feature=shared)
 
-
-[Andreas Müller](https://amueller.github.io/) - MotherNet: A Foundational Hypernetwork for Tabular Classification [(video)](https://youtu.be/-pAuQSAW5w0?feature=shared)
+[Andreas Müller](https://amueller.github.io/) (Microsoft)  - MotherNet: A Foundational Hypernetwork for Tabular Classification [(video)](https://youtu.be/-pAuQSAW5w0?feature=shared)
 
 
 ## 2023
 
-[Arkadiy Dushatskiy](https://www.cwi.nl/en/people/arkadiy-dushatskiy/) - Multi-Objective Population Based Training [(video)](https://youtu.be/mxpMGmGe37I?feature=shared)
+[Arkadiy Dushatskiy](https://www.cwi.nl/en/people/arkadiy-dushatskiy/) (CWI) - Multi-Objective Population Based Training [(video)](https://youtu.be/mxpMGmGe37I?feature=shared)
 
 
-[Elliot Crowley](https://elliotjcrowley.github.io/) -  Zero-cost proxies and expanding search spaces with program transformations in NAS
+[Elliot Crowley](https://elliotjcrowley.github.io/) (University of Edinburgh) -  Zero-cost proxies and expanding search spaces with program transformations in NAS
 
 
-[Noah Hollmann](https://ml.informatik.uni-freiburg.de/profile/hollmann/) - LLMs for Automated Data Science: Introducing CAAFE for Context-Aware Automated Feature Engineering [(video)](https://youtu.be/oFMzZfTd4xg?feature=shared)
+[Noah Hollmann](https://ml.informatik.uni-freiburg.de/profile/hollmann/) (University of Freiburg) - LLMs for Automated Data Science: Introducing CAAFE for Context-Aware Automated Feature Engineering [(video)](https://youtu.be/oFMzZfTd4xg?feature=shared)
 
 
 [Jean Kaddour](https://jeankaddour.com/) and [Oscar Key](https://oscarkey.github.io/) (UCL) - No Train No Gain: Revisiting Efficient Training Algorithms For Transformer-based Language Models [(video)](https://youtu.be/vg0kBT37EK4?si=oIK4lcvIiSmDnz0y)
