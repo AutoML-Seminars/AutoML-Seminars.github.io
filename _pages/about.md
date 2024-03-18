@@ -19,7 +19,7 @@ All content is free and open to anyone. If you are interested and want to join, 
 
 ### Next Talk
 
-**March 21th 4pm CET - [Arber Zela](https://ml.informatik.uni-freiburg.de/profile/zela/)** 
+**March 21th 4pm CET - [Arber Zela](https://ml.informatik.uni-freiburg.de/profile/zela/) - Multi-objective Differentiable Neural Architecture Search** 
 
 ### Join the Talks
 
