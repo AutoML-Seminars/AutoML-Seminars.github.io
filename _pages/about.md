@@ -19,7 +19,8 @@ All content is free and open to anyone. If you are interested and want to join, 
 
 ### Next Talk
 
-**March 21th 4pm CET - [Arber Zela](https://ml.informatik.uni-freiburg.de/profile/zela/) - Multi-objective Differentiable Neural Architecture Search** 
+**March 28th 4pm CET - [Xingyou (Richard) Song](https://xingyousong.github.io/) - OmniPred: Towards Universal Regressors with Language Models**
+
 
 ### Join the Talks
 

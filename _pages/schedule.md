@@ -12,17 +12,6 @@ All seminars are happening on Thursday 4-5pm (CET), unless the description speci
 
 ---------
 
-**March 21st - [Arber Zela](https://ml.informatik.uni-freiburg.de/profile/zela/) (University of Freiburg)** 
-
-
-Title: Multi-objective Differentiable Neural Architecture Search
-
-Abstract: 
-
-Pareto front profiling in multi-objective optimization (MOO), i.e. finding a diverse set of Pareto optimal solutions, is challenging, especially with expensive objectives like neural network training. Typically, in MOO neural architecture search (NAS), we aim to balance performance and hardware metrics across devices. Prior NAS approaches simplify this task by incorporating hardware constraints into the objective function, but profiling the Pareto front necessitates a search for each constraint. In this work, we propose a novel NAS algorithm that encodes user preferences for the trade-off between performance and hardware metrics, and yields representative and diverse architectures across multiple devices in just one search run. To this end, we parameterize the joint architectural distribution across devices and multiple objectives via a hypernetwork that can be conditioned on hardware features and preference vectors, enabling zero-shot transferability to new devices. Extensive experiments with up to 19 hardware devices and 3 objectives showcase the effectiveness and scalability of our method. Finally, we show that, without additional costs, our method outperforms existing MOO NAS methods across qualitatively different search spaces and datasets, including MobileNetV3 on ImageNet-1k and a Transformer space on machine translation.
-
----------
-
 **March 28th - [Xingyou (Richard) Song](https://xingyousong.github.io/) (Google)** 
 
 
