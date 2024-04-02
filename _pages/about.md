@@ -19,7 +19,8 @@ All content is free and open to anyone. If you are interested and want to join, 
 
 ### Next Talk
 
-**March 28th 4pm CET - [Xingyou (Richard) Song](https://xingyousong.github.io/) - OmniPred: Towards Universal Regressors with Language Models**
+**April 4th - [Sebastian Pineda](https://relea.informatik.uni-freiburg.de/people/sebastian-pineda) - Quick-Tune: Quickly Learning Which Pretrained Model to Finetune and How**
+
 
 
 ### Join the Talks

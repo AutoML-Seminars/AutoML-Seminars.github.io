@@ -10,6 +10,9 @@ nav_order: 5
 
 ## 2024
 
+[Xingyou (Richard) Song](https://xingyousong.github.io/) (Google) - OmniPred: Towards Universal Regressors with Language Models [(video)](https://youtu.be/fv-cK9LgQmk?feature=shared)
+
+
 [Arber Zela](https://ml.informatik.uni-freiburg.de/profile/zela/) (University of Freiburg)  - Multi-objective Differentiable Neural Architecture Search
 
 [Nick Erickson](https://scholar.google.com/citations?user=I0nj-TcAAAAJ&hl=en) (AWS) - AutoGluon 1.0: Shattering the SOTA with Zeroshot-HPO & Dynamic Stacking [(video)](https://youtu.be/ut6IYyUNtVc?si=Pd2rtWlYdOTpI2We)
