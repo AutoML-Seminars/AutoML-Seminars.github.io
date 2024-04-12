@@ -19,9 +19,7 @@ All content is free and open to anyone. If you are interested and want to join, 
 
 ### Next Talk
 
-**April 4th - [Sebastian Pineda](https://relea.informatik.uni-freiburg.de/people/sebastian-pineda) - Quick-Tune: Quickly Learning Which Pretrained Model to Finetune and How**
-
-
+**April 18th - [Julien Siems](https://scholar.google.de/citations?user=rKgTTh8AAAAJ&hl=de) and [Riccardo Grazzi](https://scholar.google.de/citations?user=9Tlyx1IAAAAJ&hl=de) - Is Mamba Capable of In-Context Learning?**
 
 ### Join the Talks
 

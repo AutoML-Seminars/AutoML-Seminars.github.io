@@ -10,6 +10,10 @@ nav_order: 5
 
 ## 2024
 
+[Sebastian Pineda](https://relea.informatik.uni-freiburg.de/people/sebastian-pineda) (University of Freiburg) - Quick-Tune: Quickly Learning Which Pretrained Model to Finetune and How [(video)](https://youtu.be/bdQLWnaxAnc?feature=shared)
+
+
+
 [Xingyou (Richard) Song](https://xingyousong.github.io/) (Google) - OmniPred: Towards Universal Regressors with Language Models [(video)](https://youtu.be/fv-cK9LgQmk?feature=shared)
 
 
