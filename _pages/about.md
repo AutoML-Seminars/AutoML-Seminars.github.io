@@ -49,6 +49,7 @@ The AutoML Seminar is organizes as part of the ELLIS units [Berlin](https://elli
     <td style="text-align:center"><img src="assets/img/giovanni.jpg" height="120"></td>
     <td style="text-align:center"><img src="assets/img/jovita_2.jpg" height="120"></td>
     <td style="text-align:center"><img src="assets/img/rhea.jpg" height="120"></td>
+    <td style="text-align:center"><img src="assets/img/lennart.jpg" height="120"></td>
     <td style="text-align:center"><img src="assets/img/frank.jpg" height="120"></td>
     <td style="text-align:center"><img src="assets/img/cedric.jpg" height="120"></td>
   </tr>
@@ -58,6 +59,7 @@ The AutoML Seminar is organizes as part of the ELLIS units [Berlin](https://elli
     <td style="text-align:center"><a href="https://giovannizappella.github.io/">Giovanni Zappella</a> <br>Amazon Web Services</td>
     <td style="text-align:center"><a href="https://jovitalukasik.github.io//">Jovita Lukasik</a> <br> University of Siegen</td>
     <td style="text-align:center"><a href="https://ml.informatik.uni-freiburg.de/profile/sukthanker/">Rhea Sukthanker </a> <br> University of Freiburg</td>
+    <td style="text-align:center"><a href="https://ml.informatik.uni-freiburg.de/profile/purucker/">Lennart Purucker </a> <br> University of Freiburg</td>
     <td style="text-align:center"><a href="https://ml.informatik.uni-freiburg.de/profile/hutter/">Frank Hutter</a> <br> University of Freiburg</td>
     <td style="text-align:center"><a href="http://www0.cs.ucl.ac.uk/staff/c.archambeau/">Cedric Archambeau</a> <br> Amazon Web Services</td>
 
