@@ -10,7 +10,7 @@ nav_order: 5
 
 ## 2024
 
-[Julien Siems](https://scholar.google.de/citations?user=rKgTTh8AAAAJ&hl=de)(University of Freiburg) and [Riccardo Grazzi](https://scholar.google.de/citations?user=9Tlyx1IAAAAJ&hl=de)(IIT) - Title: Is Mamba Capable of In-Context Learning? [(video)](https://youtu.be/q5-RPiBP2Bs?feature=shared)
+[Julien Siems](https://scholar.google.de/citations?user=rKgTTh8AAAAJ&hl=de) (University of Freiburg) and [Riccardo Grazzi](https://scholar.google.de/citations?user=9Tlyx1IAAAAJ&hl=de) (IIT) - Title: Is Mamba Capable of In-Context Learning? [(video)](https://youtu.be/q5-RPiBP2Bs?feature=shared)
 
 
 [Sebastian Pineda](https://relea.informatik.uni-freiburg.de/people/sebastian-pineda) (University of Freiburg) - Quick-Tune: Quickly Learning Which Pretrained Model to Finetune and How [(video)](https://youtu.be/bdQLWnaxAnc?feature=shared)
