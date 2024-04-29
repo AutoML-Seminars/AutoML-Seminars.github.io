@@ -19,7 +19,9 @@ All content is free and open to anyone. If you are interested and want to join, 
 
 ### Next Talk
 
-**April 18th - [Julien Siems](https://scholar.google.de/citations?user=rKgTTh8AAAAJ&hl=de) and [Riccardo Grazzi](https://scholar.google.de/citations?user=9Tlyx1IAAAAJ&hl=de) - Is Mamba Capable of In-Context Learning?**
+**May 2nd - [Łukasz Dudziak](https://scholar.google.com/citations?user=R47NvpoAAAAJ&hl=pl) -  Neural Fine-Tuning Search for Few-Shot Learning**
+
+
 
 ### Join the Talks
 

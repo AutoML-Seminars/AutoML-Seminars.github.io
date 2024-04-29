@@ -14,18 +14,18 @@ All seminars are happening on Thursday 4-5pm (CET), unless the description speci
 
 ---------
 
-**April 18th - [Julien Siems](https://scholar.google.de/citations?user=rKgTTh8AAAAJ&hl=de) and [Riccardo Grazzi](https://scholar.google.de/citations?user=9Tlyx1IAAAAJ&hl=de)** 
+**May 2nd - [Łukasz Dudziak](https://scholar.google.com/citations?user=R47NvpoAAAAJ&hl=pl)** 
 
-
-Title: Is Mamba Capable of In-Context Learning?
+Title: Neural Fine-Tuning Search for Few-Shot Learning
 
 Abstract: 
 
-State of the art foundation models like GPT-4 perform surprisingly well at in-context learning (ICL), a variant of meta-learning concerning the learned ability to solve tasks during a neural network forward pass, exploiting contextual information provided as input to the model. This useful ability emerges as a side product of the foundation model's massive pretraining. While transformer models are currently the state of the art in ICL, this work provides empirical evidence that Mamba, a newly proposed state space model which scales better  than transformers w.r.t. the input sequence length, has similar ICL capabilities. We evaluated Mamba on tasks involving simple function approximation as well as more complex natural language processing problems. Our results demonstrate that, across both categories of tasks, Mamba closely matches the performance of transformer models for ICL. Further analysis reveals that, like transformers, Mamba appears to solve ICL problems by incrementally optimizing its internal representations. Overall, our work suggests that Mamba can be an efficient alternative to transformers for ICL tasks involving long input sequences. This is an exciting finding in meta-learning and may enable generalizations of in-context learned AutoML algorithms (like TabPFN or Optformer) to long input sequences.
+In few-shot recognition, a classifier that has been trained on one set of classes is required to rapidly adapt and generalize to a disjoint, novel set of classes. To that end, recent studies have shown the efficacy of fine-tuning with carefully crafted adaptation architectures. However this raises the question of: How can one design the optimal adaptation strategy? In this talk, I am going to present our recent work on using neural architecture search (NAS) to address this question. In particular, I will discuss our findings regarding the trade-off between searching during meta-training and meta-testing time, which emerges in a multi-domain context like ours.
+
 
 ---------
 
-**May 2nd - [Łukasz Dudziak](https://scholar.google.com/citations?user=R47NvpoAAAAJ&hl=pl)** 
+**June 13th - [Carl Hvarfner](https://hvarfner.github.io/)**
 
 Title: TBA
 
@@ -33,9 +33,10 @@ Abstract:
 
 TBA
 
+
 ---------
 
-**May 9th - [Ganesh Jawahar](https://ganeshjawahar.github.io/)**
+**June 27th - [Ganesh Jawahar](https://ganeshjawahar.github.io/)**
 
 Title: TBA
 
