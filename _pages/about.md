@@ -19,7 +19,7 @@ All content is free and open to anyone. If you are interested and want to join, 
 
 ### Next Talk
 
-**June 13th -  [Carl Hvarfner](https://hvarfner.github.io/) - TBA**
+**June 13th -  [Carl Hvarfner](https://hvarfner.github.io/) - Vanilla Bayesian Optimization Performs Great in High Dimensions**
 
 
 
