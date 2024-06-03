@@ -10,7 +10,7 @@ nav_order: 5
 
 ## 2024
 
-[Łukasz Dudziak](https://scholar.google.com/citations?user=R47NvpoAAAAJ&hl=pl) - Neural Fine-Tuning Search for Few-Shot Learning [(video)](https://youtu.be/0nN8auFWEu8?si=0FOtQXik3xB-C8v5)
+[Łukasz Dudziak](https://scholar.google.com/citations?user=R47NvpoAAAAJ&hl=pl) (Samsung) - Neural Fine-Tuning Search for Few-Shot Learning [(video)](https://youtu.be/0nN8auFWEu8?si=0FOtQXik3xB-C8v5)
 
 
 [Julien Siems](https://scholar.google.de/citations?user=rKgTTh8AAAAJ&hl=de) (University of Freiburg) and [Riccardo Grazzi](https://scholar.google.de/citations?user=9Tlyx1IAAAAJ&hl=de) (IIT) -  Is Mamba Capable of In-Context Learning? [(video)](https://youtu.be/q5-RPiBP2Bs?feature=shared)
