@@ -10,17 +10,19 @@ nav_order: 5
 
 ## 2024
 
-[Julien Siems](https://scholar.google.de/citations?user=rKgTTh8AAAAJ&hl=de) (University of Freiburg) and [Riccardo Grazzi](https://scholar.google.de/citations?user=9Tlyx1IAAAAJ&hl=de) (IIT) - Title: Is Mamba Capable of In-Context Learning? [(video)](https://youtu.be/q5-RPiBP2Bs?feature=shared)
+[Łukasz Dudziak](https://scholar.google.com/citations?user=R47NvpoAAAAJ&hl=pl) - Neural Fine-Tuning Search for Few-Shot Learning [(video)](https://youtu.be/0nN8auFWEu8?si=0FOtQXik3xB-C8v5)
+
+
+[Julien Siems](https://scholar.google.de/citations?user=rKgTTh8AAAAJ&hl=de) (University of Freiburg) and [Riccardo Grazzi](https://scholar.google.de/citations?user=9Tlyx1IAAAAJ&hl=de) (IIT) -  Is Mamba Capable of In-Context Learning? [(video)](https://youtu.be/q5-RPiBP2Bs?feature=shared)
 
 
 [Sebastian Pineda](https://relea.informatik.uni-freiburg.de/people/sebastian-pineda) (University of Freiburg) - Quick-Tune: Quickly Learning Which Pretrained Model to Finetune and How [(video)](https://youtu.be/bdQLWnaxAnc?feature=shared)
 
 
-
 [Xingyou (Richard) Song](https://xingyousong.github.io/) (Google) - OmniPred: Towards Universal Regressors with Language Models [(video)](https://youtu.be/fv-cK9LgQmk?feature=shared)
 
 
-[Arber Zela](https://ml.informatik.uni-freiburg.de/profile/zela/) (University of Freiburg)  - Multi-objective Differentiable Neural Architecture Search
+[Arber Zela](https://ml.informatik.uni-freiburg.de/profile/zela/) (University of Freiburg)  - Multi-objective Differentiable Neural Architecture Search [(video)](https://youtu.be/649r1j31RbU?si=WJShDKPhnkXYW9ar)
 
 [Nick Erickson](https://scholar.google.com/citations?user=I0nj-TcAAAAJ&hl=en) (AWS) - AutoGluon 1.0: Shattering the SOTA with Zeroshot-HPO & Dynamic Stacking [(video)](https://youtu.be/ut6IYyUNtVc?si=Pd2rtWlYdOTpI2We)
 

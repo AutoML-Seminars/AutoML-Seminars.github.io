@@ -19,7 +19,7 @@ All content is free and open to anyone. If you are interested and want to join, 
 
 ### Next Talk
 
-**May 2nd - [Łukasz Dudziak](https://scholar.google.com/citations?user=R47NvpoAAAAJ&hl=pl) -  Neural Fine-Tuning Search for Few-Shot Learning**
+**June 13th -  [Carl Hvarfner](https://hvarfner.github.io/) - TBA**
 
 
 
