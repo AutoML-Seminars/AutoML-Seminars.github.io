@@ -10,6 +10,11 @@ nav_order: 5
 
 ## 2024
 
+
+[Carl Hvarfner](https://hvarfner.github.io/) (Lund University, WASP) -  Vanilla Bayesian Optimization Performs Great in High Dimensions [(video)](https://youtu.be/Hfsqj9v1gv4?si=2qD5uRpW-AKXVxCF)
+
+
+
 [Łukasz Dudziak](https://scholar.google.com/citations?user=R47NvpoAAAAJ&hl=pl) (Samsung) - Neural Fine-Tuning Search for Few-Shot Learning [(video)](https://youtu.be/0nN8auFWEu8?si=0FOtQXik3xB-C8v5)
 
 

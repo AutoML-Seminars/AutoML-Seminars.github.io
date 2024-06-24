@@ -19,7 +19,7 @@ All content is free and open to anyone. If you are interested and want to join, 
 
 ### Next Talk
 
-**June 13th -  [Carl Hvarfner](https://hvarfner.github.io/) - Vanilla Bayesian Optimization Performs Great in High Dimensions**
+**June 27th -  [Ganesh Jawahar](https://ganeshjawahar.github.io/): Mixture-of-Supernets: Improving Weight-Sharing Supernet Training with Architecture-Routed Mixture-of-Experts**
 
 
 
