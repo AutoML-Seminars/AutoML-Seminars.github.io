@@ -14,16 +14,6 @@ All seminars are happening on Thursday 4-5pm (CET), unless the description speci
 
 ---------
 
-**June 27th - [Ganesh Jawahar](https://ganeshjawahar.github.io/)**
-
-Title: Mixture-of-Supernets: Improving Weight-Sharing Supernet Training with Architecture-Routed Mixture-of-Experts
-
-Abstract: 
-
-In this talk, I will present Mixture-of-Supernets, a formulation designed to enhance the expressive power of supernet architectures. We demonstrate that the MoE concept can be utilized to generate flexible weights for subnetworks. Through extensive evaluations aimed at constructing efficient BERT and MT models, we have shown that our supernets can: (i) minimize retraining time, thereby significantly improving NAS efficiency; and (ii) produce high-quality architectures that satisfy user-defined constraints via NAS. This work will be presented at ACL 2024 and can be found here: [https://arxiv.org/abs/2306.04845](https://arxiv.org/abs/2306.04845).
-
----------
-
 **September 5th - [Linus Eriksson](https://linusericsson.github.io/)**
 
 Title: einspace: Searching for Neural Architectures from Fundamental Operations
