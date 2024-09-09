@@ -10,6 +10,9 @@ nav_order: 5
 
 ## 2024
 
+[Linus Eriksson](https://linusericsson.github.io/)(University of Edinburgh) - einspace: Searching for Neural Architectures from Fundamental Operations [(video)](https://youtu.be/3XLcFWRPB2E?si=I4zr1-0kE2ObGubf)
+
+
 [Ganesh Jawahar](https://ganeshjawahar.github.io/) (Google Deepmind) - Mixture-of-Supernets: Improving Weight-Sharing Supernet Training with Architecture-Routed Mixture-of-Experts [(video)](https://youtu.be/JxuhF3EGVVw)
 
 [Carl Hvarfner](https://hvarfner.github.io/) (Lund University, WASP) -  Vanilla Bayesian Optimization Performs Great in High Dimensions [(video)](https://youtu.be/Hfsqj9v1gv4?si=2qD5uRpW-AKXVxCF)
