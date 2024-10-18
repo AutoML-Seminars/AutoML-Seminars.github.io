@@ -10,7 +10,7 @@ nav_order: 5
 
 ## 2024
 
-[Robert Lange] (https://roberttlange.github.io/)(SakanaAI) : The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery [(video)](https://youtu.be/CFewReJ1Eyo?si=wAVrdLljR86Fnj9V)
+[Robert Lange](https://roberttlange.github.io/) (SakanaAI) : The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery [(video)](https://youtu.be/CFewReJ1Eyo?si=wAVrdLljR86Fnj9V)
 
 
 [Linus Eriksson](https://linusericsson.github.io/) (University of Edinburgh) - einspace: Searching for Neural Architectures from Fundamental Operations [(video)](https://www.youtube.com/watch?v=3XLcFWRPB2E&t=1s)
