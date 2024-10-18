@@ -12,7 +12,7 @@ Subscribe to our [calendar](https://calendar.google.com/calendar/u/2?cid=YXV0b21
 
 ---------
 
-**October 24th  - [Tennison Liu](https://tennisonliu.github.io/) and [Nicolas Astorga](https://scholar.google.com/citations?user=oLiBK8cAAAAJ&hl=es)**
+**October 24th 4pm CEST - [Tennison Liu](https://tennisonliu.github.io/) and [Nicolas Astorga](https://scholar.google.com/citations?user=oLiBK8cAAAAJ&hl=es)**
 
 Title: Large Language Models to Enhance Bayesian Optimization
 
