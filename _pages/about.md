@@ -21,7 +21,8 @@ The AutoML Seminar is organizes as part of the ELLIS units [Berlin](https://elli
 
 ### Next Talk
 
-**September 19th 11am CEST - [Robert Lange](https://roberttlange.github.io/): The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery**
+**October 24th  - [Tennison Liu](https://tennisonliu.github.io/) and [Nicolas Astorga](https://scholar.google.com/citations?user=oLiBK8cAAAAJ&hl=es) - Large Language Models to Enhance Bayesian Optimization**
+
 
 
 
