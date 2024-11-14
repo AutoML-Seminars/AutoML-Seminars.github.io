@@ -12,23 +12,13 @@ Subscribe to our [calendar](https://calendar.google.com/calendar/u/2?cid=YXV0b21
 
 ---------
 
-**October 24th 4pm CEST - [Tennison Liu](https://tennisonliu.github.io/) and [Nicolas Astorga](https://scholar.google.com/citations?user=oLiBK8cAAAAJ&hl=es)**
+**November 21st 11am CET - [Gabriela Kadlecova](https://gabikadlecova.github.io/)**
 
-Title: Large Language Models to Enhance Bayesian Optimization
+Title: GRAF: Performance Prediction with Neural Graph Features
 
-Abstract: 
-
-Bayesian optimization (BO) is a powerful approach for optimizing complex and expensive-to-evaluate black-box functions. In this talk, we present LLAMBO, a novel approach that integrates the capabilities of Large Language Models (LLM) within BO. At a high level, we frame the BO problem in natural language, enabling LLMs to iteratively propose and evaluate promising solutions conditioned on historical evaluations. Our findings illustrate that LLAMBO is effective at zero-shot warmstarting, and enhances surrogate modeling and candidate sampling, especially in the early stages of search when observations are sparse. We empirically validate LLAMBO’s efficacy on the problem of hyperparameter tuning, highlighting strong empirical performance across a range of diverse benchmarks, proprietary, and synthetic tasks.
-
----------
-
-**November 21st  - [Gabriela Kadlecova](https://gabikadlecova.github.io/)**
-
-Title: TBA
-
-Abstract: TBA
-
-
+Abstract:
+Performance prediction is an essential part of the NAS workflow.  It helps to accelerate search algorithms, pre-select promising networks, and estimate the latency and energy consumption of an architecture.  Recently, zero-cost proxies have emerged as fast and cheap estimators of network performance;  yet they often exhibit poor interpretability and inconsistent results over different search spaces and tasks.
+In this talk, we present GRAF, an interpretable network encoding based on topological features of the neural graph, such as operation counts, path lengths, and node degrees. GRAF is cheap and easy to compute, as it does not require any forward- or backward passes, and matches the correlation of commonly used zero-cost proxies on several different NAS benchmarks. Additionally, GRAF can be utilized alongside zero-cost proxies as input for a tabular performance predictor.  We present state-of-the-art results on several NAS benchmarks, hardware tasks, and robustness objectives.
 
 ---------
 

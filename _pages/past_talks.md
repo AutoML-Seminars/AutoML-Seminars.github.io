@@ -10,6 +10,10 @@ nav_order: 5
 
 ## 2024
 
+
+[Tennison Liu](https://tennisonliu.github.io/) and [Nicolas Astorga](https://scholar.google.com/citations?user=oLiBK8cAAAAJ&hl=es) Large Language Models to Enhance Bayesian Optimization [(video)](https://youtu.be/mVeXZzF5d-g?si=ilwqnLFPIODMFPfn)
+
+
 [Robert Lange](https://roberttlange.github.io/) (SakanaAI) : The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery [(video)](https://youtu.be/CFewReJ1Eyo?si=wAVrdLljR86Fnj9V)
 
 

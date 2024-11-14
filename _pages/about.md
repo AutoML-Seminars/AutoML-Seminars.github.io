@@ -21,7 +21,7 @@ The AutoML Seminar is organizes as part of the ELLIS units [Berlin](https://elli
 
 ### Next Talk
 
-**October 24th 4pm CEST - [Tennison Liu](https://tennisonliu.github.io/) and [Nicolas Astorga](https://scholar.google.com/citations?user=oLiBK8cAAAAJ&hl=es) - Large Language Models to Enhance Bayesian Optimization**
+**November 21st 11am CET - [Gabriela Kadlecova](https://gabikadlecova.github.io/) Title: GRAF: Performance Prediction with Neural Graph Features**
 
 
 
