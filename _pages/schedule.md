@@ -12,7 +12,7 @@ Subscribe to our [calendar](https://calendar.google.com/calendar/u/2?cid=YXV0b21
 
 ---------
 
-**November 21st 11am CET - [Gabriela Kadlecova](https://gabikadlecova.github.io/)**
+**November 21st 1pm CET - [Gabriela Kadlecova](https://gabikadlecova.github.io/)**
 
 Title: GRAF: Performance Prediction with Neural Graph Features
 

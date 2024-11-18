@@ -21,7 +21,7 @@ The AutoML Seminar is organizes as part of the ELLIS units [Berlin](https://elli
 
 ### Next Talk
 
-**November 21st 11am CET - [Gabriela Kadlecova](https://gabikadlecova.github.io/) Title: GRAF: Performance Prediction with Neural Graph Features**
+**November 21st 1pm CET - [Gabriela Kadlecova](https://gabikadlecova.github.io/) Title: GRAF: Performance Prediction with Neural Graph Features**
 
 
 
