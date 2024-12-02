@@ -10,13 +10,13 @@ nav_order: 5
 
 ## 2024
 
-[Gabriela Kadlecova](https://gabikadlecova.github.io/) (Charles University Prague): GRAF: Performance Prediction with Neural Graph Features [(video)](https://youtu.be/sANGdVWAAGg?si=wF_YBi454_kDLbaO)
+[Gabriela Kadlecova](https://gabikadlecova.github.io/) (Charles University Prague) - GRAF: Performance Prediction with Neural Graph Features [(video)](https://youtu.be/sANGdVWAAGg?si=wF_YBi454_kDLbaO)
 
 
-[Tennison Liu](https://tennisonliu.github.io/) and [Nicolas Astorga](https://scholar.google.com/citations?user=oLiBK8cAAAAJ&hl=es) (University of Cambridge) Large Language Models to Enhance Bayesian Optimization [(video)](https://youtu.be/mVeXZzF5d-g?si=ilwqnLFPIODMFPfn)
+[Tennison Liu](https://tennisonliu.github.io/) and [Nicolas Astorga](https://scholar.google.com/citations?user=oLiBK8cAAAAJ&hl=es) (University of Cambridge) - Large Language Models to Enhance Bayesian Optimization [(video)](https://youtu.be/mVeXZzF5d-g?si=ilwqnLFPIODMFPfn)
 
 
-[Robert Lange](https://roberttlange.github.io/) (SakanaAI) : The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery [(video)](https://youtu.be/CFewReJ1Eyo?si=wAVrdLljR86Fnj9V)
+[Robert Lange](https://roberttlange.github.io/) (SakanaAI) - The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery [(video)](https://youtu.be/CFewReJ1Eyo?si=wAVrdLljR86Fnj9V)
 
 
 [Linus Eriksson](https://linusericsson.github.io/) (University of Edinburgh) - einspace: Searching for Neural Architectures from Fundamental Operations [(video)](https://www.youtube.com/watch?v=3XLcFWRPB2E&t=1s)
