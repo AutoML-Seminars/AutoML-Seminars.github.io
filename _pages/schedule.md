@@ -12,7 +12,7 @@ Subscribe to our [calendar](https://calendar.google.com/calendar/u/2?cid=YXV0b21
 
 ---------
 
-**December 5th - [Virginia Aglietti](https://virgiagl.github.io/)**
+**December 5th 4pm CET - [Virginia Aglietti](https://virgiagl.github.io/)**
 
 Title: FunBO: Discovering Acquisition Functions for Bayesian Optimization with FunSearch
 

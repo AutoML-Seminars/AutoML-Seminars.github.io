@@ -22,7 +22,7 @@ The AutoML Seminar is organizes as part of the ELLIS units [Berlin](https://elli
 ### Next Talk
 
 
-**December 5th - [Virginia Aglietti](https://virgiagl.github.io/):  FunBO: Discovering Acquisition Functions for Bayesian Optimization with FunSearch**
+**December 5th 4pm CET - [Virginia Aglietti](https://virgiagl.github.io/):  FunBO: Discovering Acquisition Functions for Bayesian Optimization with FunSearch**
 
 
 
