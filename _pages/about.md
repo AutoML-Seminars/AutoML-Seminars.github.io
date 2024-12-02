@@ -21,8 +21,8 @@ The AutoML Seminar is organizes as part of the ELLIS units [Berlin](https://elli
 
 ### Next Talk
 
-**November 21st 1pm CET - [Gabriela Kadlecova](https://gabikadlecova.github.io/) Title: GRAF: Performance Prediction with Neural Graph Features**
 
+**December 5th - [Virginia Aglietti](https://virgiagl.github.io/):  FunBO: Discovering Acquisition Functions for Bayesian Optimization with FunSearch**
 
 
 

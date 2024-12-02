@@ -12,19 +12,11 @@ Subscribe to our [calendar](https://calendar.google.com/calendar/u/2?cid=YXV0b21
 
 ---------
 
-**November 21st 1pm CET - [Gabriela Kadlecova](https://gabikadlecova.github.io/)**
-
-Title: GRAF: Performance Prediction with Neural Graph Features
-
-Abstract:
-Performance prediction is an essential part of the NAS workflow.  It helps to accelerate search algorithms, pre-select promising networks, and estimate the latency and energy consumption of an architecture.  Recently, zero-cost proxies have emerged as fast and cheap estimators of network performance;  yet they often exhibit poor interpretability and inconsistent results over different search spaces and tasks.
-In this talk, we present GRAF, an interpretable network encoding based on topological features of the neural graph, such as operation counts, path lengths, and node degrees. GRAF is cheap and easy to compute, as it does not require any forward- or backward passes, and matches the correlation of commonly used zero-cost proxies on several different NAS benchmarks. Additionally, GRAF can be utilized alongside zero-cost proxies as input for a tabular performance predictor.  We present state-of-the-art results on several NAS benchmarks, hardware tasks, and robustness objectives.
-
----------
-
 **December 5th - [Virginia Aglietti](https://virgiagl.github.io/)**
 
-Title: TBA
+Title: FunBO: Discovering Acquisition Functions for Bayesian Optimization with FunSearch
 
-Abstract: TBA
+Abstract:
+
+The sample efficiency of Bayesian optimization algorithms depends on carefully crafted acquisition functions (AFs) guiding the sequential collection of function evaluations. The best-performing AF can vary significantly across optimization problems, often requiring ad-hoc and problem-specific choices. Defining methodologies that automatically identify new AFs capable of outperforming general-purpose and function-specific alternatives, both in and out of the training distribution, remains a significant and unaddressed challenge. In this talk I will formulate the problem of learning novel AFs as an algorithm discovery problem and address it by extending FunSearch, a recently proposed algorithm that uses LLMs to solve open problems in mathematical sciences. I’ll introduce FunBO, a novel method that explores the space of AFs written in computer code by leveraging access to a limited number of evaluations for a set of objective functions. I will show how FunBO identifies AFs that generalize well in and out of the training distribution of functions, thus outperforming established general-purpose AFs and achieving competitive performance against AFs that are customized to specific function types and are learned via transfer-learning algorithms.
 

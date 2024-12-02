@@ -10,6 +10,8 @@ nav_order: 5
 
 ## 2024
 
+[Gabriela Kadlecova](https://gabikadlecova.github.io/) (Charles University Prague): GRAF: Performance Prediction with Neural Graph Features [(video)](https://youtu.be/sANGdVWAAGg?si=wF_YBi454_kDLbaO)
+
 
 [Tennison Liu](https://tennisonliu.github.io/) and [Nicolas Astorga](https://scholar.google.com/citations?user=oLiBK8cAAAAJ&hl=es) (University of Cambridge) Large Language Models to Enhance Bayesian Optimization [(video)](https://youtu.be/mVeXZzF5d-g?si=ilwqnLFPIODMFPfn)
 
