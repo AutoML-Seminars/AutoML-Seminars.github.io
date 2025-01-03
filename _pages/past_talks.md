@@ -10,6 +10,8 @@ nav_order: 5
 
 ## 2024
 
+[Virginia Aglietti](https://virgiagl.github.io/) (Deepmind):  FunBO: Discovering Acquisition Functions for Bayesian Optimization with FunSearch [(video)](https://youtu.be/UBkJzIlPY08?si=2QqknvuNiB6gpY0l)
+
 [Gabriela Kadlecova](https://gabikadlecova.github.io/) (Charles University Prague) - GRAF: Performance Prediction with Neural Graph Features [(video)](https://youtu.be/sANGdVWAAGg?si=wF_YBi454_kDLbaO)
 
 
