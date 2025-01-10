@@ -21,9 +21,7 @@ The AutoML Seminar is organizes as part of the ELLIS units [Berlin](https://elli
 
 ### Next Talk
 
-
-**January 9th 3pm CET - [Julien Siems](https://scholar.google.de/citations?user=rKgTTh8AAAAJ&hl=de) and [Riccardo Grazzi](https://scholar.google.de/citations?user=9Tlyx1IAAAAJ&hl=de): Unlocking State-Tracking in Linear RNNs Through Negative Eigenvalues**
-
+**January 16th 3pm CET - [Katie Everett](https://www.katieeverett.com/): Scaling Exponents Across Parameterizations and Optimizers**
 
 
 ### Join the Talks

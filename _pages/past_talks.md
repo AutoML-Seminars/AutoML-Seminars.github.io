@@ -8,6 +8,11 @@ nav_order: 5
 ---
 
 
+## 2025
+
+[Julien Siems](https://juliensiems.github.io/) (University of Freiburg) and [Riccardo Grazzi](https://prolearner.github.io/riccardograzzi.github.io/) (IIT) - Unlocking State-Tracking in Linear RNNs Through Negative Eigenvalues [(video)](https://juliensiems.github.io/)
+
+
 ## 2024
 
 [Virginia Aglietti](https://virgiagl.github.io/) (Deepmind):  FunBO: Discovering Acquisition Functions for Bayesian Optimization with FunSearch [(video)](https://youtu.be/UBkJzIlPY08?si=2QqknvuNiB6gpY0l)
