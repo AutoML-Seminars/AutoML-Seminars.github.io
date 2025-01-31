@@ -10,6 +10,9 @@ nav_order: 5
 
 ## 2025
 
+[Katie Everett](https://www.katieeverett.com/) (Google) - Scaling Exponents Across Parameterizations and Optimizers [(video)](https://youtu.be/CnAfD7aVzLg?si=Q9RLPNX8el35xcTw)
+
+
 [Julien Siems](https://juliensiems.github.io/) (University of Freiburg) and [Riccardo Grazzi](https://prolearner.github.io/riccardograzzi.github.io/) (IIT) - Unlocking State-Tracking in Linear RNNs Through Negative Eigenvalues [(video)](https://juliensiems.github.io/)
 
 

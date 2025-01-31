@@ -21,7 +21,8 @@ The AutoML Seminar is organizes as part of the ELLIS units [Berlin](https://elli
 
 ### Next Talk
 
-**January 16th 3pm CET - [Katie Everett](https://www.katieeverett.com/): Scaling Exponents Across Parameterizations and Optimizers**
+**Feburary 13th 3pm CET - [Frank Hutter](https://ml.informatik.uni-freiburg.de/profile/hutter/): Accurate predictions on small data (and time series) with the tabular foundation model TabPFN**
+
 
 
 ### Join the Talks
