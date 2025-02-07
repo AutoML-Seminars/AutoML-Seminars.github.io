@@ -9,11 +9,22 @@ nav_order: 4
 
 
 Subscribe to our [calendar](https://calendar.google.com/calendar/u/2?cid=YXV0b21sc2VtaW5hckBnbWFpbC5jb20) for the most recent schedule.
+---------
+
+**Feburary 13th 2pm CET - [Oleksander Shchur](https://shchur.github.io/)**
+
+Title: Chronos: Time series forecasting in the age of pretrained models
+
+Abstract: 
+
+Time series forecasting is an essential component of decision-making in domains such as energy, retail, and finance. Traditionally, machine learning practitioners have focused on developing task-specific forecasting models that are restricted to a certain dataset or application domain. Inspired by the success of pretrained Large Language Models (LLMs) in natural language processing, it becomes imperative to explore whether a similar approach can be applied to forecasting: Can we train a single large model on huge amounts of diverse time series data, that will generalize to new unseen time series tasks? In this talk, we introduce Chronos, a family of pretrained forecasting models based on minimal modifications to LLM architectures, that accomplishes this goal. Chronos demonstrates remarkable zero-shot performance on unseen datasets, positioning pretrained models as a viable tool to greatly simplify forecasting pipelines. We discuss open challenges in the development and application of pretrained models for time series forecasting, and explore what role AutoML methods can play in overcoming them
+
+
 
 
 ---------
 
-**Feburary 13th 3pm CET - [Frank Hutter](https://ml.informatik.uni-freiburg.de/profile/hutter/)**
+**Feburary 20th 4pm CET - [Frank Hutter](https://ml.informatik.uni-freiburg.de/profile/hutter/)**
 
 Title: Accurate predictions on small data (and time series) with the tabular foundation model TabPFN
 
@@ -23,7 +34,7 @@ Tabular data, spreadsheets organized in rows and columns, are ubiquitous across 
 
 ---------
 
-**Feburary 20th - [Thomas Nagler]() and [Lennart Schneider]()**
+**Feburary 27th 3pm CET - [Thomas Nagler](https://tnagler.github.io/) and [Lennart Schneider](https://www.slds.stat.uni-muenchen.de/people/schneider/)**
 
 Title: Reshuffling Resampling Splits Can Improve Generalization of Hyperparameter Optimization
 
