@@ -10,6 +10,9 @@ nav_order: 5
 
 ## 2025
 
+[Oleksander Shchur](https://shchur.github.io/) - Chronos: Time series forecasting in the age of pretrained models [(video)](https://youtu.be/6eDVkNBxURo?si=uXEbKuAefjPcTJii)
+
+
 [Katie Everett](https://www.katieeverett.com/) (Google) - Scaling Exponents Across Parameterizations and Optimizers [(video)](https://youtu.be/CnAfD7aVzLg?si=Q9RLPNX8el35xcTw)
 
 

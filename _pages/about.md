@@ -21,7 +21,8 @@ The AutoML Seminar is organizes as part of the ELLIS units [Berlin](https://elli
 
 ### Next Talk
 
-**Feburary 13th 2pm CET - [Oleksander Shchur](https://shchur.github.io/): Chronos: Time series forecasting in the age of pretrained models**
+**Feburary 20th 4pm CET - [Frank Hutter](https://ml.informatik.uni-freiburg.de/profile/hutter/): Accurate predictions on small data (and time series) with the tabular foundation model TabPFN**
+
 
 
 ### Join the Talks
