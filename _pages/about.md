@@ -21,8 +21,8 @@ The AutoML Seminar is organizes as part of the ELLIS units [Berlin](https://elli
 
 ### Next Talk
 
-**Feburary 20th 4pm CET - [Frank Hutter](https://ml.informatik.uni-freiburg.de/profile/hutter/): Accurate predictions on small data (and time series) with the tabular foundation model TabPFN**
 
+**Feburary 27th 3pm CET - [Thomas Nagler](https://tnagler.github.io/) and [Lennart Schneider](https://www.slds.stat.uni-muenchen.de/people/schneider/): Reshuffling Resampling Splits Can Improve Generalization of Hyperparameter Optimization**
 
 
 ### Join the Talks

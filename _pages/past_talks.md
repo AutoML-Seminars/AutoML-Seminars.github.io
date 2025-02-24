@@ -10,6 +10,10 @@ nav_order: 5
 
 ## 2025
 
+
+[Frank Hutter](https://ml.informatik.uni-freiburg.de/profile/hutter/) - Accurate predictions on small data (and time series) with the tabular foundation model TabPFN [(video)](https://youtu.be/qFnYgM2Yvfs?si=_OYI7Xr50IXl6Nmn)
+
+
 [Oleksander Shchur](https://shchur.github.io/) - Chronos: Time series forecasting in the age of pretrained models [(video)](https://youtu.be/6eDVkNBxURo?si=uXEbKuAefjPcTJii)
 
 
