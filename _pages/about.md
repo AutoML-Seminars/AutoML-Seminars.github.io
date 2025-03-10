@@ -22,7 +22,9 @@ The AutoML Seminar is organizes as part of the ELLIS units [Berlin](https://elli
 ### Next Talk
 
 
-**Feburary 27th 3pm CET - [Thomas Nagler](https://tnagler.github.io/) and [Lennart Schneider](https://www.slds.stat.uni-muenchen.de/people/schneider/): Reshuffling Resampling Splits Can Improve Generalization of Hyperparameter Optimization**
+
+**March 13th 4pm CET - [Jonas Geiping](https://jonasgeiping.github.io/): Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach**
+
 
 
 ### Join the Talks

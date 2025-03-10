@@ -11,10 +11,13 @@ nav_order: 5
 ## 2025
 
 
-[Frank Hutter](https://ml.informatik.uni-freiburg.de/profile/hutter/) - Accurate predictions on small data (and time series) with the tabular foundation model TabPFN [(video)](https://youtu.be/qFnYgM2Yvfs?si=_OYI7Xr50IXl6Nmn)
+[Thomas Nagler](https://tnagler.github.io/) (LMU) and [Lennart Schneider](https://www.slds.stat.uni-muenchen.de/people/schneider/) (LMU) - Reshuffling Resampling Splits Can Improve Generalization of Hyperparameter Optimization [(video)](https://youtu.be/b_NZ2IxklD4?si=MukmWBWGJNTwOgP1)
 
 
-[Oleksander Shchur](https://shchur.github.io/) - Chronos: Time series forecasting in the age of pretrained models [(video)](https://youtu.be/6eDVkNBxURo?si=uXEbKuAefjPcTJii)
+[Frank Hutter](https://ml.informatik.uni-freiburg.de/profile/hutter/) (University of Freiburg, PriorLabs) - Accurate predictions on small data (and time series) with the tabular foundation model TabPFN [(video)](https://youtu.be/qFnYgM2Yvfs?si=_OYI7Xr50IXl6Nmn)
+
+
+[Oleksander Shchur](https://shchur.github.io/) (AWS) - Chronos: Time series forecasting in the age of pretrained models [(video)](https://youtu.be/6eDVkNBxURo?si=uXEbKuAefjPcTJii)
 
 
 [Katie Everett](https://www.katieeverett.com/) (Google) - Scaling Exponents Across Parameterizations and Optimizers [(video)](https://youtu.be/CnAfD7aVzLg?si=Q9RLPNX8el35xcTw)

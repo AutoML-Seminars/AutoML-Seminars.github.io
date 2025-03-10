@@ -10,30 +10,16 @@ nav_order: 4
 
 Subscribe to our [calendar](https://calendar.google.com/calendar/u/2?cid=YXV0b21sc2VtaW5hckBnbWFpbC5jb20) for the most recent schedule.
 
----------
-
-**Feburary 27th 3pm CET - [Thomas Nagler](https://tnagler.github.io/) and [Lennart Schneider](https://www.slds.stat.uni-muenchen.de/people/schneider/)**
-
-Title: Reshuffling Resampling Splits Can Improve Generalization of Hyperparameter Optimization
-
-Abstract: 
-
-Hyperparameter optimization is crucial for obtaining peak performance of machine learning models.
-The standard protocol evaluates various hyperparameter configurations using a resampling estimate of the generalization error to guide optimization and select a final hyperparameter configuration.
-Without much evidence, paired resampling splits, i.e., either a fixed train-validation split or a fixed cross-validation scheme, are often recommended.
-We show that, surprisingly, reshuffling the splits for every configuration often improves the final model's generalization performance on unseen data.
-Our theoretical analysis explains how reshuffling affects the asymptotic behavior of the validation loss surface and provides a bound on the expected regret in the limiting regime.
-This bound connects the potential benefits of reshuffling to the signal and noise characteristics of the underlying optimization problem.
-We confirm our theoretical results in a controlled simulation study and demonstrate the practical usefulness of reshuffling in a large-scale, realistic hyperparameter optimization experiment.
-While reshuffling leads to test performances that are competitive with using fixed splits, it drastically improves results for a single train-validation holdout protocol and can often make holdout become competitive with standard CV while being computationally cheaper.
 
 ---------
 
 **March 13th 4pm CET - [Jonas Geiping](https://jonasgeiping.github.io/)**
 
-Title: TBD
+Title: Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach
 
-Abstract: TBD
+Abstract: 
+
+We study a novel language model architecture that is capable of scaling test-time computation by implicitly reasoning in latent space. Our model works by iterating a recurrent block, thereby unrolling to arbitrary depth at test-time. This stands in contrast to mainstream reasoning models that scale up compute by producing more tokens. Unlike approaches based on chain-of-thought, our approach does not require any specialized training data, can work with small context windows, and can capture types of reasoning that are not easily represented in words. We scale a proof-of-concept model to 3.5 billion parameters and 800 billion tokens. We show that the resulting model can improve its performance on reasoning benchmarks, sometimes dramatically, up to a computation load equivalent to 50 billion parameters.
 
 
 
