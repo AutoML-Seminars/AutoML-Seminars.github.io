@@ -21,9 +21,7 @@ The AutoML Seminar is organizes as part of the ELLIS units [Berlin](https://elli
 
 ### Next Talk
 
-
-
-**March 13th 4pm CET - [Jonas Geiping](https://jonasgeiping.github.io/): Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach**
+**March 27th 5:30pm CET - [Nick Erickson](https://scholar.google.com/citations?user=I0nj-TcAAAAJ&hl=en):  AutoML in the Age of Structured Foundation Models**
 
 
 

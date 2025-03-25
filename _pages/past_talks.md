@@ -11,6 +11,9 @@ nav_order: 5
 ## 2025
 
 
+[Jonas Geiping](https://jonasgeiping.github.io/) (ELLIS Institute) - Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach [(video)](https://youtu.be/tONsqY7gXAU?si=4G09MuJqcEhYeofa)
+
+
 [Thomas Nagler](https://tnagler.github.io/) (LMU) and [Lennart Schneider](https://www.slds.stat.uni-muenchen.de/people/schneider/) (LMU) - Reshuffling Resampling Splits Can Improve Generalization of Hyperparameter Optimization [(video)](https://youtu.be/b_NZ2IxklD4?si=MukmWBWGJNTwOgP1)
 
 
