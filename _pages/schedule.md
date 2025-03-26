@@ -24,5 +24,13 @@ Abstract:
 Structured foundation models such as TabPFNv2 and Chronos have recently demonstrated remarkable performance in the domains of tabular and time series data, outperforming most if not all traditional baselines on small to medium scale datasets, and in some cases even being competitive with or outperforming state-of-the-art AutoML frameworks while requiring far less overall training time. While some may worry that this marks the end of AutoML systems, I will make the case that AutoML will become more important than ever in this new foundation model driven era.
 
 
+---------
+
+**April 24th 1:00pm CET - [Leonard Papenmeier](https://leonard.papenmeier.io/)**
+
+Title:  TBA
+
+Abstract: TBA
+
 
 
