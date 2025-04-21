@@ -21,7 +21,8 @@ The AutoML Seminar is organizes as part of the ELLIS units [Berlin](https://elli
 
 ### Next Talk
 
-**March 27th 5:30pm CET - [Nick Erickson](https://scholar.google.com/citations?user=I0nj-TcAAAAJ&hl=en):  AutoML in the Age of Structured Foundation Models**
+**April 24th 1:00pm CET - [Leonard Papenmeier](https://leonard.papenmeier.io/):  Understanding High-Dimensional Bayesian Optimization**
+
 
 
 

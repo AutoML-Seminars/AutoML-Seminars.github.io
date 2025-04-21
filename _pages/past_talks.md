@@ -10,6 +10,9 @@ nav_order: 5
 
 ## 2025
 
+[Nick Erickson](https://scholar.google.com/citations?user=I0nj-TcAAAAJ&hl=en) (AWS) - AutoML in the Age of Structured Foundation Models [(video)](https://youtu.be/LnXdFoKi-Mc?si=mPoPH4KWj09XKMvD)
+
+
 
 [Jonas Geiping](https://jonasgeiping.github.io/) (ELLIS Institute) - Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach [(video)](https://youtu.be/tONsqY7gXAU?si=4G09MuJqcEhYeofa)
 

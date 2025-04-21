@@ -15,22 +15,13 @@ Subscribe to our [calendar](https://calendar.google.com/calendar/u/2?cid=YXV0b21
 
 ---------
 
-**March 27th 5:30pm CET - [Nick Erickson](https://scholar.google.com/citations?user=I0nj-TcAAAAJ&hl=en)**
+**April 24th 1:00pm CET - [Leonard Papenmeier](https://leonard.papenmeier.io/)**
 
-Title:  AutoML in the Age of Structured Foundation Models
+Title:  Understanding High-Dimensional Bayesian Optimization
 
 Abstract: 
 
-Structured foundation models such as TabPFNv2 and Chronos have recently demonstrated remarkable performance in the domains of tabular and time series data, outperforming most if not all traditional baselines on small to medium scale datasets, and in some cases even being competitive with or outperforming state-of-the-art AutoML frameworks while requiring far less overall training time. While some may worry that this marks the end of AutoML systems, I will make the case that AutoML will become more important than ever in this new foundation model driven era.
-
-
----------
-
-**April 24th 1:00pm CET - [Leonard Papenmeier](https://leonard.papenmeier.io/)**
-
-Title:  TBA
-
-Abstract: TBA
+Recent work reported that simple Bayesian optimization methods perform well for high-dimensional real-world tasks, seemingly contradicting prior work and tribal knowledge. In this talk, we identify fundamental challenges in high-dimensional Bayesian optimization (HDBO) and explain why recent methods succeed. Our analysis shows that two types of vanishing gradients caused by Gaussian process (GP) initialization schemes play a major role in the failures of high-dimensional Bayesian optimization and that methods that promote local search behaviors are better suited for the task. We discuss how a simple variant of maximum likelihood estimation of GP length scales achieves state-of-the-art performance on a comprehensive set of real-world applications by leveraging these insights and discuss whether HDBO can be considered solved.
 
 
 
