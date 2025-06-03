@@ -10,6 +10,8 @@ nav_order: 5
 
 ## 2025
 
+[Leonard Papenmeier](https://leonard.papenmeier.io/) (University of Lund) - Understanding High-Dimensional Bayesian Optimization [(video)](https://youtu.be/SPrlBHwsm4E?si=PBXjD0x1jiy8wB-v)
+
 [Nick Erickson](https://scholar.google.com/citations?user=I0nj-TcAAAAJ&hl=en) (AWS) - AutoML in the Age of Structured Foundation Models [(video)](https://youtu.be/LnXdFoKi-Mc?si=mPoPH4KWj09XKMvD)
 
 

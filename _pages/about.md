@@ -21,7 +21,7 @@ The AutoML Seminar is organizes as part of the ELLIS units [Berlin](https://elli
 
 ### Next Talk
 
-**April 24th 1:00pm CET - [Leonard Papenmeier](https://leonard.papenmeier.io/):  Understanding High-Dimensional Bayesian Optimization**
+**June 5th 3:00pm CET - [Lennart Schneider](https://www.slds.stat.uni-muenchen.de/people/schneider/):  Hyperband-based Bayesian Optimization for Efficient Black-box Prompt Selection**
 
 
 

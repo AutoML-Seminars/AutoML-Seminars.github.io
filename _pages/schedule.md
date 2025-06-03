@@ -15,13 +15,23 @@ Subscribe to our [calendar](https://calendar.google.com/calendar/u/2?cid=YXV0b21
 
 ---------
 
-**April 24th 1:00pm CET - [Leonard Papenmeier](https://leonard.papenmeier.io/)**
+**June 5th 3:00pm CET - [Lennart Schneider](https://www.slds.stat.uni-muenchen.de/people/schneider/)**
 
-Title:  Understanding High-Dimensional Bayesian Optimization
+Title:  Hyperband-based Bayesian Optimization for Efficient Black-box Prompt Selection
 
 Abstract: 
 
-Recent work reported that simple Bayesian optimization methods perform well for high-dimensional real-world tasks, seemingly contradicting prior work and tribal knowledge. In this talk, we identify fundamental challenges in high-dimensional Bayesian optimization (HDBO) and explain why recent methods succeed. Our analysis shows that two types of vanishing gradients caused by Gaussian process (GP) initialization schemes play a major role in the failures of high-dimensional Bayesian optimization and that methods that promote local search behaviors are better suited for the task. We discuss how a simple variant of maximum likelihood estimation of GP length scales achieves state-of-the-art performance on a comprehensive set of real-world applications by leveraging these insights and discuss whether HDBO can be considered solved.
+Optimal prompt selection is a key factor for good performance of large language models (LLMs) on downstream tasks. However, in black-box settings, where models are only accessible via APIs, automated selection becomes a combinatorial, gradient-free optimization problem with high evaluation costs. We introduce HbBoPs, a framework that integrates a structural-aware Gaussian process surrogate with Hyperband as a multi-fidelity scheduler for sample-efficient black-box prompt selection. By representing prompts through embeddings of instructions and exemplars as modular components, our surrogate captures structural similarities across prompts. Hyperband allows for adaptively allocating computational budget, evaluating prompts at varying fidelity levels, and strongly reducing the number of full prompt evaluations. We validate our approach on ten datasets across three LLMs and demonstrate consistent improvements over state-of-the-art baselines and competitors. This work broadens the scope of AutoML by extending multi-fidelity Bayesian optimization, traditionally applied to hyperparameter or neural architecture search, to structured, high-cost decision spaces in modern NLP.
 
+
+---------
+
+**June 19th 3:00pm CET - [David Salinas](https://geoalgo.github.io/)**
+
+Title:  TBA
+
+Abstract: 
+
+TBA
 
 
