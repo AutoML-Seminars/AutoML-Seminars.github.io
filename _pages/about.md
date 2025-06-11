@@ -21,7 +21,8 @@ The AutoML Seminar is organizes as part of the ELLIS units [Berlin](https://elli
 
 ### Next Talk
 
-**June 5th 3:00pm CET - [Lennart Schneider](https://www.slds.stat.uni-muenchen.de/people/schneider/):  Hyperband-based Bayesian Optimization for Efficient Black-box Prompt Selection**
+**June 19th 3:00pm CET - [David Salinas](https://geoalgo.github.io/):  Tuning LLM Judge Design Decisions for 1/1000 of the Cost**
+
 
 
 

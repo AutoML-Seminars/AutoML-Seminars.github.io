@@ -10,10 +10,11 @@ nav_order: 5
 
 ## 2025
 
+[Lennart Schneider](https://www.slds.stat.uni-muenchen.de/people/schneider/): (LMU) - Hyperband-based Bayesian Optimization for Efficient Black-box Prompt Selection [(video)](https://youtu.be/cEoPJC9zQs0?si=LP4D9c5NNimZz5yL)
+
 [Leonard Papenmeier](https://leonard.papenmeier.io/) (University of Lund) - Understanding High-Dimensional Bayesian Optimization [(video)](https://youtu.be/SPrlBHwsm4E?si=PBXjD0x1jiy8wB-v)
 
 [Nick Erickson](https://scholar.google.com/citations?user=I0nj-TcAAAAJ&hl=en) (AWS) - AutoML in the Age of Structured Foundation Models [(video)](https://youtu.be/LnXdFoKi-Mc?si=mPoPH4KWj09XKMvD)
-
 
 
 [Jonas Geiping](https://jonasgeiping.github.io/) (ELLIS Institute) - Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach [(video)](https://youtu.be/tONsqY7gXAU?si=4G09MuJqcEhYeofa)
