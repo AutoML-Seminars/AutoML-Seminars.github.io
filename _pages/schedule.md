@@ -12,7 +12,7 @@ Subscribe to our [calendar](https://calendar.google.com/calendar/u/2?cid=YXV0b21
 
 ---------
 
-**July 10th 3:00pm CET - [Lennart Purucker]()https://scholar.google.com/citations?user=x_HyTt0AAAAJ&hl=de**
+**July 10th 3:00pm CET - [Lennart Purucker](https://scholar.google.com/citations?user=x_HyTt0AAAAJ&hl=de)**
 
 Title: TabArena: A Living Benchmark for Machine Learning on Tabular Data
 
