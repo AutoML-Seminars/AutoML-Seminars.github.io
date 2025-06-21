@@ -21,7 +21,8 @@ The AutoML Seminar is organizes as part of the ELLIS units [Berlin](https://elli
 
 ### Next Talk
 
-**June 19th 3:00pm CET - [David Salinas](https://geoalgo.github.io/):  Tuning LLM Judge Design Decisions for 1/1000 of the Cost**
+
+**July 10th 3:00pm CET - [Lennart Purucker](https://scholar.google.com/citations?user=x_HyTt0AAAAJ&hl=de): TabArena: A Living Benchmark for Machine Learning on Tabular Data**
 
 
 

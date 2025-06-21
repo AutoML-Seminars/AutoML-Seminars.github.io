@@ -10,6 +10,9 @@ nav_order: 5
 
 ## 2025
 
+
+[David Salinas](https://geoalgo.github.io/) (ELLIS Institute) - Tuning LLM Judge Design Decisions for 1/1000 of the Cost [(video)](https://youtu.be/mOaSsyx0pHU?si=a05O11DQhK8uUBMf)
+
 [Lennart Schneider](https://www.slds.stat.uni-muenchen.de/people/schneider/): (LMU) - Hyperband-based Bayesian Optimization for Efficient Black-box Prompt Selection [(video)](https://youtu.be/cEoPJC9zQs0?si=LP4D9c5NNimZz5yL)
 
 [Leonard Papenmeier](https://leonard.papenmeier.io/) (University of Lund) - Understanding High-Dimensional Bayesian Optimization [(video)](https://youtu.be/SPrlBHwsm4E?si=PBXjD0x1jiy8wB-v)
