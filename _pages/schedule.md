@@ -28,4 +28,12 @@ Title: TBA
 
 Abstract: TBA 
 
+---------
+
+**September 25th 3:00pm CET - [Luigi Acerbi](https://lacerbi.github.io/)**
+
+Title: TBA
+
+Abstract: TBA 
+
 
