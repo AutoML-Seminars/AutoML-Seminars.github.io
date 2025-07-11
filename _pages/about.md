@@ -22,8 +22,7 @@ The AutoML Seminar is organizes as part of the ELLIS units [Berlin](https://elli
 ### Next Talk
 
 
-**July 10th 3:00pm CET - [Lennart Purucker](https://scholar.google.com/citations?user=x_HyTt0AAAAJ&hl=de): TabArena: A Living Benchmark for Machine Learning on Tabular Data**
-
+**July 31st 3:00pm CET - [Elena Raponi](https://www.universiteitleiden.nl/en/staffmembers/elena-raponi/publications#tab-1) and [Niki van Stein](https://www.universiteitleiden.nl/en/staffmembers/niki-van-stein#tab-1): TBA **
 
 
 

@@ -10,6 +10,7 @@ nav_order: 5
 
 ## 2025
 
+[Lennart Purucker](https://scholar.google.com/citations?user=x_HyTt0AAAAJ&hl=de) (University of Freiburg) - TabArena: A Living Benchmark for Machine Learning on Tabular Data [(video)](https://youtu.be/mcPRMcJHW2Y?si=hg4QfvlkUWHHXMrF)
 
 [David Salinas](https://geoalgo.github.io/) (ELLIS Institute) - Tuning LLM Judge Design Decisions for 1/1000 of the Cost [(video)](https://youtu.be/mOaSsyx0pHU?si=a05O11DQhK8uUBMf)
 
