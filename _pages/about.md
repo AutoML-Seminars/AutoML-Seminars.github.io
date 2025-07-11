@@ -15,8 +15,6 @@ There is a body of work that provides efficient methods to automatically optimiz
 
 However, with the rising popularity of AutoML both in academia and industry, it also becomes increasingly harder to keep up with the latest work. The AutoML seminar is a platform to learn and discuss recent work in this field. In regular sessions we organize 40 minute talks by someone from the AutoML community followed by a 20 minute discussion. 
 All content is free and open to anyone. If you are interested and want to join, please follow the steps listed below.
-The AutoML Seminar is organizes as part of the ELLIS units [Berlin](https://ellis.eu/units/berlin) and [Freiburg](https://ellis.eu/units/freiburg)  and [ScaDS.AI](https://scads.ai/).
-
 
 
 ### Next Talk
@@ -59,7 +57,7 @@ We particularly invite *junior* researchers to present their work. Talks should 
     <td style="text-align:center"><img src="assets/img/cedric.jpg" height="120"></td>
   </tr>
   <tr>
-    <td style="text-align:center"><a href="https://aaronkl.github.io/">Aaron Klein</a> <br> ScaDS.AI</td>
+    <td style="text-align:center"><a href="https://aaronkl.github.io/">Aaron Klein</a> <br> ELLIS Institute Tuebingen</td>
     <td style="text-align:center"><a href="https://ml.informatik.uni-freiburg.de/profile/zela/">Arber Zela</a> <br> University of Freiburg</td>
     <td style="text-align:center"><a href="https://giovannizappella.github.io/">Giovanni Zappella</a> <br>Amazon Web Services</td>
     <td style="text-align:center"><a href="https://jovitalukasik.github.io//">Jovita Lukasik</a> <br> University of Siegen</td>
