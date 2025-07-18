@@ -20,7 +20,7 @@ All content is free and open to anyone. If you are interested and want to join, 
 ### Next Talk
 
 
-**July 31st 3:00pm CET - [Elena Raponi](https://www.universiteitleiden.nl/en/staffmembers/elena-raponi/publications#tab-1) and [Niki van Stein](https://www.universiteitleiden.nl/en/staffmembers/niki-van-stein#tab-1): TBA**
+**July 31st 3:00pm CET - [Elena Raponi](https://www.universiteitleiden.nl/en/staffmembers/elena-raponi/publications#tab-1) and [Niki van Stein](https://www.universiteitleiden.nl/en/staffmembers/niki-van-stein#tab-1): LLaMEA-BO: A Large Language Model Evolutionary Algorithm for Automatically Generating Bayesian Optimization Algorithms**
 
 
 
