@@ -10,6 +10,9 @@ nav_order: 5
 
 ## 2025
 
+[Elena Raponi](https://www.universiteitleiden.nl/en/staffmembers/elena-raponi/publications#tab-1) (Leiden University) and [Niki van Stein](https://www.universiteitleiden.nl/en/staffmembers/niki-van-stein#tab-1) (Leiden University) - LLaMEA-BO: A Large Language Model Evolutionary Algorithm for Automatically Generating Bayesian Optimization Algorithms [(video)](https://youtu.be/_owRHzenX-8?si=x1FBnDCJDnXgT4st)
+
+
 [Lennart Purucker](https://scholar.google.com/citations?user=x_HyTt0AAAAJ&hl=de) (University of Freiburg) - TabArena: A Living Benchmark for Machine Learning on Tabular Data [(video)](https://youtu.be/mcPRMcJHW2Y?si=hg4QfvlkUWHHXMrF)
 
 [David Salinas](https://geoalgo.github.io/) (ELLIS Institute) - Tuning LLM Judge Design Decisions for 1/1000 of the Cost [(video)](https://youtu.be/mOaSsyx0pHU?si=a05O11DQhK8uUBMf)
