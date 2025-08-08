@@ -18,4 +18,12 @@ Title: TBA
 
 Abstract: TBA 
 
+---------
+
+**October 2nd 3:00pm CET - [Carolin Benjamins](https://www.ai.uni-hannover.de/de/institut/team-luhai/benjamins)**
+
+Title: TBA
+
+Abstract: TBA 
+
 
