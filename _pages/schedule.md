@@ -14,9 +14,14 @@ Subscribe to our [calendar](https://calendar.google.com/calendar/u/2?cid=YXV0b21
 
 **September 25th 3:00pm CET - [Luigi Acerbi](https://lacerbi.github.io/)**
 
-Title: TBA
+Title: Accelerating Bayesian Inference and Data Acquisition via Amortization
 
-Abstract: TBA 
+Abstract: 
+
+Many critical applications demand systems that can both strategically acquire the most informative data and instantaneously perform inference based upon it. Bayesian inference and Bayesian experimental design offer principled mathematical means for reasoning under uncertainty and for strategically gathering data, respectively. While foundational, both methods introduce notorious computational challenges. In recent years, amortized solutions have been proposed to address these issues by pre-training neural networks via synthetic data, significantly reducing computational costs at deployment.
+In this talk, I will first introduce our Amortized Conditioning Engine (ACE), a flexible amortized inference framework that affords conditioning on both observed data and interpretable latent variables, the inclusion of priors at runtime, and outputs predictive distributions for both discrete and continuous data and latents. I will then share our latest work, the Amortized active Learning and INference Engine (ALINE). ALINE combines the advantages of amortized inference and experimental design into a single, unified framework. It is capable of rapidly proposing valuable data points while simultaneously performing fast, flexible inference based on the collected data, thus seamlessly closing the loop between active data acquisition and real-time reasoning.
+
+
 
 ---------
 
