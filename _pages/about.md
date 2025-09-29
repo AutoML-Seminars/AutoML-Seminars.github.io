@@ -21,7 +21,7 @@ All content is free and open to anyone. If you are interested and want to join, 
 
 
 
-**September 25th 3:00pm CET - [Luigi Acerbi](https://lacerbi.github.io/): Accelerating Bayesian Inference and Data Acquisition via Amortization**
+**October 2nd 3:00pm CET - [Carolin Benjamins](https://www.ai.uni-hannover.de/de/institut/team-luhai/benjamins): carps: A Framework for Comparing N Hyperparameter Optimizers on M Benchmarks**
 
 
 

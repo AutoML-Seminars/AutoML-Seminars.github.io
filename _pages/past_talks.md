@@ -10,6 +10,8 @@ nav_order: 5
 
 ## 2025
 
+[Luigi Acerbi](https://lacerbi.github.io/)(University of Helsinki) - Accelerating Bayesian Inference and Data Acquisition via Amortization [(video)](University of Helsinki)
+
 [Elena Raponi](https://www.universiteitleiden.nl/en/staffmembers/elena-raponi/publications#tab-1) (Leiden University) and [Niki van Stein](https://www.universiteitleiden.nl/en/staffmembers/niki-van-stein#tab-1) (Leiden University) - LLaMEA-BO: A Large Language Model Evolutionary Algorithm for Automatically Generating Bayesian Optimization Algorithms [(video)](https://youtu.be/_owRHzenX-8?si=x1FBnDCJDnXgT4st)
 
 
