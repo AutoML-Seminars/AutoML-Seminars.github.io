@@ -21,7 +21,7 @@ All content is free and open to anyone. If you are interested and want to join, 
 
 
 
-**October 2nd 3:00pm CET - [Carolin Benjamins](https://www.ai.uni-hannover.de/de/institut/team-luhai/benjamins): carps: A Framework for Comparing N Hyperparameter Optimizers on M Benchmarks**
+**October 16th 3:00pm CET - [Jan van Rijn](www.universiteitleiden.nl/en/staffmembers/jan-van-rijn#tab-1): Multi-Objective AutoML: Towards Accurate and Robust models**
 
 
 
