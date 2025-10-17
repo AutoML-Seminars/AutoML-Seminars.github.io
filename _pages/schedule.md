@@ -12,14 +12,11 @@ Subscribe to our [calendar](https://calendar.google.com/calendar/u/2?cid=YXV0b21
 
 ---------
 
-**October 16th 3:00pm CET - [Jan van Rijn](www.universiteitleiden.nl/en/staffmembers/jan-van-rijn#tab-1)**
+**October 30th 3:00pm CET - [Jake Robertson](https://jr2021.github.io/) and [Arik Reuter]()**
 
-Title: Multi-Objective AutoML: Towards Accurate and Robust models
+Title: Do-PFN: In-Context Learning for Causal Effect Estimation
 
 Abstract: 
 
-Machine learning models have to adhere to many requirements. Beyond the need to be accurate and small enough to be deployed on satellite hardware, they need to be robust against various types of domain shifts. Automated machine learning has been successful in supporting data scientists in selecting appropriate machine learning architectures, as well as optimising hyperparameters. By doing so, data scientists can focus their attention on more important tasks. 
-
-During the Horizon TAILOR project, we have seen a demand for AutoML techniques to not only provide solutions that are accurate but also those that are trustworthy according to several relevant criteria. 
-Many models are known to be vulnerable to various types of input perturbations, whereas robustness against such deviations is an important criterion of trustworthiness. In this talk, I will summarise various projects we have done towards this goal, which envision AutoML solutions that specifically address the robustness of neural networks, but also include what hyperparameters are important to tune.
+Estimation of causal effects is critical to a range of scientific disciplines. Existing methods for this task either require interventional data, knowledge about the ground truth causal graph, or rely on assumptions such as unconfoundedness, restricting their applicability in real-world settings. In the domain of tabular machine learning, Prior-data fitted networks (PFNs) have achieved state-of-the-art predictive performance, having been pre-trained on synthetic data to solve tabular prediction problems via in-context learning. To assess whether this can be transferred to the harder problem of causal effect estimation, we pre-train PFNs on synthetic data drawn from a wide variety of causal structures, including interventions, to predict interventional outcomes given observational data. Through extensive experiments on synthetic case studies, we show that our approach allows for the accurate estimation of causal effects without knowledge of the underlying causal graph. We also perform ablation studies that elucidate Do-PFN's scalability and robustness across datasets with a variety of causal characteristics.
 

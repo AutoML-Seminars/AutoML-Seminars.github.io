@@ -19,10 +19,7 @@ All content is free and open to anyone. If you are interested and want to join, 
 
 ### Next Talk
 
-
-
-**October 16th 3:00pm CET - [Jan van Rijn](www.universiteitleiden.nl/en/staffmembers/jan-van-rijn#tab-1): Multi-Objective AutoML: Towards Accurate and Robust models**
-
+**October 30th 3:00pm CET - [Jake Robertson](https://jr2021.github.io/) and [Arik Reuter](): Do-PFN: In-Context Learning for Causal Effect Estimation**
 
 
 ### Join the Talks
