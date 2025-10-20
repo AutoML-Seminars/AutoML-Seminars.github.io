@@ -10,7 +10,7 @@ nav_order: 5
 
 ## 2025
 
-[Jan van Rijn](www.universiteitleiden.nl/en/staffmembers/jan-van-rijn#tab-1) - Multi-Objective AutoML: Towards Accurate and Robust models [(video)](https://youtu.be/MIseruc1SWA?si=eXUL58y3THZ9qico)
+[Jan van Rijn](www.universiteitleiden.nl/en/staffmembers/jan-van-rijn#tab-1) (University of Leiden) - Multi-Objective AutoML: Towards Accurate and Robust models [(video)](https://youtu.be/MIseruc1SWA?si=eXUL58y3THZ9qico)
 
 
 [Carolin Benjamins](https://www.ai.uni-hannover.de/de/institut/team-luhai/benjamins) (University of Hannover) - carps: A Framework for Comparing N Hyperparameter Optimizers on M Benchmarks [(video)](https://youtu.be/1EtNTxT4j18?si=12Zmcttt3lwwQdt6)
