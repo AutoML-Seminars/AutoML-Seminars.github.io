@@ -24,15 +24,16 @@ Estimation of causal effects is critical to a range of scientific disciplines. E
 
 **November 20th 3:00pm CET - [Tome Eftimov]()**
 
-Title: TBD
-Abstract: TBD
+Title: TBA
+
+Abstract: TBA
 
 ---------
 
 **November 27th 3:00pm CET - [Jacek Golebiowski](https://www.linkedin.com/in/jacek-golebiowski)**
 
-Title: TBD
+Title: TBA
 
-Abstract: TBD
+Abstract: TBA
 
 
