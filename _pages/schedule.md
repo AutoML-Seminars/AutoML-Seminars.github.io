@@ -12,7 +12,7 @@ Subscribe to our [calendar](https://calendar.google.com/calendar/u/2?cid=YXV0b21
 
 ---------
 
-**October 30th 3:00pm CET - [Jake Robertson](https://jr2021.github.io/) and [Arik Reuter]()**
+**October 30th 3:00pm CET - [Jake Robertson](https://jr2021.github.io/) and [Arik Reuter](https://arikreuter.github.io/)**
 
 Title: Do-PFN: In-Context Learning for Causal Effect Estimation
 
