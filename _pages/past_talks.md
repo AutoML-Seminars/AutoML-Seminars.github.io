@@ -10,6 +10,9 @@ nav_order: 5
 
 ## 2025
 
+[Jake Robertson](https://jr2021.github.io/) (ELLIS Institute Tübingen) and [Arik Reuter](https://arikreuter.github.io/) (Max Planck Institute for Intelligent Systems) - Do-PFN: In-Context Learning for Causal Effect Estimation [(video)](https://youtu.be/yTbY4SpPJcE?si=QE5v44LY7oHoHwyc)
+
+
 [Jan van Rijn](www.universiteitleiden.nl/en/staffmembers/jan-van-rijn#tab-1) (University of Leiden) - Multi-Objective AutoML: Towards Accurate and Robust models [(video)](https://youtu.be/MIseruc1SWA?si=eXUL58y3THZ9qico)
 
 

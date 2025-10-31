@@ -12,15 +12,6 @@ Subscribe to our [calendar](https://calendar.google.com/calendar/u/2?cid=YXV0b21
 
 ---------
 
-**October 30th 3:00pm CET - [Jake Robertson](https://jr2021.github.io/) and [Arik Reuter](https://arikreuter.github.io/)**
-
-Title: Do-PFN: In-Context Learning for Causal Effect Estimation
-
-Abstract: 
-
-Estimation of causal effects is critical to a range of scientific disciplines. Existing methods for this task either require interventional data, knowledge about the ground truth causal graph, or rely on assumptions such as unconfoundedness, restricting their applicability in real-world settings. In the domain of tabular machine learning, Prior-data fitted networks (PFNs) have achieved state-of-the-art predictive performance, having been pre-trained on synthetic data to solve tabular prediction problems via in-context learning. To assess whether this can be transferred to the harder problem of causal effect estimation, we pre-train PFNs on synthetic data drawn from a wide variety of causal structures, including interventions, to predict interventional outcomes given observational data. Through extensive experiments on synthetic case studies, we show that our approach allows for the accurate estimation of causal effects without knowledge of the underlying causal graph. We also perform ablation studies that elucidate Do-PFN's scalability and robustness across datasets with a variety of causal characteristics.
-
----------
 
 **November 20th 3:00pm CET - [Tome Eftimov]()**
 
@@ -35,5 +26,14 @@ Abstract: TBA
 Title: TBA
 
 Abstract: TBA
+
+---------
+
+**Januar 15th 3:00pm CET - [Andrei Paleyes](https://paleyes.info/)**
+
+Title: TBA
+
+Abstract: TBA
+
 
 

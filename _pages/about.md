@@ -19,7 +19,7 @@ All content is free and open to anyone. If you are interested and want to join, 
 
 ### Next Talk
 
-**October 30th 3:00pm CET - [Jake Robertson](https://jr2021.github.io/) and [Arik Reuter](https://arikreuter.github.io/): Do-PFN: In-Context Learning for Causal Effect Estimation**
+**November 20th 3:00pm CET - [Tome Eftimov](): TBA**
 
 
 ### Join the Talks
