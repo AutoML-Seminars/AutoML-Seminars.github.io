@@ -19,7 +19,7 @@ All content is free and open to anyone. If you are interested and want to join, 
 
 ### Next Talk
 
-**November 20th 3:00pm CET - [Tome Eftimov](): TBA**
+**November 20th 3:00pm CET - [Tome Eftimov](http://cs.ijs.si/eftimov/): TBA**
 
 
 ### Join the Talks

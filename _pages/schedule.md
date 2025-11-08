@@ -13,7 +13,7 @@ Subscribe to our [calendar](https://calendar.google.com/calendar/u/2?cid=YXV0b21
 ---------
 
 
-**November 20th 3:00pm CET - [Tome Eftimov]()**
+**November 20th 3:00pm CET - [Tome Eftimov](http://cs.ijs.si/eftimov/)**
 
 Title: TBA
 
