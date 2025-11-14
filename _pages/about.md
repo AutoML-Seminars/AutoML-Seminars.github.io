@@ -19,7 +19,7 @@ All content is free and open to anyone. If you are interested and want to join, 
 
 ### Next Talk
 
-**November 20th 3:00pm CET - [Tome Eftimov](http://cs.ijs.si/eftimov/): TBA**
+**November 20th 3:00pm CET - [Tome Eftimov](http://cs.ijs.si/eftimov/): Benchmarking Beyond Statistics: Data-Driven Footprints for Explainable Black-Box Optimization**
 
 
 ### Join the Talks
