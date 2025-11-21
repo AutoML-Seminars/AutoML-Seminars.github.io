@@ -10,6 +10,8 @@ nav_order: 5
 
 ## 2025
 
+[Tome Eftimov](http://cs.ijs.si/eftimov/) (Jožef Stefan Institute) -  Benchmarking Beyond Statistics: Data-Driven Footprints for Explainable Black-Box Optimization [(video)](https://youtu.be/c19iox5tWoE?si=H-nHbQFWop7wNqHz)
+
 [Jake Robertson](https://jr2021.github.io/) (ELLIS Institute Tübingen) and [Arik Reuter](https://arikreuter.github.io/) (Max Planck Institute for Intelligent Systems) - Do-PFN: In-Context Learning for Causal Effect Estimation [(video)](https://youtu.be/yTbY4SpPJcE?si=QE5v44LY7oHoHwyc)
 
 
