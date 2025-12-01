@@ -13,16 +13,6 @@ Subscribe to our [calendar](https://calendar.google.com/calendar/u/2?cid=YXV0b21
 
 ---------
 
-**November 27th 3:00pm CET - [Jacek Golebiowski](https://www.linkedin.com/in/jacek-golebiowski)**
-
-Title: AutoML without data: training small models with 10 examples
-
-Abstract: 
-
-Organizations need AI that works on their messy data—logs, images, notes, reports—but can't afford to send sensitive information to the cloud. Small Language Models (SLMs) run locally on your own hardware, keeping data private while delivering fast results at a fraction of the cost. Traditionally, building custom AI for production tasks requires expert teams and months of development. AutoML addresses part of this by automating model selection and training, but practitioners still face the bottleneck of manually labeling thousands of training examples. This is why ChatGPT succeeded: it only asks you to describe what you want, not provide labeled datasets. We believe custom models need to match this experience, so in this session we present our model training pipeline that extends AutoML to data preparation itself. You define the problem, and a larger AI "teacher" automatically generates and refines training examples to create a specialized "student" model tailored to tasks like request triage, API chat interfaces, and data transformations. We'll dive deeper into the structure of the generated data and demonstrate how to effectively navigate data generation by controlling the latent variables that define each datapoint.
-
----------
-
 **December 11th 3:00pm CET - [Robert Tjarko Lange](https://roberttlange.com/)**
 
 Title: ShinkaEvolve: Towards Open-Ended And Sample-Efficient Program Evolution

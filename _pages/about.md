@@ -19,7 +19,7 @@ All content is free and open to anyone. If you are interested and want to join, 
 
 ### Next Talk
 
-**November 27th 3:00pm CET - [Jacek Golebiowski](https://www.linkedin.com/in/jacek-golebiowski): AutoML without data: training small models with 10 examples**
+**December 11th 3:00pm CET - [Robert Tjarko Lange](https://roberttlange.com/): ShinkaEvolve: Towards Open-Ended And Sample-Efficient Program Evolution**
 
 
 ### Join the Talks
