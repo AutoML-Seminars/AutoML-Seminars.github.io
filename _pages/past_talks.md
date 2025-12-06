@@ -10,8 +10,7 @@ nav_order: 5
 
 ## 2025
 
-[Jacek Golebiowski](https://www.linkedin.com/in/jacek-golebiowski) (distil labs) - AutoML without data: training small models with 10 examples
-
+[Jacek Golebiowski](https://www.linkedin.com/in/jacek-golebiowski) (distil labs) - AutoML without data: training small models with 10 examples [(video)](https://youtu.be/ytlZHxRkWGA?si=Q2L0IQmH2c8-Df61)
 
 [Tome Eftimov](http://cs.ijs.si/eftimov/) (Jožef Stefan Institute) -  Benchmarking Beyond Statistics: Data-Driven Footprints for Explainable Black-Box Optimization [(video)](https://youtu.be/c19iox5tWoE?si=H-nHbQFWop7wNqHz)
 
