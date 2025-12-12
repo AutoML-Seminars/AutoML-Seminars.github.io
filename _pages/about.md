@@ -19,7 +19,7 @@ All content is free and open to anyone. If you are interested and want to join, 
 
 ### Next Talk
 
-**December 11th 3:00pm CET - [Robert Tjarko Lange](https://roberttlange.com/): ShinkaEvolve: Towards Open-Ended And Sample-Efficient Program Evolution**
+**Januar 15th 3:00pm CET - [Andrei Paleyes](https://paleyes.info/): TBA**
 
 
 ### Join the Talks
