@@ -19,7 +19,7 @@ All content is free and open to anyone. If you are interested and want to join, 
 
 ### Next Talk
 
-**Januar 15th 3:00pm CET - [Andrei Paleyes](https://paleyes.info/): TBA**
+**Januar 15th 3:00pm CET - [Andrei Paleyes](https://paleyes.info/): Stop Guessing, Start Discovering Trade-offs in Your ML Models**
 
 
 ### Join the Talks
