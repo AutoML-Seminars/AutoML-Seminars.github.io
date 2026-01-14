@@ -25,7 +25,7 @@ All content is free and open to anyone. If you are interested and want to join, 
 ### Join the Talks
 
 Subscribe to our [Google group](https://groups.google.com/forum/#!forum/automl-seminars) to get all the updates about the seminars. All the information about new talks and how to connect are communicated there.
-Also follow us on [Twitter](https://twitter.com/automlseminar) and subscribe to our [Youtube](https://www.youtube.com/channel/UC3NoO2L7cGs7O3583ig--EA/featured). Subscribe to our [calendar](https://calendar.google.com/calendar/u/2?cid=YXV0b21sc2VtaW5hckBnbWFpbC5jb20) to not miss any talks. 
+Also follow us on [Twitter](https://twitter.com/automlseminar) and subscribe to our [Youtube](https://www.youtube.com/channel/UC3NoO2L7cGs7O3583ig--EA/featured). Subscribe to our [calendar](https://calendar.google.com/calendar/u/2?cid=YXV0b21sc2VtaW5hckBnbWFpbC5jb20) to not miss any talks (you have to log into your Google account first). 
 
 
 
