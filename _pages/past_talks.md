@@ -7,6 +7,9 @@ nav: true
 nav_order: 5
 ---
 
+## 2026
+
+[Andrei Paleyes](https://paleyes.info/) (Pasteur Labs and University of Cambridge) -  Stop Guessing, Start Discovering Trade-offs in Your ML Models [(video)]()
 
 ## 2025
 
