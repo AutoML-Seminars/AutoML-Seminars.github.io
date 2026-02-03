@@ -13,7 +13,7 @@ Subscribe to our [calendar](https://calendar.google.com/calendar/u/2?cid=YXV0b21
 
 ---------
 
-**February 5th 3:00pm CET - [Abdul Fatir Ansari](https://abdulfatir.com/)**
+**February 5th 2:00pm CET - [Abdul Fatir Ansari](https://abdulfatir.com/)**
 
 Title: Chronos-2: From Univariate to Universal Forecasting
 
