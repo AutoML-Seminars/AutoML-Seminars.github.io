@@ -9,7 +9,7 @@ nav_order: 5
 
 ## 2026
 
-[Andrei Paleyes](https://paleyes.info/) (Pasteur Labs and University of Cambridge) -  Stop Guessing, Start Discovering Trade-offs in Your ML Models [(video)]()
+[Andrei Paleyes](https://paleyes.info/) (Pasteur Labs and University of Cambridge) -  Stop Guessing, Start Discovering Trade-offs in Your ML Models [(video)](https://youtu.be/v-BKxthhrHA?si=bI1vC3jlqXlDHVHQ)
 
 ## 2025
 
@@ -22,12 +22,12 @@ nav_order: 5
 [Jake Robertson](https://jr2021.github.io/) (ELLIS Institute Tübingen) and [Arik Reuter](https://arikreuter.github.io/) (Max Planck Institute for Intelligent Systems) - Do-PFN: In-Context Learning for Causal Effect Estimation [(video)](https://youtu.be/yTbY4SpPJcE?si=QE5v44LY7oHoHwyc)
 
 
-[Jan van Rijn](www.universiteitleiden.nl/en/staffmembers/jan-van-rijn#tab-1) (University of Leiden) - Multi-Objective AutoML: Towards Accurate and Robust models [(video)](https://youtu.be/MIseruc1SWA?si=eXUL58y3THZ9qico)
+[Jan van Rijn](https://www.universiteitleiden.nl/en/staffmembers/jan-van-rijn#tab-1) (University of Leiden) - Multi-Objective AutoML: Towards Accurate and Robust models [(video)](https://youtu.be/MIseruc1SWA?si=eXUL58y3THZ9qico)
 
 
 [Carolin Benjamins](https://www.ai.uni-hannover.de/de/institut/team-luhai/benjamins) (University of Hannover) - carps: A Framework for Comparing N Hyperparameter Optimizers on M Benchmarks [(video)](https://youtu.be/1EtNTxT4j18?si=12Zmcttt3lwwQdt6)
 
-[Luigi Acerbi](https://lacerbi.github.io/) (University of Helsinki) - Accelerating Bayesian Inference and Data Acquisition via Amortization [(video)](University of Helsinki)
+[Luigi Acerbi](https://lacerbi.github.io/) (University of Helsinki) - Accelerating Bayesian Inference and Data Acquisition via Amortization [(video)](https://youtu.be/egyUPWe2dSk?si=yUl1r2fzjfGR2zXw)
 
 [Elena Raponi](https://www.universiteitleiden.nl/en/staffmembers/elena-raponi/publications#tab-1) (Leiden University) and [Niki van Stein](https://www.universiteitleiden.nl/en/staffmembers/niki-van-stein#tab-1) (Leiden University) - LLaMEA-BO: A Large Language Model Evolutionary Algorithm for Automatically Generating Bayesian Optimization Algorithms [(video)](https://youtu.be/_owRHzenX-8?si=x1FBnDCJDnXgT4st)
 
@@ -58,7 +58,7 @@ nav_order: 5
 [Katie Everett](https://www.katieeverett.com/) (Google) - Scaling Exponents Across Parameterizations and Optimizers [(video)](https://youtu.be/CnAfD7aVzLg?si=Q9RLPNX8el35xcTw)
 
 
-[Julien Siems](https://juliensiems.github.io/) (University of Freiburg) and [Riccardo Grazzi](https://prolearner.github.io/riccardograzzi.github.io/) (IIT) - Unlocking State-Tracking in Linear RNNs Through Negative Eigenvalues [(video)](https://juliensiems.github.io/)
+[Julien Siems](https://juliensiems.github.io/) (University of Freiburg) and [Riccardo Grazzi](https://prolearner.github.io/riccardograzzi.github.io/) (IIT) - Unlocking State-Tracking in Linear RNNs Through Negative Eigenvalues [(video)](https://youtu.be/E2qBhMmjspU?si=TIDNcDyBIF80FW-O)
 
 
 ## 2024
