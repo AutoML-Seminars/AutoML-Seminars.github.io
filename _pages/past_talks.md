@@ -9,6 +9,9 @@ nav_order: 5
 
 ## 2026
 
+[Abdul Fatir Ansari](https://abdulfatir.com/) (Amazon Web Services): Chronos-2: From Univariate to Universal Forecasting [(video)](https://youtu.be/wSc76uFpFKg)
+
+
 [Andrei Paleyes](https://paleyes.info/) (Pasteur Labs and University of Cambridge) -  Stop Guessing, Start Discovering Trade-offs in Your ML Models [(video)](https://youtu.be/v-BKxthhrHA?si=bI1vC3jlqXlDHVHQ)
 
 ## 2025

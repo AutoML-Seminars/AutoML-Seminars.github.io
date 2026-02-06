@@ -19,8 +19,7 @@ All content is free and open to anyone. If you are interested and want to join, 
 
 ### Next Talk
 
-**February 5th 2:00pm CET - [Abdul Fatir Ansari](https://abdulfatir.com/): Chronos-2: From Univariate to Universal Forecasting**
-
+**TBA**
 
 ### Join the Talks
 
