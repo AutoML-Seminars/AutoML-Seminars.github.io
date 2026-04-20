@@ -19,7 +19,7 @@ All content is free and open to anyone. If you are interested and want to join, 
 
 ### Next Talk
 
-**May 28th 3:00pm CET - [Pieter Gijsbers](https://pgijsbers.github.io/): OpenML: Insights from 10 years and more than a thousand papers**
+**May 14th 3:00pm CET - [Taeyoung Yun](https://dbsxodud-11.github.io/): TBA**
 
 
 ### Join the Talks
