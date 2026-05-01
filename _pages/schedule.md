@@ -12,7 +12,7 @@ Subscribe to our [calendar](https://calendar.google.com/calendar/u/2?cid=YXV0b21
 
 ---------
 
-**May 14th 3:00pm CET - [Taeyoung Yun](https://dbsxodud-11.github.io/)**
+**May 21st 3:00pm CET - [Taeyoung Yun](https://dbsxodud-11.github.io/)**
 
 Title: Posterior Inference in Generative Models for High-dimensional Black-box Optimization
 

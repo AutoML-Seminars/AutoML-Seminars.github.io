@@ -19,7 +19,7 @@ All content is free and open to anyone. If you are interested and want to join, 
 
 ### Next Talk
 
-**May 14th 3:00pm CET - [Taeyoung Yun](https://dbsxodud-11.github.io/): Posterior Inference in Generative Models for High-dimensional Black-box Optimization**
+**May 21st 3:00pm CET - [Taeyoung Yun](https://dbsxodud-11.github.io/): Posterior Inference in Generative Models for High-dimensional Black-box Optimization**
 
 
 ### Join the Talks
