@@ -12,14 +12,6 @@ Subscribe to our [calendar](https://calendar.google.com/calendar/u/2?cid=YXV0b21
 
 ---------
 
-**May 21st 3:00pm CET - [Taeyoung Yun](https://dbsxodud-11.github.io/)**
-
-Title: Posterior Inference in Generative Models for High-dimensional Black-box Optimization
-
-Abstract: The optimization of high-dimensional black-box functions is a ubiquitous challenge across many scientific and engineering disciplines. Traditional high-dimensional Bayesian optimization (BO) primarily relies on trust-region-based optimization of acquisition functions to select candidate points. In this seminar, I will introduce a novel alternative paradigm that proposes candidates directly through generative models. By reformulating  the optimization of the acquisition function under a trust region as a problem of posterior inference, I will detail two of my recent frameworks—DiBO and CiBO. These works demonstrate how generative approaches can successfully and efficiently navigate high-dimensional spaces to solve complex problems in both unconstrained and constrained environments.
-
----------
-
 **May 28th 3:00pm CET - [Pieter Gijsbers](https://pgijsbers.github.io/)**
 
 Title: OpenML - Past, Present, Future
@@ -28,6 +20,14 @@ Abstract: OpenML is an open platform for sharing interconnected AI artifacts, us
 After a brief introduction to the platform, we will have a look at the impact OpenML made by looking at how it has been used in over 1500 papers that cite it.
 We discuss the challenges and successes we've had over the last decade of developing and running the platform, and our plans going forward.
 Finally, we open the floor and encourage you to share your thoughts on how OpenML could better support (your) AutoML research.
+
+---------
+
+**June 18th 3:00pm CET - [Difan Deng](https://www.linkedin.com/in/difan-deng-93013b1b3)**
+
+Title: TBA
+
+Abstract: TBA
 
 ---------
 

@@ -9,8 +9,9 @@ nav_order: 5
 
 ## 2026
 
-[Abdul Fatir Ansari](https://abdulfatir.com/) (Amazon Web Services): Chronos-2: From Univariate to Universal Forecasting [(video)](https://youtu.be/wSc76uFpFKg)
+[Taeyoung Yun](https://dbsxodud-11.github.io/) (KAIST): Posterior Inference in Generative Models for High-dimensional Black-box Optimization
 
+[Abdul Fatir Ansari](https://abdulfatir.com/) (Amazon Web Services): Chronos-2: From Univariate to Universal Forecasting [(video)](https://youtu.be/wSc76uFpFKg)
 
 [Andrei Paleyes](https://paleyes.info/) (Pasteur Labs and University of Cambridge) -  Stop Guessing, Start Discovering Trade-offs in Your ML Models [(video)](https://youtu.be/v-BKxthhrHA?si=bI1vC3jlqXlDHVHQ)
 

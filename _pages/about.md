@@ -19,7 +19,8 @@ All content is free and open to anyone. If you are interested and want to join, 
 
 ### Next Talk
 
-**May 21st 3:00pm CET - [Taeyoung Yun](https://dbsxodud-11.github.io/): Posterior Inference in Generative Models for High-dimensional Black-box Optimization**
+
+**May 28th 3:00pm CET - [Pieter Gijsbers](https://pgijsbers.github.io/): OpenML - Past, Present, Future**
 
 
 ### Join the Talks
