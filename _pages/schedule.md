@@ -12,7 +12,7 @@ Subscribe to our [calendar](https://calendar.google.com/calendar/u/2?cid=YXV0b21
 
 ---------
 
-**June 11th 3:00pm CET - [David Holzmüller](https://dholzmueller.github.io/)**
+**June 11th 4:00pm CET - [David Holzmüller](https://dholzmueller.github.io/)**
 
 Title: TabICLv2: A better, faster, scalable, and open tabular foundation model
 
