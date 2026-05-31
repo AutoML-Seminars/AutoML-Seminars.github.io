@@ -20,7 +20,8 @@ All content is free and open to anyone. If you are interested and want to join, 
 ### Next Talk
 
 
-**May 28th 3:00pm CET - [Pieter Gijsbers](https://pgijsbers.github.io/): OpenML - Past, Present, Future**
+**June 11th 3:00pm CET - [David Holzmüller](https://dholzmueller.github.io/): TabICLv2: A better, faster, scalable, and open tabular foundation model**
+
 
 
 ### Join the Talks

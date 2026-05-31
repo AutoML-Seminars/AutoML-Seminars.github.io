@@ -9,7 +9,9 @@ nav_order: 5
 
 ## 2026
 
-[Taeyoung Yun](https://dbsxodud-11.github.io/) (KAIST): Posterior Inference in Generative Models for High-dimensional Black-box Optimization
+[Pieter Gijsbers](https://pgijsbers.github.io/) (Eindhoven University of Technology): OpenML - Past, Present, Future
+
+[Taeyoung Yun](https://dbsxodud-11.github.io/) (KAIST): Posterior Inference in Generative Models for High-dimensional Black-box Optimization [(video)](https://youtu.be/yTw5rshzoqA?si=8aDPIXmWJnKxCQnU)
 
 [Abdul Fatir Ansari](https://abdulfatir.com/) (Amazon Web Services): Chronos-2: From Univariate to Universal Forecasting [(video)](https://youtu.be/wSc76uFpFKg)
 
