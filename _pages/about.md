@@ -20,9 +20,7 @@ All content is free and open to anyone. If you are interested and want to join, 
 ### Next Talk
 
 
-**June 11th 4:00pm CET - [David Holzmüller](https://dholzmueller.github.io/): TabICLv2: A better, faster, scalable, and open tabular foundation model**
-
-
+**June 18th 3:00pm CET - [Difan Deng](https://www.linkedin.com/in/difan-deng-93013b1b3): Neural Attention Search, Sub-Layer Level Architecture Search**
 
 ### Join the Talks
 

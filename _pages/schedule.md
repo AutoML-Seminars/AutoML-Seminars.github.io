@@ -12,22 +12,13 @@ Subscribe to our [calendar](https://calendar.google.com/calendar/u/2?cid=YXV0b21
 
 ---------
 
-**June 11th 4:00pm CET - [David Holzmüller](https://dholzmueller.github.io/)**
+**June 18th 3:00pm CET - [Difan Deng](https://www.linkedin.com/in/difan-deng-93013b1b3)**
 
-Title: TabICLv2: A better, faster, scalable, and open tabular foundation model
+Title: Neural Attention Search, Sub-Layer Level Architecture Search
 
 Abstract: 
 
-Tabular foundation models, such as TabPFNv2 and TabICL, have recently dethroned gradient-boosted trees at the top of predictive benchmarks, demonstrating the value of in-context learning for tabular data. We introduce TabICLv2, a new state-of-the-art foundation model for regression and classification built on three pillars: (1) a novel synthetic data generation engine designed for high pretraining diversity; (2) various architectural innovations, including a new scalable softmax in attention improving generalization to larger datasets without prohibitive long-sequence pretraining; and (3) optimized pretraining protocols, notably replacing AdamW with the Muon optimizer. On the TabArena and TALENT benchmarks, TabICLv2 without any tuning surpasses the performance of the current state of the art, RealTabPFN-2.5 (hyperparameter-tuned, ensembled, and fine-tuned on real data). With only moderate pretraining compute, TabICLv2 generalizes effectively to million-scale datasets under 50GB GPU memory while being markedly faster than RealTabPFN-2.5. We provide extensive ablation studies to quantify these contributions and commit to open research by first releasing inference code and model weights at this https URL, with synthetic data engine and pretraining code to follow.
-
-
----------
-
-**June 18th 3:00pm CET - [Difan Deng](https://www.linkedin.com/in/difan-deng-93013b1b3)**
-
-Title: TBA
-
-Abstract: TBA
+The quadratic computational complexity of softmax attention becomes a bottleneck in long-context scenarios. Previous sparse attention methods mostly follow fixed rules to sparsify attention maps, whereas the success story of neural architecture search in the era of convolutional neural networks (CNNs) did not carry over to the transformer era. In this talk, we show that the attention map can be considered a one-shot architecture search space, which allows us to search for a cheaper attention operation that adaptively fits the current input context jointly with the model weights. We further introduce two search space designs that measure the information contained within each token in the input context, and 1) assign different sparse attention operations to those tokens with Neural Attention Search to reduce KV cache size while preserving model performance, 2) assigning cheaper linear attention or more expensive softmax attention operations to those tokens with Neural Attention Search-Linear to design a token-level hybrid architecture with better long-context retrieval ability at lower computational costs. We hope that this work provides further insights into sub-layer level NAS search space design, paving the way towards more efficient and scalable inference with large language models.
 
 ---------
 

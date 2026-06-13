@@ -9,6 +9,9 @@ nav_order: 5
 
 ## 2026
 
+[David Holzmüller](https://dholzmueller.github.io/) (INRIA): TabICLv2: A better, faster, scalable, and open tabular foundation model
+
+
 [Pieter Gijsbers](https://pgijsbers.github.io/) (Eindhoven University of Technology): OpenML - Past, Present, Future
 
 [Taeyoung Yun](https://dbsxodud-11.github.io/) (KAIST): Posterior Inference in Generative Models for High-dimensional Black-box Optimization [(video)](https://youtu.be/yTw5rshzoqA?si=8aDPIXmWJnKxCQnU)
