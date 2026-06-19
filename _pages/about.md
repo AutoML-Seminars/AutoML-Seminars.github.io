@@ -20,7 +20,8 @@ All content is free and open to anyone. If you are interested and want to join, 
 ### Next Talk
 
 
-**June 18th 3:00pm CET - [Difan Deng](https://www.linkedin.com/in/difan-deng-93013b1b3): Neural Attention Search, Sub-Layer Level Architecture Search**
+**July 16th 3:00pm CET - [Amir Balef](https://www.balef.me/): Is One Layer Enough? Understanding Inference Dynamics in Tabular Foundation Models**
+
 
 ### Join the Talks
 

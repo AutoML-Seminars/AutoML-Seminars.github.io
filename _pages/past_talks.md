@@ -9,8 +9,9 @@ nav_order: 5
 
 ## 2026
 
-[David Holzmüller](https://dholzmueller.github.io/) (INRIA): TabICLv2: A better, faster, scalable, and open tabular foundation model
+[Difan Deng](https://www.linkedin.com/in/difan-deng-93013b1b3) (University of Hannover): Neural Attention Search
 
+[David Holzmüller](https://dholzmueller.github.io/) (INRIA): TabICLv2: A better, faster, scalable, and open tabular foundation model [(video)](https://youtu.be/MvEkj7TOmj8?si=9--u-TMKlavNA1Rc)
 
 [Pieter Gijsbers](https://pgijsbers.github.io/) (Eindhoven University of Technology): OpenML - Past, Present, Future
 
