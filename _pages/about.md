@@ -20,7 +20,7 @@ All content is free and open to anyone. If you are interested and want to join, 
 ### Next Talk
 
 
-**July 16th 3:00pm CET - [Amir Balef](https://www.balef.me/): Is One Layer Enough? Understanding Inference Dynamics in Tabular Foundation Models**
+**TBA**
 
 
 ### Join the Talks
