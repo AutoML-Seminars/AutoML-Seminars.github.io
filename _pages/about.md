@@ -10,8 +10,8 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-Automated Machine Learning (short AutoML) progressively automates different parts of the machine learning workflow.
-There is a body of work that provides efficient methods to automatically optimize the hyperparameters, such as learning rates, regularization parameters, etc of machine learning methods. To go even one step further, recent work on neural architecture search designs more powerful and efficient neural network architectures in a data-driven way. 
+Automated Machine Learning (short AutoML) automates the design decisions that go into building machine learning and agentic systems, making them more efficient, more robust and accessible to non-experts.
+This includes data preprocessing and feature engineering, model selection, hyperparameter optimization, neural architecture search, routing each task to the most suitable model or algorithm, and tabular foundation models such as TabPFN. 
 
 However, with the rising popularity of AutoML both in academia and industry, it also becomes increasingly harder to keep up with the latest work. The AutoML seminar is a platform to learn and discuss recent work in this field. In regular sessions we organize 40 minute talks by someone from the AutoML community followed by a 20 minute discussion. 
 All content is free and open to anyone. If you are interested and want to join, please follow the steps listed below.
