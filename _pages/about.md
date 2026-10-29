@@ -25,8 +25,13 @@ All content is free and open to anyone. If you are interested and want to join, 
 
 ### Join the Talks
 
-Subscribe to our [Google group](https://groups.google.com/forum/#!forum/automl-seminars) to get all the updates about the seminars. All the information about new talks and how to connect are communicated there.
-Also follow us on [Twitter](https://twitter.com/automlseminar) and subscribe to our [Youtube](https://www.youtube.com/channel/UC3NoO2L7cGs7O3583ig--EA/featured). Subscribe to our [calendar](https://calendar.google.com/calendar/u/2?cid=YXV0b21sc2VtaW5hckBnbWFpbC5jb20) to not miss any talks (you have to log into your Google account first). 
+Subscribe to our calendar to get all the updates about the seminars. All the information about new talks and how to connect is communicated there.
+
+* **Google Calendar:** [add the AutoML Seminar calendar](https://calendar.google.com/calendar/u/0?cid=YXV0b21sc2VtaW5hckBnbWFpbC5jb20)
+* **Apple Calendar, Outlook, Thunderbird, …:** subscribe via [this iCal link](https://calendar.google.com/calendar/ical/automlseminar%40gmail.com/public/basic.ics) (copy it into your calendar app's "subscribe" or "add from URL" option)
+* **No subscription:** [view the calendar in your browser](https://calendar.google.com/calendar/embed?src=automlseminar%40gmail.com)
+
+Also follow us on [Twitter](https://twitter.com/automlseminar) and subscribe to our [Youtube](https://www.youtube.com/channel/UC3NoO2L7cGs7O3583ig--EA/featured) to watch recordings of past talks. 
 
 
 

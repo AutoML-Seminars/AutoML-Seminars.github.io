@@ -8,7 +8,7 @@ nav_order: 4
 ---
 
 
-Subscribe to our [calendar](https://calendar.google.com/calendar/u/2?cid=YXV0b21sc2VtaW5hckBnbWFpbC5jb20) for the most recent schedule.
+See our [calendar](https://calendar.google.com/calendar/embed?src=automlseminar%40gmail.com) for the most recent schedule. To subscribe, see the [About page](/).
 
 ---------
 
