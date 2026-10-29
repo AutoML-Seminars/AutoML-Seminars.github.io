@@ -45,24 +45,15 @@ We particularly invite *junior* researchers to present their work. Talks should 
 
 <table style="width:100%">
   <tr>
-    <td style="text-align:center"><img src="assets/img/aaron.jpg" height="120"></td>
-    <td style="text-align:center"><img src="assets/img/arber.jpg" height="120"></td>
-    <td style="text-align:center"><img src="assets/img/giovanni.jpg" height="120"></td>
-    <td style="text-align:center"><img src="assets/img/jovita_2.jpg" height="120"></td>
-    <td style="text-align:center"><img src="assets/img/rhea.jpg" height="120"></td>
-    <td style="text-align:center"><img src="assets/img/lennart.jpg" height="120"></td>
-    <td style="text-align:center"><img src="assets/img/frank.jpg" height="120"></td>
-    <td style="text-align:center"><img src="assets/img/cedric.jpg" height="120"></td>
+    <td style="text-align:center"><img src="assets/img/aaron.jpg" height="160"></td>
+    <td style="text-align:center"><img src="assets/img/jovita_2.jpg" height="160"></td>
+    <td style="text-align:center"><img src="assets/img/lennart.jpg" height="160"></td>
+    <td style="text-align:center"><img src="assets/img/lukas.jpg" height="160"></td>
   </tr>
   <tr>
-    <td style="text-align:center"><a href="https://aaronkl.github.io/">Aaron Klein</a> <br> ELLIS Institute Tuebingen</td>
-    <td style="text-align:center"><a href="https://ml.informatik.uni-freiburg.de/profile/zela/">Arber Zela</a> <br> University of Freiburg</td>
-    <td style="text-align:center"><a href="https://giovannizappella.github.io/">Giovanni Zappella</a> <br>Amazon Web Services</td>
-    <td style="text-align:center"><a href="https://jovitalukasik.github.io//">Jovita Lukasik</a> <br> University of Siegen</td>
-    <td style="text-align:center"><a href="https://ml.informatik.uni-freiburg.de/profile/sukthanker/">Rhea Sukthanker </a> <br> University of Freiburg</td>
-    <td style="text-align:center"><a href="https://ml.informatik.uni-freiburg.de/profile/purucker/">Lennart Purucker </a> <br> University of Freiburg</td>
-    <td style="text-align:center"><a href="https://ml.informatik.uni-freiburg.de/profile/hutter/">Frank Hutter</a> <br> University of Freiburg</td>
-    <td style="text-align:center"><a href="http://www0.cs.ucl.ac.uk/staff/c.archambeau/">Cedric Archambeau</a> <br> Amazon Web Services</td>
-
+    <td style="text-align:center; vertical-align:top"><a href="https://aaronkl.github.io/">Aaron Klein</a> <br> ELLIS Institute Tuebingen</td>
+    <td style="text-align:center; vertical-align:top"><a href="https://jovitalukasik.github.io//">Jovita Lukasik</a> <br> University of Siegen</td>
+    <td style="text-align:center; vertical-align:top"><a href="https://ml.informatik.uni-freiburg.de/profile/purucker/">Lennart Purucker </a> <br> University of Freiburg <br> Prior Labs</td>
+    <td style="text-align:center; vertical-align:top"><a href="https://www.ai.uni-hannover.de/institut/team-luhai/lukas-fehring">Lukas Fehring</a> <br> Leibniz University Hannover</td>
   </tr>
 </table>
