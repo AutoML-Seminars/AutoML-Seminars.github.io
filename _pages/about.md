@@ -57,3 +57,24 @@ We particularly invite *junior* researchers to present their work. Talks should 
     <td style="text-align:center; vertical-align:top"><a href="https://www.ai.uni-hannover.de/institut/team-luhai/lukas-fehring">Lukas Fehring</a> <br> Leibniz University Hannover</td>
   </tr>
 </table>
+
+
+### Past Organizers
+
+
+<table style="width:100%">
+  <tr>
+    <td style="text-align:center"><img src="assets/img/arber.jpg" height="120"></td>
+    <td style="text-align:center"><img src="assets/img/giovanni.jpg" height="120"></td>
+    <td style="text-align:center"><img src="assets/img/rhea.jpg" height="120"></td>
+    <td style="text-align:center"><img src="assets/img/frank.jpg" height="120"></td>
+    <td style="text-align:center"><img src="assets/img/cedric.jpg" height="120"></td>
+  </tr>
+  <tr>
+    <td style="text-align:center; vertical-align:top; padding:0 6px"><a href="https://ml.informatik.uni-freiburg.de/profile/zela/">Arber Zela</a> <br> University of Freiburg</td>
+    <td style="text-align:center; vertical-align:top; padding:0 6px"><a href="https://giovannizappella.github.io/">Giovanni Zappella</a> <br> Amazon Web Services</td>
+    <td style="text-align:center; vertical-align:top; padding:0 6px"><a href="https://ml.informatik.uni-freiburg.de/profile/sukthanker/">Rhea Sukthanker</a> <br> University of Freiburg</td>
+    <td style="text-align:center; vertical-align:top; padding:0 6px"><a href="https://ml.informatik.uni-freiburg.de/profile/hutter/">Frank Hutter</a> <br> University of Freiburg</td>
+    <td style="text-align:center; vertical-align:top; padding:0 6px"><a href="http://www0.cs.ucl.ac.uk/staff/c.archambeau/">Cedric Archambeau</a> <br> Amazon Web Services</td>
+  </tr>
+</table>
