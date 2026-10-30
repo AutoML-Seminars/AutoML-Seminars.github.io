@@ -13,7 +13,7 @@ See our [calendar](https://calendar.google.com/calendar/embed?src=automlseminar%
 ---------
 
 
-**November 5th 3:00pm CET - [Eliahu Horowitz](https://horwitz.ai)**
+**November 5th 3:00pm CET - [Eliahu Horwitz](https://horwitz.ai)**
 
 Title: What Can We Learn from a Million Models?
 
