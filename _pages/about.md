@@ -20,7 +20,7 @@ All content is free and open to anyone. If you are interested and want to join, 
 ### Next Talk
 
 
-**TBA**
+5.11.2026 3PM CET **[Eliahu Horowitz](https://horwitz.ai)**(CMU): *What Can We Learn from a Million Models?*
 
 
 ### Join the Talks
