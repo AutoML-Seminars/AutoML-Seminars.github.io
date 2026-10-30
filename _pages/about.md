@@ -10,8 +10,8 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-Automated Machine Learning (short AutoML) progressively automates different parts of the machine learning workflow.
-There is a body of work that provides efficient methods to automatically optimize the hyperparameters, such as learning rates, regularization parameters, etc of machine learning methods. To go even one step further, recent work on neural architecture search designs more powerful and efficient neural network architectures in a data-driven way. 
+Automated Machine Learning (short AutoML) automates the design decisions that go into building machine learning and agentic systems, making them more efficient, more robust and accessible to non-experts.
+This includes data preprocessing and feature engineering, model selection, hyperparameter optimization, neural architecture search, routing each task to the most suitable model or algorithm, and tabular foundation models such as TabPFN. 
 
 However, with the rising popularity of AutoML both in academia and industry, it also becomes increasingly harder to keep up with the latest work. The AutoML seminar is a platform to learn and discuss recent work in this field. In regular sessions we organize 40 minute talks by someone from the AutoML community followed by a 20 minute discussion. 
 All content is free and open to anyone. If you are interested and want to join, please follow the steps listed below.
@@ -25,18 +25,24 @@ All content is free and open to anyone. If you are interested and want to join, 
 
 ### Join the Talks
 
-Subscribe to our [Google group](https://groups.google.com/forum/#!forum/automl-seminars) to get all the updates about the seminars. All the information about new talks and how to connect are communicated there.
-Also follow us on [Twitter](https://twitter.com/automlseminar) and subscribe to our [Youtube](https://www.youtube.com/channel/UC3NoO2L7cGs7O3583ig--EA/featured). Subscribe to our [calendar](https://calendar.google.com/calendar/u/2?cid=YXV0b21sc2VtaW5hckBnbWFpbC5jb20) to not miss any talks (you have to log into your Google account first). 
+Subscribe to our calendar to get all the updates about the seminars. All the information about new talks and how to connect is communicated there.
+
+* **Google Calendar:** [add the AutoML Seminar calendar](https://calendar.google.com/calendar/u/0?cid=YXV0b21sc2VtaW5hckBnbWFpbC5jb20)
+* **Apple Calendar, Outlook, Thunderbird, …:** subscribe via [this iCal link](https://calendar.google.com/calendar/ical/automlseminar%40gmail.com/public/basic.ics) (copy it into your calendar app's "subscribe" or "add from URL" option)
+* **No subscription:** [view the calendar in your browser](https://calendar.google.com/calendar/embed?src=automlseminar%40gmail.com)
+
+Also follow us on [Twitter](https://twitter.com/automlseminar) and subscribe to our [Youtube](https://www.youtube.com/channel/UC3NoO2L7cGs7O3583ig--EA/featured) to watch recordings of past talks. 
 
 
 
 ### Become a Speaker
 
 If you want to become a speaker, please send an email to automlseminar - at - gmail - dot - com or contact one of the organizers.
-We particularly invite *junior* researchers to present their work. Talks should meet the following criteria:
-* Is this content interesting for an audience of AutoML experts?
-* Is the talk based on research papers published at a top tier machine learning conference (ICMLR, NeurIPS, ICLR, AutoML Conf etc.)? We are not strict about this. However, if you want to present content which has not been published yet, please send us your draft.  
-* Does the talk present an open-source library that addresses the AutoML community?
+We particularly invite *junior* researchers to present their work. Talks should:
+* be interesting for an audience of AutoML experts
+* be based on research published at a top-tier machine learning conference (ICML, NeurIPS, ICLR, AutoML Conf, etc.) **or** present an open-source library for the AutoML community.
+
+We are not strict about publication: if you want to present work that has not been published yet, please send us a draft.
 
 
 
@@ -45,24 +51,36 @@ We particularly invite *junior* researchers to present their work. Talks should 
 
 <table style="width:100%">
   <tr>
-    <td style="text-align:center"><img src="assets/img/aaron.jpg" height="120"></td>
+    <td style="text-align:center"><img src="assets/img/aaron.jpg" height="160"></td>
+    <td style="text-align:center"><img src="assets/img/jovita_2.jpg" height="160"></td>
+    <td style="text-align:center"><img src="assets/img/lennart.jpg" height="160"></td>
+    <td style="text-align:center"><img src="assets/img/lukas.jpg" height="160"></td>
+  </tr>
+  <tr>
+    <td style="text-align:center; vertical-align:top"><a href="https://aaronkl.github.io/">Aaron Klein</a> <br> ELLIS Institute Tuebingen</td>
+    <td style="text-align:center; vertical-align:top"><a href="https://jovitalukasik.github.io//">Jovita Lukasik</a> <br> University of Siegen</td>
+    <td style="text-align:center; vertical-align:top"><a href="https://ml.informatik.uni-freiburg.de/profile/purucker/">Lennart Purucker </a> <br> University of Freiburg <br> Prior Labs</td>
+    <td style="text-align:center; vertical-align:top"><a href="https://www.ai.uni-hannover.de/institut/team-luhai/lukas-fehring">Lukas Fehring</a> <br> Leibniz University Hannover</td>
+  </tr>
+</table>
+
+
+### Past Organizers
+
+
+<table style="width:100%">
+  <tr>
     <td style="text-align:center"><img src="assets/img/arber.jpg" height="120"></td>
     <td style="text-align:center"><img src="assets/img/giovanni.jpg" height="120"></td>
-    <td style="text-align:center"><img src="assets/img/jovita_2.jpg" height="120"></td>
     <td style="text-align:center"><img src="assets/img/rhea.jpg" height="120"></td>
-    <td style="text-align:center"><img src="assets/img/lennart.jpg" height="120"></td>
     <td style="text-align:center"><img src="assets/img/frank.jpg" height="120"></td>
     <td style="text-align:center"><img src="assets/img/cedric.jpg" height="120"></td>
   </tr>
   <tr>
-    <td style="text-align:center"><a href="https://aaronkl.github.io/">Aaron Klein</a> <br> ELLIS Institute Tuebingen</td>
-    <td style="text-align:center"><a href="https://ml.informatik.uni-freiburg.de/profile/zela/">Arber Zela</a> <br> University of Freiburg</td>
-    <td style="text-align:center"><a href="https://giovannizappella.github.io/">Giovanni Zappella</a> <br>Amazon Web Services</td>
-    <td style="text-align:center"><a href="https://jovitalukasik.github.io//">Jovita Lukasik</a> <br> University of Siegen</td>
-    <td style="text-align:center"><a href="https://ml.informatik.uni-freiburg.de/profile/sukthanker/">Rhea Sukthanker </a> <br> University of Freiburg</td>
-    <td style="text-align:center"><a href="https://ml.informatik.uni-freiburg.de/profile/purucker/">Lennart Purucker </a> <br> University of Freiburg</td>
-    <td style="text-align:center"><a href="https://ml.informatik.uni-freiburg.de/profile/hutter/">Frank Hutter</a> <br> University of Freiburg</td>
-    <td style="text-align:center"><a href="http://www0.cs.ucl.ac.uk/staff/c.archambeau/">Cedric Archambeau</a> <br> Amazon Web Services</td>
-
+    <td style="text-align:center; vertical-align:top; padding:0 6px"><a href="https://ml.informatik.uni-freiburg.de/profile/zela/">Arber Zela</a> <br> University of Freiburg</td>
+    <td style="text-align:center; vertical-align:top; padding:0 6px"><a href="https://giovannizappella.github.io/">Giovanni Zappella</a> <br> Amazon Web Services</td>
+    <td style="text-align:center; vertical-align:top; padding:0 6px"><a href="https://ml.informatik.uni-freiburg.de/profile/sukthanker/">Rhea Sukthanker</a> <br> University of Freiburg</td>
+    <td style="text-align:center; vertical-align:top; padding:0 6px"><a href="https://ml.informatik.uni-freiburg.de/profile/hutter/">Frank Hutter</a> <br> University of Freiburg</td>
+    <td style="text-align:center; vertical-align:top; padding:0 6px"><a href="http://www0.cs.ucl.ac.uk/staff/c.archambeau/">Cedric Archambeau</a> <br> Amazon Web Services</td>
   </tr>
 </table>
