@@ -69,6 +69,7 @@ twitter_username: automlseminar # your Twitter handle
 youtube_id: /channel/UC3NoO2L7cGs7O3583ig--EA
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: # your LinkedIn user name
+linkedin_company: automl-seminar # your LinkedIn company page name
 telegram_username: # your Telegram user name
 scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
