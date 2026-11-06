@@ -9,6 +9,8 @@ nav_order: 5
 
 ## 2026
 
+[Eliahu Horwitz](https://horwitz.ai) (CMU) - What Can We Learn from a Million Models? [(video)](https://youtu.be/-ICb_htEzyY?si=EHKoYqAMZ3ivPbtr)
+
 [Amir Balef](https://www.balef.me/) (TU Dortmund) - Is One Layer Enough? Understanding Inference Dynamics in Tabular Foundation Models [(video)](https://youtu.be/P0-52ooKVuE)
 
 [Difan Deng](https://www.linkedin.com/in/difan-deng-93013b1b3) (University of Hannover) - Neural Attention Search [(video)](https://youtu.be/6AfJX0-AbPg?si=BztFEh1-aay8CAOt)
