@@ -20,7 +20,7 @@ All content is free and open to anyone. If you are interested and want to join, 
 ### Next Talk
 
 
-19.11.2026 3PM CET **[Herilalaina Rakotoarison](https://herilalaina.github.io/)**: *TBA*
+19.11.2026 3PM CET **[Herilalaina Rakotoarison](https://herilalaina.github.io/)**: *An Open-Source Training Dataset for Foundation Models for Hyperparameter Optimization*
 
 
 ### Join the Talks
