@@ -212,3 +212,5 @@ Yan Wu (ETH Zurich) - NAS as Sparse Supernet & Trilevel NAS for Efficient Single
 [Fabio Maria Carlucci](https://fmcarlucci.github.io/) (Huawei) - [Why NAS evaluation is frustratingly hard](https://openreview.net/forum?id=HygrdpVKvr) and [how Generator-based optimization can help](https://arxiv.org/abs/2004.01395) ([Slides](https://docs.google.com/presentation/d/1j9U8Tl1faTkXLN_dc5mf9ack1YVBq3N3FH86wbAyDwg/edit?usp=sharing))
 
 [David Salinas](https://geoalgo.github.io/) (Naver Labs) - [A quantile-based approach for hyperparameter transfer learning](https://proceedings.icml.cc/static/paper_files/icml/2020/4367-Paper.pdf)
+
+{% include video_thumbnails.html %}
