@@ -1,0 +1,214 @@
+<!--
+  Turns the plain Markdown talk list in _pages/past_talks.md into a grid of cards.
+
+  Each talk is still written as one Markdown line:
+    [Speaker](url) (Affiliation) - Title [(video)](https://youtu.be/...)
+
+  Per year (## heading) the talks become cards: a YouTube thumbnail on top
+  (clicking it plays the video in place), then the title and the speaker.
+  Talks without a YouTube "(video)" link get a quiet placeholder instead.
+-->
+<style>
+  .talk-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 2rem 1.5rem;
+    margin: 1rem 0 2.5rem;
+  }
+  @media (max-width: 576px) {
+    .talk-grid { grid-template-columns: minmax(0, 1fr); }
+  }
+  .talk-card {
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+  }
+  .talk-media {
+    position: relative;
+    aspect-ratio: 16 / 9;
+    border-radius: 8px;
+    overflow: hidden;
+    background: var(--global-divider-color);
+  }
+  .talk-media button {
+    all: unset;
+    cursor: pointer;
+    position: absolute;
+    inset: 0;
+  }
+  .talk-media img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    transition: transform 0.3s ease;
+  }
+  .talk-media button:hover img,
+  .talk-media button:focus-visible img { transform: scale(1.04); }
+  .talk-media button:focus-visible { outline: 3px solid var(--global-theme-color); outline-offset: -3px; }
+  .talk-media .play {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 48px;
+    height: 48px;
+    transform: translate(-50%, -50%);
+    border-radius: 50%;
+    background: rgba(0, 0, 0, 0.6);
+    backdrop-filter: blur(2px);
+    transition: background 0.2s, transform 0.2s;
+  }
+  .talk-media button:hover .play,
+  .talk-media button:focus-visible .play {
+    background: var(--global-theme-color);
+    transform: translate(-50%, -50%) scale(1.08);
+  }
+  .talk-media .play::after {
+    content: "";
+    position: absolute;
+    left: 19px;
+    top: 15px;
+    border-style: solid;
+    border-width: 9px 0 9px 14px;
+    border-color: transparent transparent transparent #fff;
+  }
+  .talk-media iframe {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+  .talk-media.no-video {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px dashed var(--global-divider-color);
+    background: transparent;
+    color: var(--global-text-color-light);
+    font-size: 0.8rem;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+  }
+  .talk-title {
+    margin: 0.65rem 0 0.25rem;
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 1.35;
+    color: var(--global-text-color);
+  }
+  .talk-speaker {
+    margin: 0;
+    font-size: 0.85rem;
+    line-height: 1.4;
+    color: var(--global-text-color-light);
+  }
+</style>
+
+<script>
+  (function () {
+    var ID_RE = /(?:youtu\.be\/|youtube\.com\/(?:watch\?(?:.*&)?v=|embed\/))([A-Za-z0-9_-]{11})/;
+    var article = document.querySelector("article");
+    if (!article) return;
+
+    // Find the "(video)" YouTube link in a talk paragraph, remove it, return the video id.
+    function takeVideoId(p) {
+      var link = Array.prototype.find.call(p.querySelectorAll("a"), function (a) {
+        return /^\(?video\)?$/i.test(a.textContent.trim()) && ID_RE.test(a.href);
+      });
+      if (!link) return null;
+      var id = link.href.match(ID_RE)[1];
+      var prev = link.previousSibling;
+      if (prev && prev.nodeType === 3) prev.textContent = prev.textContent.replace(/\s*\(?\s*$/, "");
+      var next = link.nextSibling;
+      if (next && next.nodeType === 3) next.textContent = next.textContent.replace(/^\s*\)?/, "");
+      link.remove();
+      return id;
+    }
+
+    // Split a paragraph's nodes at the first " - " into speaker and title fragments.
+    function split(p) {
+      var speaker = document.createDocumentFragment();
+      var title = document.createDocumentFragment();
+      var target = speaker;
+      Array.prototype.slice.call(p.childNodes).forEach(function (node) {
+        if (target === speaker && node.nodeType === 3 && node.textContent.indexOf(" - ") !== -1) {
+          var i = node.textContent.indexOf(" - ");
+          speaker.appendChild(document.createTextNode(node.textContent.slice(0, i)));
+          title.appendChild(document.createTextNode(node.textContent.slice(i + 3)));
+          target = title;
+        } else {
+          target.appendChild(node);
+        }
+      });
+      return { speaker: speaker, title: title };
+    }
+
+    function media(id, label) {
+      var box = document.createElement("div");
+      box.className = "talk-media";
+      if (!id) {
+        box.classList.add("no-video");
+        box.textContent = "No recording";
+        return box;
+      }
+      var btn = document.createElement("button");
+      btn.type = "button";
+      btn.setAttribute("aria-label", "Play video: " + label);
+      var img = document.createElement("img");
+      img.alt = "";
+      img.loading = "lazy";
+      // hqdefault always exists; once it is shown, try the sharper 16:9 maxresdefault
+      // (no letterbox bars) and swap it in only if YouTube has one for this video.
+      img.src = "https://i.ytimg.com/vi/" + id + "/hqdefault.jpg";
+      img.addEventListener("load", function upgrade() {
+        img.removeEventListener("load", upgrade);
+        var hi = new Image();
+        hi.onload = function () { if (hi.naturalWidth > 120) img.src = hi.src; };
+        hi.src = "https://i.ytimg.com/vi/" + id + "/maxresdefault.jpg";
+      });
+      var play = document.createElement("span");
+      play.className = "play";
+      btn.appendChild(img);
+      btn.appendChild(play);
+      btn.addEventListener("click", function () {
+        var iframe = document.createElement("iframe");
+        iframe.src = "https://www.youtube-nocookie.com/embed/" + id + "?autoplay=1";
+        iframe.title = label;
+        iframe.allow = "autoplay; encrypted-media; picture-in-picture; fullscreen";
+        iframe.allowFullscreen = true;
+        box.replaceChild(iframe, btn);
+      });
+      box.appendChild(btn);
+      return box;
+    }
+
+    article.querySelectorAll("h2").forEach(function (h2) {
+      var grid = document.createElement("div");
+      grid.className = "talk-grid";
+      var el = h2.nextElementSibling;
+      while (el && el.tagName === "P") {
+        var p = el;
+        el = el.nextElementSibling;
+        var id = takeVideoId(p);
+        var parts = split(p);
+
+        var card = document.createElement("div");
+        card.className = "talk-card";
+        var title = document.createElement("p");
+        title.className = "talk-title";
+        title.appendChild(parts.title);
+        var speaker = document.createElement("p");
+        speaker.className = "talk-speaker";
+        speaker.appendChild(parts.speaker);
+
+        card.appendChild(media(id, title.textContent.trim()));
+        card.appendChild(title);
+        card.appendChild(speaker);
+        grid.appendChild(card);
+        p.remove();
+      }
+      h2.parentNode.insertBefore(grid, h2.nextSibling);
+    });
+  })();
+</script>

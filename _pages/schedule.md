@@ -13,7 +13,7 @@ See our [calendar](https://calendar.google.com/calendar/embed?src=automlseminar%
 ---------
 
 
-**November 19th, 3:00pm CET - [Herilalaina Rakotoarison](https://herilalaina.github.io/)**
+**November 19th 3:00pm CET - [Herilalaina Rakotoarison](https://herilalaina.github.io/)**
 
 Title: An Open-Source Training Dataset for Foundation Models for Hyperparameter Optimization
 
@@ -33,9 +33,17 @@ Abstract: TBA
 
 **January 14th 2027 3:00pm CET - [Zhiliang Chen](https://chenzhiliang94.github.io/home/)**
 
-Title: TBA
+Title: Efficiently Estimating Optimal Hyperparameter Scaling Laws through Power-Law Entropy Search
 
-Abstract: TBA
+Abstract: Optimal hyperparameter scaling laws describe how the best hyperparameters for large language model (LLM) training change with model and data scale, enabling practitioners to predict optimal configurations at production scales without expensive large-scale tuning. However, estimating these scaling laws conventionally requires exhaustive grid searches over thousands of training runs, consuming enormous computational resources. We introduce Power-Law Entropy Search (PLES), a computational cost-aware acquisition function built on multi-fidelity Bayesian optimization that efficiently estimates optimal hyperparameter scaling laws through adaptive experimentation. A key innovation in PLES is that it searches for candidates that reduce the overall uncertainty of a scaling law estimate, instead of optimizing a single objective function. At each iteration, PLES selects the candidate configuration that maximally reduces the uncertainty of the scaling law estimates per unit computational cost, naturally favoring informative small-scale experiments. We evaluate PLES on synthetic benchmarks, surrogate models fitted to real LLM training data, and actual LLM pre-training runs. Across all settings, PLES converges to accurate optimal hyperparameter scaling laws using as little as one-tenth of the computational budget required by conventional grid search and other baselines.
+
+---------
+
+**January 28th 2027 3:00pm CET - [Per Kristian Lehre](https://pklehre.github.io/EC-Theory-UoB/Lehre/)**
+
+Title: Automated Design and Analysis of Black-Box Optimisation Algorithms with LLMs
+
+Abstract: The mathematical capabilities of LLMs have improved dramatically. Several long-standing open problems have recently been resolved, and a solution to the Navier-Stokes problem has been claimed. However, these results mostly concern existing mathematical concepts, whereas human mathematicians also invent new concepts and prove statements about them. It is unclear whether LLMs can do the same. Designing an optimisation algorithm and the potential function used to analyse it is exactly this kind of concept invention. Here, we study whether LLMs can simultaneously invent an optimisation algorithm and prove performance guarantees about it. We present a staged agentic pipeline modelled on the research methodology of design and analysis of evolutionary algorithms. The agent proposes black-box optimisation algorithms, and the proof assistant Lean filters out flawed designs. The agent then defines a potential function and proves drift bounds that yield bounds on the expected runtime of the algorithm. All the definitions and theorems constructed by the agent are machine-checked in Lean. At no point in the pipeline are the algorithms compared empirically. On a well-studied problem from the literature (LeadingOnes), the agent rediscovers a known algorithm with expected runtime O(n^2). On a new problem, constructed so that it cannot appear in the LLM’s training data, the agent designs a new algorithm with expected runtime O(n^4), where standard evolutionary algorithms such as the (μ+λ) EA have expected runtime e^Ω(n). For minimisation of integer-valued submodular functions upper bounded by M=n^c, the agent moves beyond evolutionary algorithms and designs a randomised subgradient method on the Lovasz extension and proves an expected runtime of O(n^(2+2c)), which is within a factor n of the best known black-box bounds. To the best of our knowledge, this is the first example of an automated pipeline that designs efficient black-box optimisation algorithms with machine-checked runtime bounds in Lean.
 
 ---------
 
